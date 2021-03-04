@@ -1,0 +1,587 @@
+,Date,Streak,Date_diff,Day,TeamChange,Team,Home_City,Opp,Opp_City,Site,Road_Trip,Home_Stand,Final,Line,Total,SUm,SUr,OUr,ot,Distance
+0,2021-01-13,1,0,Wednesday,False,Avalanche,Denver,Blues,St. Louis,home,0,1,1-4,-150,6.0,-3,L,U,0,0.0
+1,2021-01-15,2,2,Friday,False,Avalanche,Denver,Blues,St. Louis,home,0,2,8-0,-140,5.5,8,W,O,0,0.0
+2,2021-01-19,0,4,Tuesday,False,Avalanche,Denver,Kings,Los Angeles,away,1,0,3-2,-238,6.0,1,W,U,0,1337.6087725135333
+3,2021-01-21,0,2,Thursday,False,Avalanche,Denver,Kings,Los Angeles,away,2,0,2-4,-243,5.5,-2,L,O,0,1337.6087725135333
+4,2021-01-22,0,1,Friday,False,Avalanche,Denver,Ducks,Anaheim,away,3,0,3-2,-185,5.5,1,W,U,1,1324.9561495148268
+5,2021-01-24,0,2,Sunday,False,Avalanche,Denver,Ducks,Anaheim,away,4,0,1-3,-189,5.5,-2,L,U,0,1324.9561495148268
+6,2021-01-26,1,2,Tuesday,False,Avalanche,Denver,Sharks,San Jose,home,0,1,7-3,-210,6.0,4,W,O,0,0.0
+7,2021-01-28,2,2,Thursday,False,Avalanche,Denver,Sharks,San Jose,home,0,2,3-0,-230,6.0,3,W,U,0,0.0
+8,2021-01-31,0,3,Sunday,False,Avalanche,Denver,Wild,St. Paul,away,1,0,3-4,-133,5.5,-1,L,O,1,1135.8067358091375
+9,2021-02-02,1,2,Tuesday,False,Avalanche,Denver,Wild,St. Paul,home,0,1,2-1,-160,5.5,1,W,U,0,0.0
+10,2021-02-14,0,12,Sunday,False,Avalanche,Denver,Knights,Las Vegas,away,1,0,0-1,-105,5.5,-1,L,U,0,976.519709072518
+11,2021-02-16,0,2,Tuesday,False,Avalanche,Denver,Knights,Las Vegas,away,2,0,3-2,109,5.5,1,W,U,0,976.519709072518
+12,2021-02-20,1,4,Saturday,False,Avalanche,Denver,Knights,Las Vegas,home,0,1,3-2,-115,5.5,1,W,U,0,0.0
+13,2021-02-22,2,2,Monday,False,Avalanche,Denver,Knights,Las Vegas,home,0,2,0-3,-135,5.5,-3,L,U,0,0.0
+14,2021-02-24,3,2,Wednesday,False,Avalanche,Denver,Wild,St. Paul,home,0,3,2-6,-175,5.5,-4,L,O,0,0.0
+15,2021-02-26,0,2,Friday,False,Avalanche,Denver,Coyotes,Glendale,away,1,0,3-2,-170,5.5,1,W,U,0,1332.5581355891486
+16,2021-02-27,0,1,Saturday,False,Avalanche,Denver,Coyotes,Glendale,away,2,0,6-2,-170,5.5,4,W,O,0,1332.5581355891486
+17,2021-01-13,0,0,Wednesday,True,Blackhawks,Chicago,Lightning,Tampa,away,1,0,1-5,220,6.5,-4,L,U,0,1614.8198275569168
+18,2021-01-15,0,2,Friday,False,Blackhawks,Chicago,Lightning,Tampa,away,2,0,2-5,219,6.5,-3,L,O,0,1614.8198275569168
+19,2021-01-17,0,2,Sunday,False,Blackhawks,Chicago,Panthers,Sunrise,away,3,0,2-5,136,6.5,-3,L,O,0,1868.0478380571535
+20,2021-01-19,0,2,Tuesday,False,Blackhawks,Chicago,Panthers,Sunrise,away,4,0,4-5,140,6.5,-1,L,O,1,1868.0478380571535
+21,2021-01-22,1,3,Friday,False,Blackhawks,Chicago,Red Wings,Detroit,home,0,1,4-1,-130,6.0,3,W,U,0,0.0
+22,2021-01-27,0,5,Wednesday,False,Blackhawks,Chicago,Predators,Nashville,away,1,0,1-2,158,6.0,-1,L,U,1,638.5191096738978
+23,2021-01-29,1,2,Friday,False,Blackhawks,Chicago,Blue Jackets,Columbus,home,0,1,1-2,105,5.5,-1,L,U,0,0.0
+24,2021-01-31,2,2,Sunday,False,Blackhawks,Chicago,Blue Jackets,Columbus,home,0,2,3-1,100,5.5,2,W,U,0,0.0
+25,2021-02-02,3,2,Tuesday,False,Blackhawks,Chicago,Hurricanes,Raleigh,home,0,3,3-4,145,6.0,-1,L,O,1,0.0
+26,2021-02-04,4,2,Thursday,False,Blackhawks,Chicago,Hurricanes,Raleigh,home,0,4,6-4,160,6.0,2,W,O,0,0.0
+27,2021-02-07,0,3,Sunday,False,Blackhawks,Chicago,Stars,Dallas,away,1,0,2-1,140,5.5,1,W,U,1,1294.7628809401672
+28,2021-02-09,0,2,Tuesday,False,Blackhawks,Chicago,Stars,Dallas,away,2,0,2-1,120,5.5,1,W,U,1,1294.7628809401672
+29,2021-02-11,1,2,Thursday,False,Blackhawks,Chicago,Blue Jackets,Columbus,home,0,1,5-6,-120,5.5,-1,L,O,0,0.0
+30,2021-02-13,2,2,Saturday,False,Blackhawks,Chicago,Blue Jackets,Columbus,home,0,2,3-2,-114,5.5,1,W,U,1,0.0
+31,2021-02-15,0,2,Monday,False,Blackhawks,Chicago,Red Wings,Detroit,away,1,0,3-2,-120,5.5,1,W,U,1,381.9811596314157
+32,2021-02-17,0,2,Wednesday,False,Blackhawks,Chicago,Red Wings,Detroit,away,2,0,2-0,-140,5.5,2,W,U,0,381.9811596314157
+33,2021-02-19,0,2,Friday,False,Blackhawks,Chicago,Hurricanes,Raleigh,away,3,0,3-5,158,6.0,-2,L,O,0,1031.7179363733235
+34,2021-02-23,0,4,Tuesday,False,Blackhawks,Chicago,Blue Jackets,Columbus,away,4,0,6-5,100,5.5,1,W,O,1,443.58788427693275
+35,2021-02-25,0,2,Thursday,False,Blackhawks,Chicago,Blue Jackets,Columbus,away,5,0,2-0,115,6.0,2,W,U,0,443.58788427693275
+36,2021-01-14,0,0,Thursday,True,Blue Jackets,Columbus,Predators,Nashville,away,1,0,1-3,109,5.5,-2,L,U,0,536.1473363482389
+37,2021-01-16,0,2,Saturday,False,Blue Jackets,Columbus,Predators,Nashville,away,2,0,2-5,104,5.5,-3,L,O,0,536.1473363482389
+38,2021-01-18,0,2,Monday,False,Blue Jackets,Columbus,Red Wings,Detroit,away,3,0,3-2,-180,5.5,1,W,U,0,263.15402640816905
+39,2021-01-19,0,1,Tuesday,False,Blue Jackets,Columbus,Red Wings,Detroit,away,4,0,2-3,-172,5.5,-1,L,U,1,263.15402640816905
+40,2021-01-21,1,2,Thursday,False,Blue Jackets,Columbus,Lightning,Tampa,home,0,1,2-3,140,5.5,-1,L,U,1,0.0
+41,2021-01-23,2,2,Saturday,False,Blue Jackets,Columbus,Lightning,Tampa,home,0,2,5-2,155,5.5,3,W,O,0,0.0
+42,2021-01-26,3,3,Tuesday,False,Blue Jackets,Columbus,Panthers,Sunrise,home,0,3,3-4,-115,5.5,-1,L,O,1,0.0
+43,2021-01-28,4,2,Thursday,False,Blue Jackets,Columbus,Panthers,Sunrise,home,0,4,3-2,-105,5.5,1,W,U,1,0.0
+44,2021-01-29,0,1,Friday,False,Blue Jackets,Columbus,Blackhawks,Chicago,away,1,0,2-1,-135,5.5,1,W,U,0,443.58788427693275
+45,2021-01-31,0,2,Sunday,False,Blue Jackets,Columbus,Blackhawks,Chicago,away,2,0,1-3,-110,5.5,-2,L,U,0,443.58788427693275
+46,2021-02-02,1,2,Tuesday,False,Blue Jackets,Columbus,Stars,Dallas,home,0,1,3-6,-110,5.0,-3,L,O,0,0.0
+47,2021-02-04,2,2,Thursday,False,Blue Jackets,Columbus,Stars,Dallas,home,0,2,4-3,110,5.0,1,W,O,0,0.0
+48,2021-02-07,3,3,Sunday,False,Blue Jackets,Columbus,Hurricanes,Raleigh,home,0,3,5-6,125,5.5,-1,L,O,0,0.0
+49,2021-02-08,4,1,Monday,False,Blue Jackets,Columbus,Hurricanes,Raleigh,home,0,4,3-2,130,5.5,1,W,U,0,0.0
+50,2021-02-11,0,3,Thursday,False,Blue Jackets,Columbus,Blackhawks,Chicago,away,1,0,6-5,100,5.5,1,W,O,0,443.58788427693275
+51,2021-02-13,0,2,Saturday,False,Blue Jackets,Columbus,Blackhawks,Chicago,away,2,0,2-3,103,5.5,-1,L,U,1,443.58788427693275
+52,2021-02-15,0,2,Monday,False,Blue Jackets,Columbus,Hurricanes,Raleigh,away,3,0,3-7,162,6.0,-4,L,O,0,602.0852515968929
+53,2021-02-18,1,3,Thursday,False,Blue Jackets,Columbus,Predators,Nashville,home,0,1,3-0,-125,5.5,3,W,U,0,0.0
+54,2021-02-20,2,2,Saturday,False,Blue Jackets,Columbus,Predators,Nashville,home,0,2,2-4,-130,5.5,-2,L,O,0,0.0
+55,2021-02-23,3,3,Tuesday,False,Blue Jackets,Columbus,Blackhawks,Chicago,home,0,3,5-6,-120,5.5,-1,L,O,1,0.0
+56,2021-02-25,4,2,Thursday,False,Blue Jackets,Columbus,Blackhawks,Chicago,home,0,4,0-2,-135,6.0,-2,L,U,0,0.0
+57,2021-01-13,0,0,Wednesday,True,Blues,St. Louis,Avalanche,Denver,away,1,0,4-1,130,6.0,3,W,U,0,1277.9020959762138
+58,2021-01-15,0,2,Friday,False,Blues,St. Louis,Avalanche,Denver,away,2,0,0-8,127,5.5,-8,L,O,0,1277.9020959762138
+59,2021-01-18,1,3,Monday,False,Blues,St. Louis,Sharks,San Jose,home,0,1,5-4,-180,5.5,1,W,O,0,0.0
+60,2021-01-20,2,2,Wednesday,False,Blues,St. Louis,Sharks,San Jose,home,0,2,1-2,-185,6.0,-1,L,U,1,0.0
+61,2021-01-23,3,3,Saturday,False,Blues,St. Louis,Kings,Los Angeles,home,0,3,4-2,-200,5.5,2,W,O,0,0.0
+62,2021-01-24,4,1,Sunday,False,Blues,St. Louis,Kings,Los Angeles,home,0,4,3-6,-200,5.5,-3,L,O,0,0.0
+63,2021-01-26,0,2,Tuesday,False,Blues,St. Louis,Knights,Las Vegas,away,1,0,5-4,130,6.0,1,W,O,1,2215.3707795758255
+64,2021-01-30,0,4,Saturday,False,Blues,St. Louis,Ducks,Anaheim,away,2,0,6-1,-170,5.5,5,W,O,0,2533.733424289053
+65,2021-01-31,0,1,Sunday,False,Blues,St. Louis,Ducks,Anaheim,away,3,0,4-1,-161,5.5,3,W,U,0,2533.733424289053
+66,2021-02-02,1,2,Tuesday,False,Blues,St. Louis,Coyotes,Glendale,home,0,1,4-3,-165,5.5,1,W,O,0,0.0
+67,2021-02-04,2,2,Thursday,False,Blues,St. Louis,Coyotes,Glendale,home,0,2,3-4,-169,5.5,-1,L,O,0,0.0
+68,2021-02-06,3,2,Saturday,False,Blues,St. Louis,Coyotes,Glendale,home,0,3,1-3,-149,5.5,-2,L,U,0,0.0
+69,2021-02-08,4,2,Monday,False,Blues,St. Louis,Coyotes,Glendale,home,0,4,3-4,-160,5.5,-1,L,O,1,0.0
+70,2021-02-12,0,4,Friday,False,Blues,St. Louis,Coyotes,Glendale,away,1,0,4-1,-135,5.5,3,W,U,0,2551.205146693193
+71,2021-02-13,0,1,Saturday,False,Blues,St. Louis,Coyotes,Glendale,away,2,0,5-4,-110,5.5,1,W,O,1,2551.205146693193
+72,2021-02-15,0,2,Monday,False,Blues,St. Louis,Coyotes,Glendale,away,3,0,0-1,-110,5.5,-1,L,U,0,2551.205146693193
+73,2021-02-18,1,3,Thursday,False,Blues,St. Louis,Sharks,San Jose,home,0,1,3-2,-180,5.5,1,W,U,1,0.0
+74,2021-02-22,2,4,Monday,False,Blues,St. Louis,Kings,Los Angeles,home,0,2,0-3,-185,5.5,-3,L,U,0,0.0
+75,2021-02-24,3,2,Wednesday,False,Blues,St. Louis,Kings,Los Angeles,home,0,3,1-2,-150,5.5,-1,L,U,0,0.0
+76,2021-02-27,0,3,Saturday,False,Blues,St. Louis,Sharks,San Jose,away,1,0,7-6,-170,5.5,1,W,O,0,2770.106851009967
+77,2021-01-14,0,0,Thursday,True,Bruins,Boston,Devils,Newark,away,1,0,3-2,-185,5.5,1,W,U,1,316.2933444157174
+78,2021-01-16,0,2,Saturday,False,Bruins,Boston,Devils,Newark,away,2,0,1-2,-184,5.5,-1,L,U,1,316.2933444157174
+79,2021-01-18,0,2,Monday,False,Bruins,Boston,Islanders,Uniondale,away,3,0,0-1,-127,5.5,-1,L,U,0,280.1512652110888
+80,2021-01-21,1,3,Thursday,False,Bruins,Boston,Flyers,Philadelphia,home,0,1,5-4,-145,5.5,1,W,O,1,0.0
+81,2021-01-23,2,2,Saturday,False,Bruins,Boston,Flyers,Philadelphia,home,0,2,6-1,-145,5.5,5,W,O,0,0.0
+82,2021-01-26,3,3,Tuesday,False,Bruins,Boston,Penguins,Pittsburgh,home,0,3,3-2,-135,5.5,1,W,U,1,0.0
+83,2021-01-28,4,2,Thursday,False,Bruins,Boston,Penguins,Pittsburgh,home,0,4,4-1,-130,5.5,3,W,U,0,0.0
+84,2021-01-30,0,2,Saturday,False,Bruins,Boston,Capitals,Washington,away,1,0,3-4,-140,5.5,-1,L,O,1,635.2661040701256
+85,2021-02-01,0,2,Monday,False,Bruins,Boston,Capitals,Washington,away,2,0,5-3,-145,5.5,2,W,O,0,635.2661040701256
+86,2021-02-03,0,2,Wednesday,False,Bruins,Boston,Flyers,Philadelphia,away,3,0,4-3,-135,5.5,1,W,O,1,436.0523329701142
+87,2021-02-05,0,2,Friday,False,Bruins,Boston,Flyers,Philadelphia,away,4,0,2-1,-145,5.5,1,W,U,0,436.0523329701142
+88,2021-02-10,0,5,Wednesday,False,Bruins,Boston,Rangers,New York,away,5,0,3-2,-175,5.5,1,W,U,1,306.5470647537847
+89,2021-02-12,0,2,Friday,False,Bruins,Boston,Rangers,New York,away,6,0,1-0,-175,5.5,1,W,U,0,306.5470647537847
+90,2021-02-13,0,1,Saturday,False,Bruins,Boston,Islanders,Uniondale,away,7,0,2-4,-121,5.0,-2,L,O,0,280.1512652110888
+91,2021-02-18,1,5,Thursday,False,Bruins,Boston,Devils,Newark,home,0,1,2-3,-220,5.5,-1,L,U,0,0.0
+92,2021-02-21,2,3,Sunday,False,Bruins,Boston,Flyers,Philadelphia,home,0,2,7-3,-175,5.5,4,W,O,0,0.0
+93,2021-02-25,0,4,Thursday,False,Bruins,Boston,Islanders,Uniondale,away,1,0,2-7,-116,5.5,-5,L,O,0,280.1512652110888
+94,2021-02-26,0,1,Friday,False,Bruins,Boston,Rangers,New York,away,2,0,2-6,-155,5.5,-4,L,O,0,306.5470647537847
+95,2021-01-13,0,0,Wednesday,True,Canadiens,Montreal,Maple Leafs,Toronto,away,1,0,4-5,131,6.0,-1,L,O,1,502.10702739918554
+96,2021-01-16,0,3,Saturday,False,Canadiens,Montreal,Oilers,Edmonton,away,2,0,5-1,-110,6.5,4,W,U,0,2979.800687480477
+97,2021-01-18,0,2,Monday,False,Canadiens,Montreal,Oilers,Edmonton,away,3,0,3-1,-105,6.5,2,W,U,0,2979.800687480477
+98,2021-01-20,0,2,Wednesday,False,Canadiens,Montreal,Canucks,Vancouver,away,4,0,5-6,-121,6.0,-1,L,O,1,3694.2097584771163
+99,2021-01-21,0,1,Thursday,False,Canadiens,Montreal,Canucks,Vancouver,away,5,0,7-3,-149,6.5,4,W,O,0,3694.2097584771163
+100,2021-01-23,0,2,Saturday,False,Canadiens,Montreal,Canucks,Vancouver,away,6,0,5-2,-145,6.0,3,W,O,0,3694.2097584771163
+101,2021-01-28,1,5,Thursday,False,Canadiens,Montreal,Flames,Calgary,home,0,1,4-2,-125,6.0,2,W,P,0,0.0
+102,2021-01-30,2,2,Saturday,False,Canadiens,Montreal,Flames,Calgary,home,0,2,0-2,-130,6.0,-2,L,U,0,0.0
+103,2021-02-01,3,2,Monday,False,Canadiens,Montreal,Canucks,Vancouver,home,0,3,6-2,-165,6.5,4,W,O,0,0.0
+104,2021-02-02,4,1,Tuesday,False,Canadiens,Montreal,Canucks,Vancouver,home,0,4,5-3,-165,6.5,2,W,O,0,0.0
+105,2021-02-04,5,2,Thursday,False,Canadiens,Montreal,Senators,Ottawa,home,0,5,2-3,-323,6.5,-1,L,U,0,0.0
+106,2021-02-06,0,2,Saturday,False,Canadiens,Montreal,Senators,Ottawa,away,1,0,2-1,-250,6.5,1,W,U,0,162.89704943731655
+107,2021-02-10,1,4,Wednesday,False,Canadiens,Montreal,Maple Leafs,Toronto,home,0,1,2-4,-115,6.5,-2,L,U,0,0.0
+108,2021-02-11,2,1,Thursday,False,Canadiens,Montreal,Oilers,Edmonton,home,0,2,0-3,-155,6.5,-3,L,U,0,0.0
+109,2021-02-13,0,2,Saturday,False,Canadiens,Montreal,Maple Leafs,Toronto,away,1,0,2-1,120,6.5,1,W,U,0,502.10702739918554
+110,2021-02-20,1,7,Saturday,False,Canadiens,Montreal,Maple Leafs,Toronto,home,0,1,3-5,-105,6.5,-2,L,O,0,0.0
+111,2021-02-21,0,1,Sunday,False,Canadiens,Montreal,Senators,Ottawa,away,1,0,2-3,-212,6.0,-1,L,U,1,162.89704943731655
+112,2021-02-23,0,2,Tuesday,False,Canadiens,Montreal,Senators,Ottawa,away,2,0,4-5,-200,6.0,-1,L,O,1,162.89704943731655
+113,2021-02-25,0,2,Thursday,False,Canadiens,Montreal,Jets,Winnipeg,away,3,0,3-6,-121,6.0,-3,L,O,0,1824.0029677356008
+114,2021-01-13,0,0,Wednesday,True,Canucks,Vancouver,Oilers,Edmonton,away,1,0,5-3,105,6.0,2,W,O,0,819.3106644071983
+115,2021-01-14,0,1,Thursday,False,Canucks,Vancouver,Oilers,Edmonton,away,2,0,2-5,118,6.0,-3,L,O,0,819.3106644071983
+116,2021-01-16,0,2,Saturday,False,Canucks,Vancouver,Flames,Calgary,away,3,0,0-3,127,6.5,-3,L,U,0,676.3475747106531
+117,2021-01-18,0,2,Monday,False,Canucks,Vancouver,Flames,Calgary,away,4,0,2-5,136,6.0,-3,L,O,0,676.3475747106531
+118,2021-01-20,1,2,Wednesday,False,Canucks,Vancouver,Canadiens,Montreal,home,0,1,6-5,110,6.0,1,W,O,1,0.0
+119,2021-01-21,2,1,Thursday,False,Canucks,Vancouver,Canadiens,Montreal,home,0,2,3-7,130,6.5,-4,L,O,0,0.0
+120,2021-01-23,3,2,Saturday,False,Canucks,Vancouver,Canadiens,Montreal,home,0,3,2-5,125,6.0,-3,L,O,0,0.0
+121,2021-01-25,4,2,Monday,False,Canucks,Vancouver,Senators,Ottawa,home,0,4,7-1,-145,6.5,6,W,O,0,0.0
+122,2021-01-27,5,2,Wednesday,False,Canucks,Vancouver,Senators,Ottawa,home,0,5,5-1,-155,6.5,4,W,U,0,0.0
+123,2021-01-28,6,1,Thursday,False,Canucks,Vancouver,Senators,Ottawa,home,0,6,4-1,-170,6.5,3,W,U,0,0.0
+124,2021-02-01,0,4,Monday,False,Canucks,Vancouver,Canadiens,Montreal,away,1,0,2-6,149,6.5,-4,L,O,0,3694.2097584771163
+125,2021-02-02,0,1,Tuesday,False,Canucks,Vancouver,Canadiens,Montreal,away,2,0,3-5,149,6.5,-2,L,O,0,3694.2097584771163
+126,2021-02-04,0,2,Thursday,False,Canucks,Vancouver,Maple Leafs,Toronto,away,3,0,3-7,153,6.5,-4,L,O,0,3367.9263341041437
+127,2021-02-06,0,2,Saturday,False,Canucks,Vancouver,Maple Leafs,Toronto,away,4,0,1-5,153,6.5,-4,L,U,0,3367.9263341041437
+128,2021-02-08,0,2,Monday,False,Canucks,Vancouver,Maple Leafs,Toronto,away,5,0,1-3,171,6.5,-2,L,U,0,3367.9263341041437
+129,2021-02-11,1,3,Thursday,False,Canucks,Vancouver,Flames,Calgary,home,0,1,1-3,120,6.0,-2,L,U,0,0.0
+130,2021-02-13,2,2,Saturday,False,Canucks,Vancouver,Flames,Calgary,home,0,2,3-1,115,6.0,2,W,U,0,0.0
+131,2021-02-15,3,2,Monday,False,Canucks,Vancouver,Flames,Calgary,home,0,3,3-4,115,6.0,-1,L,O,1,0.0
+132,2021-02-17,0,2,Wednesday,False,Canucks,Vancouver,Flames,Calgary,away,1,0,5-1,140,6.0,4,W,P,0,676.3475747106531
+133,2021-02-19,1,2,Friday,False,Canucks,Vancouver,Jets,Winnipeg,home,0,1,0-2,-130,6.5,-2,L,U,0,0.0
+134,2021-02-21,2,2,Sunday,False,Canucks,Vancouver,Jets,Winnipeg,home,0,2,3-4,-110,6.0,-1,L,O,1,0.0
+135,2021-02-23,3,2,Tuesday,False,Canucks,Vancouver,Oilers,Edmonton,home,0,3,3-4,120,6.5,-1,L,O,0,0.0
+136,2021-02-25,4,2,Thursday,False,Canucks,Vancouver,Oilers,Edmonton,home,0,4,0-3,125,6.5,-3,L,U,0,0.0
+137,2021-01-14,0,0,Thursday,True,Capitals,Washington,Sabres,Buffalo,away,1,0,6-4,-130,6.0,2,W,O,0,469.64323435676556
+138,2021-01-15,0,1,Friday,False,Capitals,Washington,Sabres,Buffalo,away,2,0,2-1,-120,6.0,1,W,U,0,469.64323435676556
+139,2021-01-17,0,2,Sunday,False,Capitals,Washington,Penguins,Pittsburgh,away,3,0,3-4,113,6.5,-1,L,O,1,306.10280732257667
+140,2021-01-19,0,2,Tuesday,False,Capitals,Washington,Penguins,Pittsburgh,away,4,0,4-5,122,6.5,-1,L,O,1,306.10280732257667
+141,2021-01-22,1,3,Friday,False,Capitals,Washington,Sabres,Buffalo,home,0,1,4-3,-105,5.5,1,W,O,1,0.0
+142,2021-01-24,2,2,Sunday,False,Capitals,Washington,Sabres,Buffalo,home,0,2,3-4,105,6.0,-1,L,O,1,0.0
+143,2021-01-26,3,2,Tuesday,False,Capitals,Washington,Islanders,Uniondale,home,0,3,3-2,110,5.5,1,W,U,0,0.0
+144,2021-01-28,4,2,Thursday,False,Capitals,Washington,Islanders,Uniondale,home,0,4,6-3,110,5.5,3,W,O,0,0.0
+145,2021-01-30,5,2,Saturday,False,Capitals,Washington,Bruins,Boston,home,0,5,4-3,130,5.5,1,W,O,1,0.0
+146,2021-02-01,6,2,Monday,False,Capitals,Washington,Bruins,Boston,home,0,6,3-5,125,5.5,-2,L,O,0,0.0
+147,2021-02-04,0,3,Thursday,False,Capitals,Washington,Rangers,New York,away,1,0,2-4,104,6.5,-2,L,U,0,328.7316497653234
+148,2021-02-07,1,3,Sunday,False,Capitals,Washington,Flyers,Philadelphia,home,0,1,4-7,105,6.0,-3,L,O,0,0.0
+149,2021-02-14,0,7,Sunday,False,Capitals,Washington,Penguins,Pittsburgh,away,1,0,3-6,109,6.5,-3,L,O,0,306.10280732257667
+150,2021-02-16,0,2,Tuesday,False,Capitals,Washington,Penguins,Pittsburgh,away,2,0,3-1,105,6.5,2,W,U,0,306.10280732257667
+151,2021-02-18,1,2,Thursday,False,Capitals,Washington,Sabres,Buffalo,home,0,1,3-1,-160,6.0,2,W,U,0,0.0
+152,2021-02-20,2,2,Saturday,False,Capitals,Washington,Rangers,New York,home,0,2,1-4,-145,6.0,-3,L,U,0,0.0
+153,2021-02-21,3,1,Sunday,False,Capitals,Washington,Devils,Newark,home,0,3,4-3,-155,6.5,1,W,O,0,0.0
+154,2021-02-23,4,2,Tuesday,False,Capitals,Washington,Penguins,Pittsburgh,home,0,4,2-3,-110,6.5,-1,L,U,1,0.0
+155,2021-02-25,5,2,Thursday,False,Capitals,Washington,Penguins,Pittsburgh,home,0,5,5-2,-110,6.5,3,W,O,0,0.0
+156,2021-02-27,0,2,Saturday,False,Capitals,Washington,Devils,Newark,away,1,0,5-2,-125,6.0,3,W,O,0,319.20216357198694
+157,2021-01-14,1,0,Thursday,True,Coyotes,Glendale,Sharks,San Jose,home,0,1,3-4,-135,5.5,-1,L,O,1,0.0
+158,2021-01-16,2,2,Saturday,False,Coyotes,Glendale,Sharks,San Jose,home,0,2,5-3,-130,5.5,2,W,O,0,0.0
+159,2021-01-18,0,2,Monday,False,Coyotes,Glendale,Knights,Las Vegas,away,1,0,2-4,180,5.5,-2,L,O,0,360.4946419402471
+160,2021-01-20,0,2,Wednesday,False,Coyotes,Glendale,Knights,Las Vegas,away,2,0,2-5,166,5.5,-3,L,O,0,360.4946419402471
+161,2021-01-22,1,2,Friday,False,Coyotes,Glendale,Knights,Las Vegas,home,0,1,5-2,155,5.5,3,W,O,0,0.0
+162,2021-01-24,2,2,Sunday,False,Coyotes,Glendale,Knights,Las Vegas,home,0,2,0-1,155,5.5,-1,L,U,0,0.0
+163,2021-01-26,3,2,Tuesday,False,Coyotes,Glendale,Ducks,Anaheim,home,0,3,0-1,-135,5.5,-1,L,U,0,0.0
+164,2021-01-28,4,2,Thursday,False,Coyotes,Glendale,Ducks,Anaheim,home,0,4,3-2,-125,5.0,1,W,P,0,0.0
+165,2021-02-02,0,5,Tuesday,False,Coyotes,Glendale,Blues,St. Louis,away,1,0,3-4,149,5.5,-1,L,O,0,2551.205146693193
+166,2021-02-04,0,2,Thursday,False,Coyotes,Glendale,Blues,St. Louis,away,2,0,4-3,150,5.5,1,W,O,0,2551.205146693193
+167,2021-02-06,0,2,Saturday,False,Coyotes,Glendale,Blues,St. Louis,away,3,0,3-1,130,5.5,2,W,U,0,2551.205146693193
+168,2021-02-08,0,2,Monday,False,Coyotes,Glendale,Blues,St. Louis,away,4,0,4-3,140,5.5,1,W,O,1,2551.205146693193
+169,2021-02-12,1,4,Friday,False,Coyotes,Glendale,Blues,St. Louis,home,0,1,1-4,115,5.5,-3,L,U,0,0.0
+170,2021-02-13,2,1,Saturday,False,Coyotes,Glendale,Blues,St. Louis,home,0,2,4-5,-110,5.5,-1,L,O,1,0.0
+171,2021-02-15,3,2,Monday,False,Coyotes,Glendale,Blues,St. Louis,home,0,3,1-0,100,5.5,1,W,U,0,0.0
+172,2021-02-18,4,3,Thursday,False,Coyotes,Glendale,Kings,Los Angeles,home,0,4,2-3,-175,5.5,-1,L,U,1,0.0
+173,2021-02-20,5,2,Saturday,False,Coyotes,Glendale,Kings,Los Angeles,home,0,5,2-4,-160,5.5,-2,L,O,0,0.0
+174,2021-02-22,6,2,Monday,False,Coyotes,Glendale,Ducks,Anaheim,home,0,6,4-3,-160,5.0,1,W,O,0,0.0
+175,2021-02-24,7,2,Wednesday,False,Coyotes,Glendale,Ducks,Anaheim,home,0,7,4-3,-161,5.0,1,W,O,1,0.0
+176,2021-02-26,8,2,Friday,False,Coyotes,Glendale,Avalanche,Denver,home,0,8,2-3,150,5.5,-1,L,U,0,0.0
+177,2021-02-27,9,1,Saturday,False,Coyotes,Glendale,Avalanche,Denver,home,0,9,2-6,150,5.5,-4,L,O,0,0.0
+178,2021-01-14,10,0,Thursday,True,Devils,Newark,Bruins,Boston,home,0,1,2-3,165,5.5,-1,L,U,1,0.0
+179,2021-01-16,11,2,Saturday,False,Devils,Newark,Bruins,Boston,home,0,2,2-1,165,5.5,1,W,U,1,0.0
+180,2021-01-19,0,3,Tuesday,False,Devils,Newark,Rangers,New York,away,1,0,4-3,130,6.0,1,W,O,0,14.28298085571759
+181,2021-01-21,0,2,Thursday,False,Devils,Newark,Islanders,Uniondale,away,2,0,1-4,161,5.5,-3,L,U,0,49.37792838824772
+182,2021-01-24,1,3,Sunday,False,Devils,Newark,Islanders,Uniondale,home,0,1,2-0,145,5.5,2,W,U,0,0.0
+183,2021-01-26,2,2,Tuesday,False,Devils,Newark,Flyers,Philadelphia,home,0,2,3-5,130,5.5,-2,L,O,0,0.0
+184,2021-01-28,3,2,Thursday,False,Devils,Newark,Flyers,Philadelphia,home,0,3,1-3,140,5.5,-2,L,U,0,0.0
+185,2021-01-30,0,2,Saturday,False,Devils,Newark,Sabres,Buffalo,away,1,0,3-4,140,5.5,-1,L,O,1,458.1494246688932
+186,2021-01-31,0,1,Sunday,False,Devils,Newark,Sabres,Buffalo,away,2,0,5-3,130,5.5,2,W,O,0,458.1494246688932
+187,2021-02-16,0,16,Tuesday,False,Devils,Newark,Rangers,New York,away,3,0,5-2,120,5.5,3,W,O,0,14.28298085571759
+188,2021-02-18,0,2,Thursday,False,Devils,Newark,Bruins,Boston,away,4,0,3-2,180,5.5,1,W,U,0,316.2933444157174
+189,2021-02-20,1,2,Saturday,False,Devils,Newark,Sabres,Buffalo,home,0,1,2-3,-135,5.5,-1,L,U,0,0.0
+190,2021-02-21,0,1,Sunday,False,Devils,Newark,Capitals,Washington,away,1,0,3-4,140,6.5,-1,L,O,0,319.20216357198694
+191,2021-02-23,1,2,Tuesday,False,Devils,Newark,Sabres,Buffalo,home,0,1,1-4,-155,5.5,-3,L,U,0,0.0
+192,2021-02-25,0,2,Thursday,False,Devils,Newark,Sabres,Buffalo,away,1,0,4-3,-120,5.5,1,W,O,1,458.1494246688932
+193,2021-02-27,1,2,Saturday,False,Devils,Newark,Capitals,Washington,home,0,1,2-5,105,6.0,-3,L,O,0,0.0
+194,2021-01-14,0,0,Thursday,True,Ducks,Anaheim,Knights,Las Vegas,away,1,0,2-5,198,6.0,-3,L,O,0,361.33618059388084
+195,2021-01-16,0,2,Saturday,False,Ducks,Anaheim,Knights,Las Vegas,away,2,0,1-2,196,6.0,-1,L,U,1,361.33618059388084
+196,2021-01-18,1,2,Monday,False,Ducks,Anaheim,Wild,St. Paul,home,0,1,1-0,120,5.5,1,W,U,0,0.0
+197,2021-01-20,2,2,Wednesday,False,Ducks,Anaheim,Wild,St. Paul,home,0,2,2-3,120,5.5,-1,L,U,0,0.0
+198,2021-01-22,3,2,Friday,False,Ducks,Anaheim,Avalanche,Denver,home,0,3,2-3,165,5.5,-1,L,U,1,0.0
+199,2021-01-24,4,2,Sunday,False,Ducks,Anaheim,Avalanche,Denver,home,0,4,3-1,170,5.5,2,W,U,0,0.0
+200,2021-01-26,0,2,Tuesday,False,Ducks,Anaheim,Coyotes,Glendale,away,1,0,1-0,115,5.5,1,W,U,0,46.51426158835328
+201,2021-01-28,0,2,Thursday,False,Ducks,Anaheim,Coyotes,Glendale,away,2,0,2-3,113,5.0,-1,L,P,0,46.51426158835328
+202,2021-01-30,1,2,Saturday,False,Ducks,Anaheim,Blues,St. Louis,home,0,1,1-6,155,5.5,-5,L,O,0,0.0
+203,2021-01-31,2,1,Sunday,False,Ducks,Anaheim,Blues,St. Louis,home,0,2,1-4,140,5.5,-3,L,U,0,0.0
+204,2021-02-02,0,2,Tuesday,False,Ducks,Anaheim,Kings,Los Angeles,away,1,0,3-1,100,5.5,2,W,U,0,39.06753002469757
+205,2021-02-05,1,3,Friday,False,Ducks,Anaheim,Sharks,San Jose,home,0,1,4-5,-115,5.5,-1,L,O,1,0.0
+206,2021-02-06,2,1,Saturday,False,Ducks,Anaheim,Sharks,San Jose,home,0,2,2-1,-115,6.0,1,W,U,1,0.0
+207,2021-02-09,0,3,Tuesday,False,Ducks,Anaheim,Knights,Las Vegas,away,1,0,4-5,198,5.5,-1,L,O,0,361.33618059388084
+208,2021-02-11,0,2,Thursday,False,Ducks,Anaheim,Knights,Las Vegas,away,2,0,1-0,170,5.5,1,W,U,0,361.33618059388084
+209,2021-02-15,0,4,Monday,False,Ducks,Anaheim,Sharks,San Jose,away,3,0,2-3,100,5.5,-1,L,U,0,529.9506019873951
+210,2021-02-18,1,3,Thursday,False,Ducks,Anaheim,Wild,St. Paul,home,0,1,1-3,105,5.5,-2,L,U,0,0.0
+211,2021-02-20,2,2,Saturday,False,Ducks,Anaheim,Wild,St. Paul,home,0,2,1-5,115,5.5,-4,L,O,0,0.0
+212,2021-02-22,0,2,Monday,False,Ducks,Anaheim,Coyotes,Glendale,away,1,0,3-4,144,5.0,-1,L,O,0,46.51426158835328
+213,2021-02-24,0,2,Wednesday,False,Ducks,Anaheim,Coyotes,Glendale,away,2,0,3-4,145,5.0,-1,L,O,1,46.51426158835328
+214,2021-02-27,1,3,Saturday,False,Ducks,Anaheim,Knights,Las Vegas,home,0,1,2-3,185,5.5,-1,L,U,1,0.0
+215,2021-01-14,0,0,Thursday,True,Flames,Calgary,Jets,Winnipeg,away,1,0,3-4,-116,5.5,-1,L,O,1,1205.5877673387997
+216,2021-01-16,1,2,Saturday,False,Flames,Calgary,Canucks,Vancouver,home,0,1,3-0,-140,6.5,3,W,U,0,0.0
+217,2021-01-18,2,2,Monday,False,Flames,Calgary,Canucks,Vancouver,home,0,2,5-2,-150,6.0,3,W,O,0,0.0
+218,2021-01-24,3,6,Sunday,False,Flames,Calgary,Maple Leafs,Toronto,home,0,3,2-3,100,6.0,-1,L,U,0,0.0
+219,2021-01-26,4,2,Tuesday,False,Flames,Calgary,Maple Leafs,Toronto,home,0,4,3-4,-105,6.0,-1,L,O,0,0.0
+220,2021-01-28,0,2,Thursday,False,Flames,Calgary,Canadiens,Montreal,away,1,0,2-4,113,6.0,-2,L,P,0,3025.3772921817585
+221,2021-01-30,0,2,Saturday,False,Flames,Calgary,Canadiens,Montreal,away,2,0,2-0,120,6.0,2,W,U,0,3025.3772921817585
+222,2021-02-01,0,2,Monday,False,Flames,Calgary,Jets,Winnipeg,away,3,0,4-3,-125,6.0,1,W,O,1,1205.5877673387997
+223,2021-02-02,0,1,Tuesday,False,Flames,Calgary,Jets,Winnipeg,away,4,0,2-3,-116,6.0,-1,L,U,0,1205.5877673387997
+224,2021-02-04,0,2,Thursday,False,Flames,Calgary,Jets,Winnipeg,away,5,0,1-4,-127,6.0,-3,L,U,0,1205.5877673387997
+225,2021-02-06,1,2,Saturday,False,Flames,Calgary,Oilers,Edmonton,home,0,1,6-4,-130,6.5,2,W,O,0,0.0
+226,2021-02-09,2,3,Tuesday,False,Flames,Calgary,Jets,Winnipeg,home,0,2,3-2,-125,6.0,1,W,U,0,0.0
+227,2021-02-11,0,2,Thursday,False,Flames,Calgary,Canucks,Vancouver,away,1,0,3-1,-140,6.0,2,W,U,0,676.3475747106531
+228,2021-02-13,0,2,Saturday,False,Flames,Calgary,Canucks,Vancouver,away,2,0,1-3,-127,6.0,-2,L,U,0,676.3475747106531
+229,2021-02-15,0,2,Monday,False,Flames,Calgary,Canucks,Vancouver,away,3,0,4-3,-135,6.0,1,W,O,1,676.3475747106531
+230,2021-02-17,1,2,Wednesday,False,Flames,Calgary,Canucks,Vancouver,home,0,1,1-5,-160,6.0,-4,L,P,0,0.0
+231,2021-02-19,2,2,Friday,False,Flames,Calgary,Oilers,Edmonton,home,0,2,1-2,-110,6.5,-1,L,U,0,0.0
+232,2021-02-22,0,3,Monday,False,Flames,Calgary,Maple Leafs,Toronto,away,1,0,3-0,130,6.5,3,W,U,0,2717.3383291181954
+233,2021-02-24,0,2,Wednesday,False,Flames,Calgary,Maple Leafs,Toronto,away,2,0,1-2,131,6.0,-1,L,U,1,2717.3383291181954
+234,2021-02-25,0,1,Thursday,False,Flames,Calgary,Senators,Ottawa,away,3,0,1-6,-147,6.0,-5,L,O,0,2883.5825749967157
+235,2021-02-27,0,2,Saturday,False,Flames,Calgary,Senators,Ottawa,away,4,0,6-3,-149,6.0,3,W,O,0,2883.5825749967157
+236,2021-01-13,1,0,Wednesday,True,Flyers,Philadelphia,Penguins,Pittsburgh,home,0,1,6-3,-105,6.0,3,W,O,0,0.0
+237,2021-01-15,2,2,Friday,False,Flyers,Philadelphia,Penguins,Pittsburgh,home,0,2,5-2,-105,6.0,3,W,O,0,0.0
+238,2021-01-18,3,3,Monday,False,Flyers,Philadelphia,Sabres,Buffalo,home,0,3,1-6,-155,6.0,-5,L,O,0,0.0
+239,2021-01-19,4,1,Tuesday,False,Flyers,Philadelphia,Sabres,Buffalo,home,0,4,3-0,-140,6.0,3,W,U,0,0.0
+240,2021-01-21,0,2,Thursday,False,Flyers,Philadelphia,Bruins,Boston,away,1,0,4-5,131,5.5,-1,L,O,1,436.0523329701142
+241,2021-01-23,0,2,Saturday,False,Flyers,Philadelphia,Bruins,Boston,away,2,0,1-6,131,5.5,-5,L,O,0,436.0523329701142
+242,2021-01-26,0,3,Tuesday,False,Flyers,Philadelphia,Devils,Newark,away,3,0,5-3,-145,5.5,2,W,O,0,121.03515994764935
+243,2021-01-28,0,2,Thursday,False,Flyers,Philadelphia,Devils,Newark,away,4,0,3-1,-165,5.5,2,W,U,0,121.03515994764935
+244,2021-01-30,1,2,Saturday,False,Flyers,Philadelphia,Islanders,Uniondale,home,0,1,3-2,-125,5.5,1,W,U,1,0.0
+245,2021-01-31,2,1,Sunday,False,Flyers,Philadelphia,Islanders,Uniondale,home,0,2,4-3,-120,5.5,1,W,O,1,0.0
+246,2021-02-03,3,3,Wednesday,False,Flyers,Philadelphia,Bruins,Boston,home,0,3,3-4,115,5.5,-1,L,O,1,0.0
+247,2021-02-05,4,2,Friday,False,Flyers,Philadelphia,Bruins,Boston,home,0,4,1-2,125,5.5,-1,L,U,0,0.0
+248,2021-02-07,0,2,Sunday,False,Flyers,Philadelphia,Capitals,Washington,away,1,0,7-4,-125,6.0,3,W,O,0,199.49710007415408
+249,2021-02-18,1,11,Thursday,False,Flyers,Philadelphia,Rangers,New York,home,0,1,2-3,-110,6.0,-1,L,U,1,0.0
+250,2021-02-21,0,3,Sunday,False,Flyers,Philadelphia,Bruins,Boston,away,1,0,3-7,158,5.5,-4,L,O,0,436.0523329701142
+251,2021-02-24,1,3,Wednesday,False,Flyers,Philadelphia,Rangers,New York,home,0,1,4-3,-130,5.5,1,W,O,0,0.0
+252,2021-01-14,0,0,Thursday,True,Hurricanes,Raleigh,Red Wings,Detroit,away,1,0,3-0,-225,6.0,3,W,U,0,820.9722625484587
+253,2021-01-16,0,2,Saturday,False,Hurricanes,Raleigh,Red Wings,Detroit,away,2,0,2-4,-223,5.5,-2,L,O,0,820.9722625484587
+254,2021-01-18,0,2,Monday,False,Hurricanes,Raleigh,Predators,Nashville,away,3,0,4-2,-125,6.0,2,W,P,0,734.7761231712492
+255,2021-01-28,1,10,Thursday,False,Hurricanes,Raleigh,Lightning,Tampa,home,0,1,1-0,130,6.0,1,W,U,1,0.0
+256,2021-01-30,2,2,Saturday,False,Hurricanes,Raleigh,Stars,Dallas,home,0,2,4-1,-125,5.5,3,W,U,0,0.0
+257,2021-01-31,3,1,Sunday,False,Hurricanes,Raleigh,Stars,Dallas,home,0,3,4-3,-125,5.5,1,W,O,1,0.0
+258,2021-02-02,0,2,Tuesday,False,Hurricanes,Raleigh,Blackhawks,Chicago,away,1,0,4-3,-165,6.0,1,W,O,1,1031.7179363733235
+259,2021-02-04,0,2,Thursday,False,Hurricanes,Raleigh,Blackhawks,Chicago,away,2,0,4-6,-178,6.0,-2,L,O,0,1031.7179363733235
+260,2021-02-07,0,3,Sunday,False,Hurricanes,Raleigh,Blue Jackets,Columbus,away,3,0,6-5,-145,5.5,1,W,O,0,602.0852515968929
+261,2021-02-08,0,1,Monday,False,Hurricanes,Raleigh,Blue Jackets,Columbus,away,4,0,2-3,-144,5.5,-1,L,U,0,602.0852515968929
+262,2021-02-11,0,3,Thursday,False,Hurricanes,Raleigh,Stars,Dallas,away,5,0,5-3,-125,5.5,2,W,O,0,1702.2523075053584
+263,2021-02-13,0,2,Saturday,False,Hurricanes,Raleigh,Stars,Dallas,away,6,0,4-3,-120,5.5,1,W,O,1,1702.2523075053584
+264,2021-02-15,1,2,Monday,False,Hurricanes,Raleigh,Blue Jackets,Columbus,home,0,1,7-3,-180,6.0,4,W,O,0,0.0
+265,2021-02-17,2,2,Wednesday,False,Hurricanes,Raleigh,Panthers,Sunrise,home,0,2,3-4,-130,6.5,-1,L,O,1,0.0
+266,2021-02-19,3,2,Friday,False,Hurricanes,Raleigh,Blackhawks,Chicago,home,0,3,5-3,-175,6.0,2,W,O,0,0.0
+267,2021-02-20,4,1,Saturday,False,Hurricanes,Raleigh,Lightning,Tampa,home,0,4,4-0,136,6.5,4,W,U,0,0.0
+268,2021-02-22,5,2,Monday,False,Hurricanes,Raleigh,Lightning,Tampa,home,0,5,2-4,105,6.0,-2,L,P,0,0.0
+269,2021-02-24,0,2,Wednesday,False,Hurricanes,Raleigh,Lightning,Tampa,away,1,0,0-3,144,6.0,-3,L,U,0,940.4861585883441
+270,2021-02-25,0,1,Thursday,False,Hurricanes,Raleigh,Lightning,Tampa,away,2,0,1-3,127,6.5,-2,L,U,0,940.4861585883441
+271,2021-02-27,0,2,Saturday,False,Hurricanes,Raleigh,Panthers,Sunrise,away,3,0,4-3,-125,6.0,1,W,O,1,1077.2664797465147
+272,2021-01-14,0,0,Thursday,True,Islanders,Uniondale,Rangers,New York,away,1,0,4-0,-110,6.0,4,W,U,0,35.21257386522654
+273,2021-01-16,0,2,Saturday,False,Islanders,Uniondale,Rangers,New York,away,2,0,0-5,-105,6.0,-5,L,U,0,35.21257386522654
+274,2021-01-18,1,2,Monday,False,Islanders,Uniondale,Bruins,Boston,home,0,1,1-0,115,5.5,1,W,U,0,0.0
+275,2021-01-21,2,3,Thursday,False,Islanders,Uniondale,Devils,Newark,home,0,2,4-1,-179,5.5,3,W,U,0,0.0
+276,2021-01-24,0,3,Sunday,False,Islanders,Uniondale,Devils,Newark,away,1,0,0-2,-161,5.5,-2,L,U,0,49.37792838824772
+277,2021-01-26,0,2,Tuesday,False,Islanders,Uniondale,Capitals,Washington,away,2,0,2-3,-121,5.5,-1,L,U,0,356.96416783890635
+278,2021-01-28,0,2,Thursday,False,Islanders,Uniondale,Capitals,Washington,away,3,0,3-6,-121,5.5,-3,L,O,0,356.96416783890635
+279,2021-01-30,0,2,Saturday,False,Islanders,Uniondale,Flyers,Philadelphia,away,4,0,2-3,115,5.5,-1,L,U,1,157.59061164279325
+280,2021-01-31,0,1,Sunday,False,Islanders,Uniondale,Flyers,Philadelphia,away,5,0,3-4,109,5.5,-1,L,O,1,157.59061164279325
+281,2021-02-06,1,6,Saturday,False,Islanders,Uniondale,Penguins,Pittsburgh,home,0,1,4-3,-120,5.5,1,W,O,0,0.0
+282,2021-02-08,0,2,Monday,False,Islanders,Uniondale,Rangers,New York,away,1,0,2-0,-105,5.5,2,W,U,0,35.21257386522654
+283,2021-02-11,1,3,Thursday,False,Islanders,Uniondale,Penguins,Pittsburgh,home,0,1,3-4,-110,5.5,-1,L,O,1,0.0
+284,2021-02-13,2,2,Saturday,False,Islanders,Uniondale,Bruins,Boston,home,0,2,4-2,110,5.0,2,W,O,0,0.0
+285,2021-02-15,0,2,Monday,False,Islanders,Uniondale,Sabres,Buffalo,away,1,0,3-1,-130,5.5,2,W,U,0,501.9180326002545
+286,2021-02-16,0,1,Tuesday,False,Islanders,Uniondale,Sabres,Buffalo,away,2,0,3-0,-135,5.5,3,W,U,0,501.9180326002545
+287,2021-02-18,0,2,Thursday,False,Islanders,Uniondale,Penguins,Pittsburgh,away,3,0,1-4,104,5.5,-3,L,U,0,542.6344585749772
+288,2021-02-20,0,2,Saturday,False,Islanders,Uniondale,Penguins,Pittsburgh,away,4,0,2-3,109,5.5,-1,L,U,0,542.6344585749772
+289,2021-02-22,1,2,Monday,False,Islanders,Uniondale,Sabres,Buffalo,home,0,1,3-2,-165,5.0,1,W,P,0,0.0
+290,2021-02-25,2,3,Thursday,False,Islanders,Uniondale,Bruins,Boston,home,0,2,7-2,105,5.5,5,W,O,0,0.0
+291,2021-02-27,3,2,Saturday,False,Islanders,Uniondale,Penguins,Pittsburgh,home,0,3,3-4,-115,5.5,-1,L,O,1,0.0
+292,2021-01-14,4,0,Thursday,True,Jets,Winnipeg,Flames,Calgary,home,0,1,4-3,105,5.5,1,W,O,1,0.0
+293,2021-01-18,0,4,Monday,False,Jets,Winnipeg,Maple Leafs,Toronto,away,1,0,1-3,153,6.5,-2,L,U,0,1518.0337707268532
+294,2021-01-19,0,1,Tuesday,False,Jets,Winnipeg,Senators,Ottawa,away,2,0,4-3,-110,6.0,1,W,O,1,1679.4270918493457
+295,2021-01-21,0,2,Thursday,False,Jets,Winnipeg,Senators,Ottawa,away,3,0,4-1,-120,6.0,3,W,U,0,1679.4270918493457
+296,2021-01-23,1,2,Saturday,False,Jets,Winnipeg,Senators,Ottawa,home,0,1,6-3,-150,6.0,3,W,O,0,0.0
+297,2021-01-24,2,1,Sunday,False,Jets,Winnipeg,Oilers,Edmonton,home,0,2,3-4,120,6.5,-1,L,O,0,0.0
+298,2021-02-01,3,8,Monday,False,Jets,Winnipeg,Flames,Calgary,home,0,3,3-4,105,6.0,-1,L,O,1,0.0
+299,2021-02-02,4,1,Tuesday,False,Jets,Winnipeg,Flames,Calgary,home,0,4,3-2,105,6.0,1,W,U,0,0.0
+300,2021-02-04,5,2,Thursday,False,Jets,Winnipeg,Flames,Calgary,home,0,5,4-1,115,6.0,3,W,U,0,0.0
+301,2021-02-09,0,5,Tuesday,False,Jets,Winnipeg,Flames,Calgary,away,1,0,2-3,113,6.0,-1,L,U,0,1205.5877673387997
+302,2021-02-11,1,2,Thursday,False,Jets,Winnipeg,Senators,Ottawa,home,0,1,5-1,-222,6.0,4,W,P,0,0.0
+303,2021-02-13,2,2,Saturday,False,Jets,Winnipeg,Senators,Ottawa,home,0,2,1-2,-222,6.0,-1,L,U,0,0.0
+304,2021-02-15,0,2,Monday,False,Jets,Winnipeg,Oilers,Edmonton,away,1,0,6-5,115,6.5,1,W,O,0,1198.359215702851
+305,2021-02-17,0,2,Wednesday,False,Jets,Winnipeg,Oilers,Edmonton,away,2,0,2-3,131,6.5,-1,L,U,0,1198.359215702851
+306,2021-02-19,0,2,Friday,False,Jets,Winnipeg,Canucks,Vancouver,away,3,0,2-0,110,6.5,2,W,U,0,1870.4670804444336
+307,2021-02-21,0,2,Sunday,False,Jets,Winnipeg,Canucks,Vancouver,away,4,0,4-3,-110,6.0,1,W,O,1,1870.4670804444336
+308,2021-02-25,1,4,Thursday,False,Jets,Winnipeg,Canadiens,Montreal,home,0,1,6-3,110,6.0,3,W,O,0,0.0
+309,2021-01-14,2,0,Thursday,True,Kings,Los Angeles,Wild,St. Paul,home,0,1,3-4,120,5.5,-1,L,O,1,0.0
+310,2021-01-16,3,2,Saturday,False,Kings,Los Angeles,Wild,St. Paul,home,0,2,3-4,120,5.5,-1,L,O,1,0.0
+311,2021-01-19,4,3,Tuesday,False,Kings,Los Angeles,Avalanche,Denver,home,0,3,2-3,210,6.0,-1,L,U,0,0.0
+312,2021-01-21,5,2,Thursday,False,Kings,Los Angeles,Avalanche,Denver,home,0,4,4-2,210,5.5,2,W,O,0,0.0
+313,2021-01-23,0,2,Saturday,False,Kings,Los Angeles,Blues,St. Louis,away,1,0,2-4,180,5.5,-2,L,O,0,2554.2267406728806
+314,2021-01-24,0,1,Sunday,False,Kings,Los Angeles,Blues,St. Louis,away,2,0,6-3,170,5.5,3,W,O,0,2554.2267406728806
+315,2021-02-02,1,9,Tuesday,False,Kings,Los Angeles,Ducks,Anaheim,home,0,1,1-3,-120,5.5,-2,L,U,0,0.0
+316,2021-02-05,0,3,Friday,False,Kings,Los Angeles,Knights,Las Vegas,away,1,0,2-5,215,5.5,-3,L,O,0,366.78047377429255
+317,2021-02-07,0,2,Sunday,False,Kings,Los Angeles,Knights,Las Vegas,away,2,0,3-4,231,5.5,-1,L,O,0,366.78047377429255
+318,2021-02-09,1,2,Tuesday,False,Kings,Los Angeles,Sharks,San Jose,home,0,1,3-4,105,5.5,-1,L,O,1,0.0
+319,2021-02-11,2,2,Thursday,False,Kings,Los Angeles,Sharks,San Jose,home,0,2,6-2,105,6.0,4,W,O,0,0.0
+320,2021-02-16,3,5,Tuesday,False,Kings,Los Angeles,Wild,St. Paul,home,0,3,4-0,135,5.5,4,W,U,0,0.0
+321,2021-02-18,0,2,Thursday,False,Kings,Los Angeles,Coyotes,Glendale,away,1,0,3-2,155,5.5,1,W,U,1,10.354380148484223
+322,2021-02-20,0,2,Saturday,False,Kings,Los Angeles,Coyotes,Glendale,away,2,0,4-2,140,5.5,2,W,O,0,10.354380148484223
+323,2021-02-22,0,2,Monday,False,Kings,Los Angeles,Blues,St. Louis,away,3,0,3-0,165,5.5,3,W,U,0,2554.2267406728806
+324,2021-02-24,0,2,Wednesday,False,Kings,Los Angeles,Blues,St. Louis,away,4,0,2-1,130,5.5,1,W,U,0,2554.2267406728806
+325,2021-02-26,0,2,Friday,False,Kings,Los Angeles,Wild,St. Paul,away,5,0,1-3,162,5.5,-2,L,U,0,2462.943663880059
+326,2021-02-27,0,1,Saturday,False,Kings,Los Angeles,Wild,St. Paul,away,6,0,3-4,153,5.5,-1,L,O,1,2462.943663880059
+327,2021-01-14,1,0,Thursday,True,Knights,Las Vegas,Ducks,Anaheim,home,0,1,5-2,-230,6.0,3,W,O,0,0.0
+328,2021-01-16,2,2,Saturday,False,Knights,Las Vegas,Ducks,Anaheim,home,0,2,2-1,-220,6.0,1,W,U,1,0.0
+329,2021-01-18,3,2,Monday,False,Knights,Las Vegas,Coyotes,Glendale,home,0,3,4-2,-200,5.5,2,W,O,0,0.0
+330,2021-01-20,4,2,Wednesday,False,Knights,Las Vegas,Coyotes,Glendale,home,0,4,5-2,-185,5.5,3,W,O,0,0.0
+331,2021-01-22,0,2,Friday,False,Knights,Las Vegas,Coyotes,Glendale,away,1,0,2-5,-170,5.5,-3,L,O,0,360.4946419402471
+332,2021-01-24,0,2,Sunday,False,Knights,Las Vegas,Coyotes,Glendale,away,2,0,1-0,-175,5.5,1,W,U,0,360.4946419402471
+333,2021-01-26,1,2,Tuesday,False,Knights,Las Vegas,Blues,St. Louis,home,0,1,4-5,-149,6.0,-1,L,O,1,0.0
+334,2021-02-05,2,10,Friday,False,Knights,Las Vegas,Kings,Los Angeles,home,0,2,5-2,-250,5.5,3,W,O,0,0.0
+335,2021-02-07,3,2,Sunday,False,Knights,Las Vegas,Kings,Los Angeles,home,0,3,4-3,-270,5.5,1,W,O,0,0.0
+336,2021-02-09,4,2,Tuesday,False,Knights,Las Vegas,Ducks,Anaheim,home,0,4,5-4,-230,5.5,1,W,O,0,0.0
+337,2021-02-11,5,2,Thursday,False,Knights,Las Vegas,Ducks,Anaheim,home,0,5,0-1,-200,5.5,-1,L,U,0,0.0
+338,2021-02-13,0,2,Saturday,False,Knights,Las Vegas,Sharks,San Jose,away,1,0,3-1,-185,6.0,2,W,U,0,615.7352691440287
+339,2021-02-14,1,1,Sunday,False,Knights,Las Vegas,Avalanche,Denver,home,0,1,1-0,-105,5.5,1,W,U,0,0.0
+340,2021-02-16,2,2,Tuesday,False,Knights,Las Vegas,Avalanche,Denver,home,0,2,2-3,-120,5.5,-1,L,U,0,0.0
+341,2021-02-20,0,4,Saturday,False,Knights,Las Vegas,Avalanche,Denver,away,1,0,2-3,104,5.5,-1,L,U,0,976.519709072518
+342,2021-02-22,0,2,Monday,False,Knights,Las Vegas,Avalanche,Denver,away,2,0,3-0,115,5.5,3,W,U,0,976.519709072518
+343,2021-02-27,0,5,Saturday,False,Knights,Las Vegas,Ducks,Anaheim,away,3,0,3-2,-213,5.5,1,W,U,1,361.33618059388084
+344,2021-01-13,1,0,Wednesday,True,Lightning,Tampa,Blackhawks,Chicago,home,0,1,5-1,-256,6.5,4,W,U,0,0.0
+345,2021-01-15,2,2,Friday,False,Lightning,Tampa,Blackhawks,Chicago,home,0,2,5-2,-255,6.5,3,W,O,0,0.0
+346,2021-01-21,0,6,Thursday,False,Lightning,Tampa,Blue Jackets,Columbus,away,1,0,3-2,-161,5.5,1,W,U,1,1333.6201785255307
+347,2021-01-23,0,2,Saturday,False,Lightning,Tampa,Blue Jackets,Columbus,away,2,0,2-5,-172,5.5,-3,L,O,0,1333.6201785255307
+348,2021-01-28,0,5,Thursday,False,Lightning,Tampa,Hurricanes,Raleigh,away,3,0,0-1,-144,6.0,-1,L,U,1,940.4861585883441
+349,2021-01-30,1,2,Saturday,False,Lightning,Tampa,Predators,Nashville,home,0,1,4-3,-170,5.5,1,W,O,0,0.0
+350,2021-02-01,2,2,Monday,False,Lightning,Tampa,Predators,Nashville,home,0,2,5-2,-175,5.5,3,W,O,0,0.0
+351,2021-02-03,3,2,Wednesday,False,Lightning,Tampa,Red Wings,Detroit,home,0,3,5-1,-345,5.5,4,W,O,0,0.0
+352,2021-02-05,4,2,Friday,False,Lightning,Tampa,Red Wings,Detroit,home,0,4,3-1,-370,5.5,2,W,U,0,0.0
+353,2021-02-08,0,3,Monday,False,Lightning,Tampa,Predators,Nashville,away,1,0,4-1,-160,5.5,3,W,U,0,997.598164502239
+354,2021-02-09,0,1,Tuesday,False,Lightning,Tampa,Predators,Nashville,away,2,0,6-1,-170,5.5,5,W,O,0,997.598164502239
+355,2021-02-11,0,2,Thursday,False,Lightning,Tampa,Panthers,Sunrise,away,3,0,2-5,-144,5.5,-3,L,O,0,292.7403926880567
+356,2021-02-13,0,2,Saturday,False,Lightning,Tampa,Panthers,Sunrise,away,4,0,6-1,-135,5.5,5,W,O,0,292.7403926880567
+357,2021-02-15,1,2,Monday,False,Lightning,Tampa,Panthers,Sunrise,home,0,1,4-6,-170,6.0,-2,L,O,0,0.0
+358,2021-02-20,0,5,Saturday,False,Lightning,Tampa,Hurricanes,Raleigh,away,1,0,0-4,-150,6.5,-4,L,U,0,940.4861585883441
+359,2021-02-22,0,2,Monday,False,Lightning,Tampa,Hurricanes,Raleigh,away,2,0,4-2,-125,6.0,2,W,P,0,940.4861585883441
+360,2021-02-24,1,2,Wednesday,False,Lightning,Tampa,Hurricanes,Raleigh,home,0,1,3-0,-160,6.0,3,W,U,0,0.0
+361,2021-02-25,2,1,Thursday,False,Lightning,Tampa,Hurricanes,Raleigh,home,0,2,3-1,-140,6.5,2,W,U,0,0.0
+362,2021-02-27,3,2,Saturday,False,Lightning,Tampa,Stars,Dallas,home,0,3,5-0,-185,5.5,5,W,U,0,0.0
+363,2021-01-13,4,0,Wednesday,True,Maple Leafs,Toronto,Canadiens,Montreal,home,0,1,5-4,-145,6.0,1,W,O,1,0.0
+364,2021-01-15,0,2,Friday,False,Maple Leafs,Toronto,Senators,Ottawa,away,1,0,3-5,-200,6.5,-2,L,O,0,353.1588884496667
+365,2021-01-16,0,1,Saturday,False,Maple Leafs,Toronto,Senators,Ottawa,away,2,0,3-2,-210,6.5,1,W,U,0,353.1588884496667
+366,2021-01-18,1,2,Monday,False,Maple Leafs,Toronto,Jets,Winnipeg,home,0,1,3-1,-170,6.5,2,W,U,0,0.0
+367,2021-01-20,2,2,Wednesday,False,Maple Leafs,Toronto,Oilers,Edmonton,home,0,2,1-3,-150,6.5,-2,L,U,0,0.0
+368,2021-01-22,3,2,Friday,False,Maple Leafs,Toronto,Oilers,Edmonton,home,0,3,4-2,-125,6.0,2,W,P,0,0.0
+369,2021-01-24,0,2,Sunday,False,Maple Leafs,Toronto,Flames,Calgary,away,1,0,3-2,-120,6.0,1,W,U,0,2717.3383291181954
+370,2021-01-26,0,2,Tuesday,False,Maple Leafs,Toronto,Flames,Calgary,away,2,0,4-3,-115,6.0,1,W,O,0,2717.3383291181954
+371,2021-01-30,0,4,Saturday,False,Maple Leafs,Toronto,Oilers,Edmonton,away,3,0,3-4,-120,6.5,-1,L,O,1,2713.1308544641215
+372,2021-02-04,1,5,Thursday,False,Maple Leafs,Toronto,Canucks,Vancouver,home,0,1,7-3,-170,6.5,4,W,O,0,0.0
+373,2021-02-06,2,2,Saturday,False,Maple Leafs,Toronto,Canucks,Vancouver,home,0,2,5-1,-170,6.5,4,W,U,0,0.0
+374,2021-02-08,3,2,Monday,False,Maple Leafs,Toronto,Canucks,Vancouver,home,0,3,3-1,-190,6.5,2,W,U,0,0.0
+375,2021-02-10,0,2,Wednesday,False,Maple Leafs,Toronto,Canadiens,Montreal,away,1,0,4-2,-110,6.5,2,W,U,0,502.10702739918554
+376,2021-02-13,1,3,Saturday,False,Maple Leafs,Toronto,Canadiens,Montreal,home,0,1,1-2,-140,6.5,-1,L,U,0,0.0
+377,2021-02-15,2,2,Monday,False,Maple Leafs,Toronto,Senators,Ottawa,home,0,2,5-6,-300,6.5,-1,L,O,1,0.0
+378,2021-02-17,3,2,Wednesday,False,Maple Leafs,Toronto,Senators,Ottawa,home,0,3,2-1,-323,6.5,1,W,U,0,0.0
+379,2021-02-18,4,1,Thursday,False,Maple Leafs,Toronto,Senators,Ottawa,home,0,4,7-3,-290,6.5,4,W,O,0,0.0
+380,2021-02-20,0,2,Saturday,False,Maple Leafs,Toronto,Canadiens,Montreal,away,1,0,5-3,-115,6.5,2,W,O,0,502.10702739918554
+381,2021-02-22,1,2,Monday,False,Maple Leafs,Toronto,Flames,Calgary,home,0,1,0-3,-150,6.5,-3,L,U,0,0.0
+382,2021-02-24,2,2,Wednesday,False,Maple Leafs,Toronto,Flames,Calgary,home,0,2,2-1,-145,6.0,1,W,U,1,0.0
+383,2021-02-27,0,3,Saturday,False,Maple Leafs,Toronto,Oilers,Edmonton,away,1,0,4-0,-105,6.5,4,W,U,0,2713.1308544641215
+384,2021-01-13,1,0,Wednesday,True,Oilers,Edmonton,Canucks,Vancouver,home,0,1,3-5,-125,6.0,-2,L,O,0,0.0
+385,2021-01-14,2,1,Thursday,False,Oilers,Edmonton,Canucks,Vancouver,home,0,2,5-2,-130,6.0,3,W,O,0,0.0
+386,2021-01-16,3,2,Saturday,False,Oilers,Edmonton,Canadiens,Montreal,home,0,3,1-5,-110,6.5,-4,L,U,0,0.0
+387,2021-01-18,4,2,Monday,False,Oilers,Edmonton,Canadiens,Montreal,home,0,4,1-3,-115,6.5,-2,L,U,0,0.0
+388,2021-01-20,0,2,Wednesday,False,Oilers,Edmonton,Maple Leafs,Toronto,away,1,0,3-1,130,6.5,2,W,U,0,2713.1308544641215
+389,2021-01-22,0,2,Friday,False,Oilers,Edmonton,Maple Leafs,Toronto,away,2,0,2-4,115,6.0,-2,L,P,0,2713.1308544641215
+390,2021-01-24,0,2,Sunday,False,Oilers,Edmonton,Jets,Winnipeg,away,3,0,4-3,-145,6.5,1,W,O,0,1198.359215702851
+391,2021-01-30,1,6,Saturday,False,Oilers,Edmonton,Maple Leafs,Toronto,home,0,1,4-3,110,6.5,1,W,O,1,0.0
+392,2021-01-31,2,1,Sunday,False,Oilers,Edmonton,Senators,Ottawa,home,0,2,8-5,-185,6.5,3,W,O,0,0.0
+393,2021-02-02,3,2,Tuesday,False,Oilers,Edmonton,Senators,Ottawa,home,0,3,4-2,-235,6.5,2,W,U,0,0.0
+394,2021-02-06,0,4,Saturday,False,Oilers,Edmonton,Flames,Calgary,away,1,0,4-6,118,6.5,-2,L,O,0,278.75547842653754
+395,2021-02-08,0,2,Monday,False,Oilers,Edmonton,Senators,Ottawa,away,2,0,3-1,-192,6.5,2,W,U,0,2846.477084669064
+396,2021-02-09,0,1,Tuesday,False,Oilers,Edmonton,Senators,Ottawa,away,3,0,3-2,-192,6.5,1,W,U,0,2846.477084669064
+397,2021-02-11,0,2,Thursday,False,Oilers,Edmonton,Canadiens,Montreal,away,4,0,3-0,135,6.5,3,W,U,0,2979.800687480477
+398,2021-02-15,1,4,Monday,False,Oilers,Edmonton,Jets,Winnipeg,home,0,1,5-6,-135,6.5,-1,L,O,0,0.0
+399,2021-02-17,2,2,Wednesday,False,Oilers,Edmonton,Jets,Winnipeg,home,0,2,3-2,-145,6.5,1,W,U,0,0.0
+400,2021-02-19,0,2,Friday,False,Oilers,Edmonton,Flames,Calgary,away,1,0,2-1,-110,6.5,1,W,U,0,278.75547842653754
+401,2021-02-23,0,4,Tuesday,False,Oilers,Edmonton,Canucks,Vancouver,away,2,0,4-3,-140,6.5,1,W,O,0,819.3106644071983
+402,2021-02-25,0,2,Thursday,False,Oilers,Edmonton,Canucks,Vancouver,away,3,0,3-0,-145,6.5,3,W,U,0,819.3106644071983
+403,2021-02-27,1,2,Saturday,False,Oilers,Edmonton,Maple Leafs,Toronto,home,0,1,0-4,-115,6.5,-4,L,U,0,0.0
+404,2021-01-17,2,0,Sunday,True,Panthers,Sunrise,Blackhawks,Chicago,home,0,1,5-2,-150,6.5,3,W,O,0,0.0
+405,2021-01-19,3,2,Tuesday,False,Panthers,Sunrise,Blackhawks,Chicago,home,0,2,5-4,-155,6.5,1,W,O,1,0.0
+406,2021-01-26,0,7,Tuesday,False,Panthers,Sunrise,Blue Jackets,Columbus,away,1,0,4-3,-105,5.5,1,W,O,1,1550.7770447667701
+407,2021-01-28,0,2,Thursday,False,Panthers,Sunrise,Blue Jackets,Columbus,away,2,0,2-3,-105,5.5,-1,L,U,1,1550.7770447667701
+408,2021-01-30,0,2,Saturday,False,Panthers,Sunrise,Red Wings,Detroit,away,3,0,3-2,-170,6.0,1,W,U,1,1810.9104971069405
+409,2021-01-31,0,1,Sunday,False,Panthers,Sunrise,Red Wings,Detroit,away,4,0,3-2,-180,5.5,1,W,U,0,1810.9104971069405
+410,2021-02-04,1,4,Thursday,False,Panthers,Sunrise,Predators,Nashville,home,0,1,5-6,-115,6.0,-1,L,O,1,0.0
+411,2021-02-05,2,1,Friday,False,Panthers,Sunrise,Predators,Nashville,home,0,2,2-1,-135,6.0,1,W,U,0,0.0
+412,2021-02-07,3,2,Sunday,False,Panthers,Sunrise,Red Wings,Detroit,home,0,3,1-4,-250,5.5,-3,L,U,0,0.0
+413,2021-02-09,4,2,Tuesday,False,Panthers,Sunrise,Red Wings,Detroit,home,0,4,2-1,-208,5.5,1,W,U,0,0.0
+414,2021-02-11,5,2,Thursday,False,Panthers,Sunrise,Lightning,Tampa,home,0,5,5-2,130,5.5,3,W,O,0,0.0
+415,2021-02-13,6,2,Saturday,False,Panthers,Sunrise,Lightning,Tampa,home,0,6,1-6,115,5.5,-5,L,O,0,0.0
+416,2021-02-15,0,2,Monday,False,Panthers,Sunrise,Lightning,Tampa,away,1,0,6-4,150,6.0,2,W,O,0,292.7403926880567
+417,2021-02-17,0,2,Wednesday,False,Panthers,Sunrise,Hurricanes,Raleigh,away,2,0,4-3,118,6.5,1,W,O,1,1077.2664797465147
+418,2021-02-19,0,2,Friday,False,Panthers,Sunrise,Red Wings,Detroit,away,3,0,7-2,-185,5.5,5,W,O,0,1810.9104971069405
+419,2021-02-20,0,1,Saturday,False,Panthers,Sunrise,Red Wings,Detroit,away,4,0,1-2,-166,5.5,-1,L,U,0,1810.9104971069405
+420,2021-02-22,1,2,Monday,False,Panthers,Sunrise,Stars,Dallas,home,0,1,3-1,-125,5.5,2,W,U,0,0.0
+421,2021-02-24,2,2,Wednesday,False,Panthers,Sunrise,Stars,Dallas,home,0,2,0-3,-135,5.5,-3,L,U,0,0.0
+422,2021-02-25,3,1,Thursday,False,Panthers,Sunrise,Stars,Dallas,home,0,3,3-2,-130,5.5,1,W,U,0,0.0
+423,2021-02-27,4,2,Saturday,False,Panthers,Sunrise,Hurricanes,Raleigh,home,0,4,3-4,105,6.0,-1,L,O,1,0.0
+424,2021-01-13,0,0,Wednesday,True,Penguins,Pittsburgh,Flyers,Philadelphia,away,1,0,3-6,-105,6.0,-3,L,O,0,414.4873311986973
+425,2021-01-15,0,2,Friday,False,Penguins,Pittsburgh,Flyers,Philadelphia,away,2,0,2-5,-105,6.0,-3,L,O,0,414.4873311986973
+426,2021-01-17,1,2,Sunday,False,Penguins,Pittsburgh,Capitals,Washington,home,0,1,4-3,-125,6.5,1,W,O,1,0.0
+427,2021-01-19,2,2,Tuesday,False,Penguins,Pittsburgh,Capitals,Washington,home,0,2,5-4,-135,6.5,1,W,O,1,0.0
+428,2021-01-22,3,3,Friday,False,Penguins,Pittsburgh,Rangers,New York,home,0,3,4-3,-145,6.5,1,W,O,1,0.0
+429,2021-01-24,4,2,Sunday,False,Penguins,Pittsburgh,Rangers,New York,home,0,4,3-2,-135,6.5,1,W,U,0,0.0
+430,2021-01-26,0,2,Tuesday,False,Penguins,Pittsburgh,Bruins,Boston,away,1,0,2-3,122,5.5,-1,L,U,1,776.2743307811005
+431,2021-01-28,0,2,Thursday,False,Penguins,Pittsburgh,Bruins,Boston,away,2,0,1-4,118,5.5,-3,L,U,0,776.2743307811005
+432,2021-01-30,0,2,Saturday,False,Penguins,Pittsburgh,Rangers,New York,away,3,0,5-4,-110,6.0,1,W,O,1,507.4685719603499
+433,2021-02-01,0,2,Monday,False,Penguins,Pittsburgh,Rangers,New York,away,4,0,1-3,-105,6.5,-2,L,U,0,507.4685719603499
+434,2021-02-06,0,5,Saturday,False,Penguins,Pittsburgh,Islanders,Uniondale,away,5,0,3-4,109,5.5,-1,L,O,0,542.6344585749772
+435,2021-02-11,0,5,Thursday,False,Penguins,Pittsburgh,Islanders,Uniondale,away,6,0,4-3,-110,5.5,1,W,O,1,542.6344585749772
+436,2021-02-14,1,3,Sunday,False,Penguins,Pittsburgh,Capitals,Washington,home,0,1,6-3,-120,6.5,3,W,O,0,0.0
+437,2021-02-16,2,2,Tuesday,False,Penguins,Pittsburgh,Capitals,Washington,home,0,2,1-3,-125,6.5,-2,L,U,0,0.0
+438,2021-02-18,3,2,Thursday,False,Penguins,Pittsburgh,Islanders,Uniondale,home,0,3,4-1,-115,5.5,3,W,U,0,0.0
+439,2021-02-20,4,2,Saturday,False,Penguins,Pittsburgh,Islanders,Uniondale,home,0,4,3-2,-120,5.5,1,W,U,0,0.0
+440,2021-02-23,0,3,Tuesday,False,Penguins,Pittsburgh,Capitals,Washington,away,1,0,3-2,-110,6.5,1,W,U,1,306.10280732257667
+441,2021-02-25,0,2,Thursday,False,Penguins,Pittsburgh,Capitals,Washington,away,2,0,2-5,100,6.5,-3,L,O,0,306.10280732257667
+442,2021-02-27,0,2,Saturday,False,Penguins,Pittsburgh,Islanders,Uniondale,away,3,0,4-3,-105,5.5,1,W,O,1,542.6344585749772
+443,2021-01-14,1,0,Thursday,True,Predators,Nashville,Blue Jackets,Columbus,home,0,1,3-1,-120,5.5,2,W,U,0,0.0
+444,2021-01-16,2,2,Saturday,False,Predators,Nashville,Blue Jackets,Columbus,home,0,2,5-2,-115,5.5,3,W,O,0,0.0
+445,2021-01-18,3,2,Monday,False,Predators,Nashville,Hurricanes,Raleigh,home,0,3,2-4,105,6.0,-2,L,P,0,0.0
+446,2021-01-22,0,4,Friday,False,Predators,Nashville,Stars,Dallas,away,1,0,0-7,102,5.5,-7,L,O,0,993.8166629853667
+447,2021-01-24,0,2,Sunday,False,Predators,Nashville,Stars,Dallas,away,2,0,2-3,104,5.5,-1,L,U,0,993.8166629853667
+448,2021-01-27,1,3,Wednesday,False,Predators,Nashville,Blackhawks,Chicago,home,0,1,2-1,-175,6.0,1,W,U,1,0.0
+449,2021-01-30,0,3,Saturday,False,Predators,Nashville,Lightning,Tampa,away,1,0,3-4,155,5.5,-1,L,O,0,997.598164502239
+450,2021-02-01,0,2,Monday,False,Predators,Nashville,Lightning,Tampa,away,2,0,2-5,158,5.5,-3,L,O,0,997.598164502239
+451,2021-02-04,0,3,Thursday,False,Predators,Nashville,Panthers,Sunrise,away,3,0,6-5,-105,6.0,1,W,O,1,1268.6866562979951
+452,2021-02-05,0,1,Friday,False,Predators,Nashville,Panthers,Sunrise,away,4,0,1-2,122,6.0,-1,L,U,0,1268.6866562979951
+453,2021-02-08,1,3,Monday,False,Predators,Nashville,Lightning,Tampa,home,0,1,1-4,140,5.5,-3,L,U,0,0.0
+454,2021-02-09,2,1,Tuesday,False,Predators,Nashville,Lightning,Tampa,home,0,2,1-6,150,5.5,-5,L,O,0,0.0
+455,2021-02-11,3,2,Thursday,False,Predators,Nashville,Red Wings,Detroit,home,0,3,3-2,-170,5.5,1,W,U,0,0.0
+456,2021-02-13,4,2,Saturday,False,Predators,Nashville,Red Wings,Detroit,home,0,4,2-4,-169,5.5,-2,L,O,0,0.0
+457,2021-02-18,0,5,Thursday,False,Predators,Nashville,Blue Jackets,Columbus,away,1,0,0-3,113,5.5,-3,L,U,0,536.1473363482389
+458,2021-02-20,0,2,Saturday,False,Predators,Nashville,Blue Jackets,Columbus,away,2,0,4-2,110,5.5,2,W,O,0,536.1473363482389
+459,2021-02-23,0,3,Tuesday,False,Predators,Nashville,Red Wings,Detroit,away,3,0,2-0,-150,5.5,2,W,U,0,756.5391666926603
+460,2021-02-25,0,2,Thursday,False,Predators,Nashville,Red Wings,Detroit,away,4,0,2-5,-149,5.5,-3,L,O,0,756.5391666926603
+461,2021-01-14,1,0,Thursday,True,Rangers,New York,Islanders,Uniondale,home,0,1,0-4,-110,6.0,-4,L,U,0,0.0
+462,2021-01-16,2,2,Saturday,False,Rangers,New York,Islanders,Uniondale,home,0,2,5-0,-105,6.0,5,W,U,0,0.0
+463,2021-01-19,3,3,Tuesday,False,Rangers,New York,Devils,Newark,home,0,3,3-4,-149,6.0,-1,L,O,0,0.0
+464,2021-01-22,0,3,Friday,False,Rangers,New York,Penguins,Pittsburgh,away,1,0,3-4,131,6.5,-1,L,O,1,507.4685719603499
+465,2021-01-24,0,2,Sunday,False,Rangers,New York,Penguins,Pittsburgh,away,2,0,2-3,122,6.5,-1,L,U,0,507.4685719603499
+466,2021-01-26,0,2,Tuesday,False,Rangers,New York,Sabres,Buffalo,away,3,0,2-3,100,6.0,-1,L,U,0,471.35234142882456
+467,2021-01-28,0,2,Thursday,False,Rangers,New York,Sabres,Buffalo,away,4,0,3-2,-125,6.0,1,W,U,1,471.35234142882456
+468,2021-01-30,1,2,Saturday,False,Rangers,New York,Penguins,Pittsburgh,home,0,1,4-5,-110,6.0,-1,L,O,1,0.0
+469,2021-02-01,2,2,Monday,False,Rangers,New York,Penguins,Pittsburgh,home,0,2,3-1,-105,6.5,2,W,U,0,0.0
+470,2021-02-04,3,3,Thursday,False,Rangers,New York,Capitals,Washington,home,0,3,4-2,-115,6.5,2,W,U,0,0.0
+471,2021-02-08,4,4,Monday,False,Rangers,New York,Islanders,Uniondale,home,0,4,0-2,-115,5.5,-2,L,U,0,0.0
+472,2021-02-10,5,2,Wednesday,False,Rangers,New York,Bruins,Boston,home,0,5,2-3,155,5.5,-1,L,U,1,0.0
+473,2021-02-12,6,2,Friday,False,Rangers,New York,Bruins,Boston,home,0,6,0-1,155,5.5,-1,L,U,0,0.0
+474,2021-02-16,7,4,Tuesday,False,Rangers,New York,Devils,Newark,home,0,7,2-5,-140,5.5,-3,L,O,0,0.0
+475,2021-02-18,0,2,Thursday,False,Rangers,New York,Flyers,Philadelphia,away,1,0,3-2,-110,6.0,1,W,U,1,129.60181091014726
+476,2021-02-20,0,2,Saturday,False,Rangers,New York,Capitals,Washington,away,2,0,4-1,125,6.0,3,W,U,0,328.7316497653234
+477,2021-02-24,0,4,Wednesday,False,Rangers,New York,Flyers,Philadelphia,away,3,0,3-4,118,5.5,-1,L,O,0,129.60181091014726
+478,2021-02-26,1,2,Friday,False,Rangers,New York,Bruins,Boston,home,0,1,6-2,140,5.5,4,W,O,0,0.0
+479,2021-01-14,2,0,Thursday,True,Red Wings,Detroit,Hurricanes,Raleigh,home,0,1,0-3,185,6.0,-3,L,U,0,0.0
+480,2021-01-16,3,2,Saturday,False,Red Wings,Detroit,Hurricanes,Raleigh,home,0,2,4-2,199,5.5,2,W,O,0,0.0
+481,2021-01-18,4,2,Monday,False,Red Wings,Detroit,Blue Jackets,Columbus,home,0,3,2-3,160,5.5,-1,L,U,0,0.0
+482,2021-01-19,5,1,Tuesday,False,Red Wings,Detroit,Blue Jackets,Columbus,home,0,4,3-2,155,5.5,1,W,U,1,0.0
+483,2021-01-22,0,3,Friday,False,Red Wings,Detroit,Blackhawks,Chicago,away,1,0,1-4,118,6.0,-3,L,U,0,381.9811596314157
+484,2021-01-26,0,4,Tuesday,False,Red Wings,Detroit,Stars,Dallas,away,2,0,1-2,198,5.5,-1,L,U,1,1608.9664458831232
+485,2021-01-30,1,4,Saturday,False,Red Wings,Detroit,Panthers,Sunrise,home,0,1,2-3,155,6.0,-1,L,U,1,0.0
+486,2021-01-31,2,1,Sunday,False,Red Wings,Detroit,Panthers,Sunrise,home,0,2,2-3,160,5.5,-1,L,U,0,0.0
+487,2021-02-03,0,3,Wednesday,False,Red Wings,Detroit,Lightning,Tampa,away,1,0,1-5,293,5.5,-4,L,O,0,1596.7001208547629
+488,2021-02-05,0,2,Friday,False,Red Wings,Detroit,Lightning,Tampa,away,2,0,1-3,314,5.5,-2,L,U,0,1596.7001208547629
+489,2021-02-07,0,2,Sunday,False,Red Wings,Detroit,Panthers,Sunrise,away,3,0,4-1,220,5.5,3,W,U,0,1810.9104971069405
+490,2021-02-09,0,2,Tuesday,False,Red Wings,Detroit,Panthers,Sunrise,away,4,0,1-2,186,5.5,-1,L,U,0,1810.9104971069405
+491,2021-02-11,0,2,Thursday,False,Red Wings,Detroit,Predators,Nashville,away,5,0,2-3,153,5.5,-1,L,U,0,756.5391666926603
+492,2021-02-13,0,2,Saturday,False,Red Wings,Detroit,Predators,Nashville,away,6,0,4-2,150,5.5,2,W,O,0,756.5391666926603
+493,2021-02-15,1,2,Monday,False,Red Wings,Detroit,Blackhawks,Chicago,home,0,1,2-3,100,5.5,-1,L,U,1,0.0
+494,2021-02-17,2,2,Wednesday,False,Red Wings,Detroit,Blackhawks,Chicago,home,0,2,0-2,120,5.5,-2,L,U,0,0.0
+495,2021-02-19,3,2,Friday,False,Red Wings,Detroit,Panthers,Sunrise,home,0,3,2-7,165,5.5,-5,L,O,0,0.0
+496,2021-02-20,4,1,Saturday,False,Red Wings,Detroit,Panthers,Sunrise,home,0,4,2-1,150,5.5,1,W,U,0,0.0
+497,2021-02-23,5,3,Tuesday,False,Red Wings,Detroit,Predators,Nashville,home,0,5,0-2,130,5.5,-2,L,U,0,0.0
+498,2021-02-25,6,2,Thursday,False,Red Wings,Detroit,Predators,Nashville,home,0,6,5-2,135,5.5,3,W,O,0,0.0
+499,2021-01-14,7,0,Thursday,True,Sabres,Buffalo,Capitals,Washington,home,0,1,4-6,110,6.0,-2,L,O,0,0.0
+500,2021-01-15,8,1,Friday,False,Sabres,Buffalo,Capitals,Washington,home,0,2,1-2,100,6.0,-1,L,U,0,0.0
+501,2021-01-18,0,3,Monday,False,Sabres,Buffalo,Flyers,Philadelphia,away,1,0,6-1,135,6.0,5,W,O,0,450.04876470017894
+502,2021-01-19,0,1,Tuesday,False,Sabres,Buffalo,Flyers,Philadelphia,away,2,0,0-3,127,6.0,-3,L,U,0,450.04876470017894
+503,2021-01-22,0,3,Friday,False,Sabres,Buffalo,Capitals,Washington,away,3,0,3-4,-105,5.5,-1,L,O,1,469.64323435676556
+504,2021-01-24,0,2,Sunday,False,Sabres,Buffalo,Capitals,Washington,away,4,0,4-3,-125,6.0,1,W,O,1,469.64323435676556
+505,2021-01-26,1,2,Tuesday,False,Sabres,Buffalo,Rangers,New York,home,0,1,3-2,-110,6.0,1,W,U,0,0.0
+506,2021-01-28,2,2,Thursday,False,Sabres,Buffalo,Rangers,New York,home,0,2,2-3,105,6.0,-1,L,U,1,0.0
+507,2021-01-30,3,2,Saturday,False,Sabres,Buffalo,Devils,Newark,home,0,3,4-3,-155,5.5,1,W,O,1,0.0
+508,2021-01-31,4,1,Sunday,False,Sabres,Buffalo,Devils,Newark,home,0,4,3-5,-150,5.5,-2,L,O,0,0.0
+509,2021-02-15,5,15,Monday,False,Sabres,Buffalo,Islanders,Uniondale,home,0,5,1-3,110,5.5,-2,L,U,0,0.0
+510,2021-02-16,6,1,Tuesday,False,Sabres,Buffalo,Islanders,Uniondale,home,0,6,0-3,115,5.5,-3,L,U,0,0.0
+511,2021-02-18,0,2,Thursday,False,Sabres,Buffalo,Capitals,Washington,away,1,0,1-3,144,6.0,-2,L,U,0,469.64323435676556
+512,2021-02-20,0,2,Saturday,False,Sabres,Buffalo,Devils,Newark,away,2,0,3-2,115,5.5,1,W,U,0,458.1494246688932
+513,2021-02-22,0,2,Monday,False,Sabres,Buffalo,Islanders,Uniondale,away,3,0,2-3,149,5.0,-1,L,P,0,501.9180326002545
+514,2021-02-23,0,1,Tuesday,False,Sabres,Buffalo,Devils,Newark,away,4,0,4-1,135,5.5,3,W,U,0,458.1494246688932
+515,2021-02-25,1,2,Thursday,False,Sabres,Buffalo,Devils,Newark,home,0,1,3-4,100,5.5,-1,L,O,1,0.0
+516,2021-01-15,2,0,Friday,True,Senators,Ottawa,Maple Leafs,Toronto,home,0,1,5-3,180,6.5,2,W,O,0,0.0
+517,2021-01-16,3,1,Saturday,False,Senators,Ottawa,Maple Leafs,Toronto,home,0,2,2-3,180,6.5,-1,L,U,0,0.0
+518,2021-01-19,4,3,Tuesday,False,Senators,Ottawa,Jets,Winnipeg,home,0,3,3-4,-110,6.0,-1,L,O,1,0.0
+519,2021-01-21,5,2,Thursday,False,Senators,Ottawa,Jets,Winnipeg,home,0,4,1-4,100,6.0,-3,L,U,0,0.0
+520,2021-01-23,0,2,Saturday,False,Senators,Ottawa,Jets,Winnipeg,away,1,0,3-6,136,6.0,-3,L,O,0,1679.4270918493457
+521,2021-01-25,0,2,Monday,False,Senators,Ottawa,Canucks,Vancouver,away,2,0,1-7,131,6.5,-6,L,O,0,3549.712103525034
+522,2021-01-27,0,2,Wednesday,False,Senators,Ottawa,Canucks,Vancouver,away,3,0,1-5,140,6.5,-4,L,U,0,3549.712103525034
+523,2021-01-28,0,1,Thursday,False,Senators,Ottawa,Canucks,Vancouver,away,4,0,1-4,153,6.5,-3,L,U,0,3549.712103525034
+524,2021-01-31,0,3,Sunday,False,Senators,Ottawa,Oilers,Edmonton,away,5,0,5-8,166,6.5,-3,L,O,0,2846.477084669064
+525,2021-02-02,0,2,Tuesday,False,Senators,Ottawa,Oilers,Edmonton,away,6,0,2-4,202,6.5,-2,L,U,0,2846.477084669064
+526,2021-02-04,0,2,Thursday,False,Senators,Ottawa,Canadiens,Montreal,away,7,0,3-2,260,6.5,1,W,U,0,162.89704943731655
+527,2021-02-06,1,2,Saturday,False,Senators,Ottawa,Canadiens,Montreal,home,0,1,1-2,220,6.5,-1,L,U,0,0.0
+528,2021-02-08,2,2,Monday,False,Senators,Ottawa,Oilers,Edmonton,home,0,2,1-3,167,6.5,-2,L,U,0,0.0
+529,2021-02-09,3,1,Tuesday,False,Senators,Ottawa,Oilers,Edmonton,home,0,3,2-3,167,6.5,-1,L,U,0,0.0
+530,2021-02-11,0,2,Thursday,False,Senators,Ottawa,Jets,Winnipeg,away,1,0,1-5,198,6.0,-4,L,P,0,1679.4270918493457
+531,2021-02-13,0,2,Saturday,False,Senators,Ottawa,Jets,Winnipeg,away,2,0,2-1,190,6.0,1,W,U,0,1679.4270918493457
+532,2021-02-15,0,2,Monday,False,Senators,Ottawa,Maple Leafs,Toronto,away,3,0,6-5,250,6.5,1,W,O,1,353.1588884496667
+533,2021-02-17,0,2,Wednesday,False,Senators,Ottawa,Maple Leafs,Toronto,away,4,0,1-2,275,6.5,-1,L,U,0,353.1588884496667
+534,2021-02-18,0,1,Thursday,False,Senators,Ottawa,Maple Leafs,Toronto,away,5,0,3-7,248,6.5,-4,L,O,0,353.1588884496667
+535,2021-02-21,1,3,Sunday,False,Senators,Ottawa,Canadiens,Montreal,home,0,1,3-2,190,6.0,1,W,U,1,0.0
+536,2021-02-23,2,2,Tuesday,False,Senators,Ottawa,Canadiens,Montreal,home,0,2,5-4,180,6.0,1,W,O,1,0.0
+537,2021-02-25,3,2,Thursday,False,Senators,Ottawa,Flames,Calgary,home,0,3,6-1,133,6.0,5,W,O,0,0.0
+538,2021-02-27,4,2,Saturday,False,Senators,Ottawa,Flames,Calgary,home,0,4,3-6,130,6.0,-3,L,O,0,0.0
+539,2021-01-14,0,0,Thursday,True,Sharks,San Jose,Coyotes,Glendale,away,1,0,4-3,115,5.5,1,W,O,1,483.43637389489464
+540,2021-01-16,0,2,Saturday,False,Sharks,San Jose,Coyotes,Glendale,away,2,0,3-5,118,5.5,-2,L,O,0,483.43637389489464
+541,2021-01-18,0,2,Monday,False,Sharks,San Jose,Blues,St. Louis,away,3,0,4-5,162,5.5,-1,L,O,0,2770.106851009967
+542,2021-01-20,0,2,Wednesday,False,Sharks,San Jose,Blues,St. Louis,away,4,0,2-1,165,6.0,1,W,U,1,2770.106851009967
+543,2021-01-22,0,2,Friday,False,Sharks,San Jose,Wild,St. Paul,away,5,0,1-4,144,6.0,-3,L,U,0,2544.4919132976083
+544,2021-01-24,0,2,Sunday,False,Sharks,San Jose,Wild,St. Paul,away,6,0,5-3,125,5.5,2,W,O,0,2544.4919132976083
+545,2021-01-26,0,2,Tuesday,False,Sharks,San Jose,Avalanche,Denver,away,7,0,3-7,188,6.0,-4,L,O,0,1495.5453097400894
+546,2021-01-28,0,2,Thursday,False,Sharks,San Jose,Avalanche,Denver,away,8,0,0-3,198,6.0,-3,L,U,0,1495.5453097400894
+547,2021-02-05,0,8,Friday,False,Sharks,San Jose,Ducks,Anaheim,away,9,0,5-4,-105,5.5,1,W,O,1,529.9506019873951
+548,2021-02-06,0,1,Saturday,False,Sharks,San Jose,Ducks,Anaheim,away,10,0,1-2,104,6.0,-1,L,U,1,529.9506019873951
+549,2021-02-09,0,3,Tuesday,False,Sharks,San Jose,Kings,Los Angeles,away,11,0,4-3,-125,5.5,1,W,O,1,491.49142129934603
+550,2021-02-11,0,2,Thursday,False,Sharks,San Jose,Kings,Los Angeles,away,12,0,2-6,-116,6.0,-4,L,O,0,491.49142129934603
+551,2021-02-13,1,2,Saturday,False,Sharks,San Jose,Knights,Las Vegas,home,0,1,1-3,165,6.0,-2,L,U,0,0.0
+552,2021-02-15,2,2,Monday,False,Sharks,San Jose,Ducks,Anaheim,home,0,2,3-2,-110,5.5,1,W,U,0,0.0
+553,2021-02-18,0,3,Thursday,False,Sharks,San Jose,Blues,St. Louis,away,1,0,2-3,162,5.5,-1,L,U,1,2770.106851009967
+554,2021-02-22,1,4,Monday,False,Sharks,San Jose,Wild,St. Paul,home,0,1,2-6,135,5.5,-4,L,O,0,0.0
+555,2021-02-27,2,5,Saturday,False,Sharks,San Jose,Blues,St. Louis,home,0,2,6-7,150,5.5,-1,L,O,0,0.0
+556,2021-01-22,3,0,Friday,True,Stars,Dallas,Predators,Nashville,home,0,1,7-0,-113,5.5,7,W,O,0,0.0
+557,2021-01-24,4,2,Sunday,False,Stars,Dallas,Predators,Nashville,home,0,2,3-2,-115,5.5,1,W,U,0,0.0
+558,2021-01-26,5,2,Tuesday,False,Stars,Dallas,Red Wings,Detroit,home,0,3,2-1,-222,5.5,1,W,U,1,0.0
+559,2021-01-30,0,4,Saturday,False,Stars,Dallas,Hurricanes,Raleigh,away,1,0,1-4,115,5.5,-3,L,U,0,1702.2523075053584
+560,2021-01-31,0,1,Sunday,False,Stars,Dallas,Hurricanes,Raleigh,away,2,0,3-4,113,5.5,-1,L,O,1,1702.2523075053584
+561,2021-02-02,0,2,Tuesday,False,Stars,Dallas,Blue Jackets,Columbus,away,3,0,6-3,-110,5.0,3,W,O,0,1469.96811889186
+562,2021-02-04,0,2,Thursday,False,Stars,Dallas,Blue Jackets,Columbus,away,4,0,3-4,-121,5.0,-1,L,O,0,1469.96811889186
+563,2021-02-07,1,3,Sunday,False,Stars,Dallas,Blackhawks,Chicago,home,0,1,1-2,-161,5.5,-1,L,U,1,0.0
+564,2021-02-09,2,2,Tuesday,False,Stars,Dallas,Blackhawks,Chicago,home,0,2,1-2,-140,5.5,-1,L,U,1,0.0
+565,2021-02-11,3,2,Thursday,False,Stars,Dallas,Hurricanes,Raleigh,home,0,3,3-5,105,5.5,-2,L,O,0,0.0
+566,2021-02-13,4,2,Saturday,False,Stars,Dallas,Hurricanes,Raleigh,home,0,4,3-4,100,5.5,-1,L,O,1,0.0
+567,2021-02-22,0,9,Monday,False,Stars,Dallas,Panthers,Sunrise,away,1,0,1-3,113,5.5,-2,L,U,0,1758.8962220417418
+568,2021-02-24,0,2,Wednesday,False,Stars,Dallas,Panthers,Sunrise,away,2,0,3-0,115,5.5,3,W,U,0,1758.8962220417418
+569,2021-02-25,0,1,Thursday,False,Stars,Dallas,Panthers,Sunrise,away,3,0,2-3,118,5.5,-1,L,U,0,1758.8962220417418
+570,2021-02-27,0,2,Saturday,False,Stars,Dallas,Lightning,Tampa,away,4,0,0-5,166,5.5,-5,L,U,0,1477.0633563875592
+571,2021-01-14,0,0,Thursday,True,Wild,St. Paul,Kings,Los Angeles,away,1,0,4-3,-140,5.5,1,W,O,1,2462.943663880059
+572,2021-01-16,0,2,Saturday,False,Wild,St. Paul,Kings,Los Angeles,away,2,0,4-3,-140,5.5,1,W,O,1,2462.943663880059
+573,2021-01-18,0,2,Monday,False,Wild,St. Paul,Ducks,Anaheim,away,3,0,0-1,-133,5.5,-1,L,U,0,2453.270954200969
+574,2021-01-20,0,2,Wednesday,False,Wild,St. Paul,Ducks,Anaheim,away,4,0,3-2,-140,5.5,1,W,U,0,2453.270954200969
+575,2021-01-22,1,2,Friday,False,Wild,St. Paul,Sharks,San Jose,home,0,1,4-1,-160,6.0,3,W,U,0,0.0
+576,2021-01-24,2,2,Sunday,False,Wild,St. Paul,Sharks,San Jose,home,0,2,3-5,-145,5.5,-2,L,O,0,0.0
+577,2021-01-31,3,7,Sunday,False,Wild,St. Paul,Avalanche,Denver,home,0,3,4-3,120,5.5,1,W,O,1,0.0
+578,2021-02-02,0,2,Tuesday,False,Wild,St. Paul,Avalanche,Denver,away,1,0,1-2,144,5.5,-1,L,U,0,1135.8067358091375
+579,2021-02-16,0,14,Tuesday,False,Wild,St. Paul,Kings,Los Angeles,away,2,0,0-4,-149,5.5,-4,L,U,0,2462.943663880059
+580,2021-02-18,0,2,Thursday,False,Wild,St. Paul,Ducks,Anaheim,away,3,0,3-1,-125,5.5,2,W,U,0,2453.270954200969
+581,2021-02-20,0,2,Saturday,False,Wild,St. Paul,Ducks,Anaheim,away,4,0,5-1,-135,5.5,4,W,O,0,2453.270954200969
+582,2021-02-22,0,2,Monday,False,Wild,St. Paul,Sharks,San Jose,away,5,0,6-2,-155,5.5,4,W,O,0,2544.4919132976083
+583,2021-02-24,0,2,Wednesday,False,Wild,St. Paul,Avalanche,Denver,away,6,0,6-2,155,5.5,4,W,O,0,1135.8067358091375
+584,2021-02-26,1,2,Friday,False,Wild,St. Paul,Kings,Los Angeles,home,0,1,3-1,-180,5.5,2,W,U,0,0.0
+585,2021-02-27,2,1,Saturday,False,Wild,St. Paul,Kings,Los Angeles,home,0,2,4-3,-170,5.5,1,W,O,1,0.0
