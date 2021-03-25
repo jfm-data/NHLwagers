@@ -216,7 +216,7 @@ st.write('You selected', home_away)
 import plotly.express as px
 
 #fig = px.histogram(data, x="Date_diff", color='OUr',
-                   barmode='group', template='plotly_white')
+#                   barmode='group', template='plotly_white')
 #st.plotly_chart(fig, use_container_width=True)
 
 
