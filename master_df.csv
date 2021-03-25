@@ -1,0 +1,951 @@
+Date,Day,Season,Team,Opp,Site,P1,P2,P3,Final,Line,Total,SUm,SUr,OUr,ot
+2021-01-13 00:00:00,Wednesday,2020,Oilers,Canucks,home,0-1,1-1,2-3,3-5,-125,6.0,-2,L,O,0
+2021-01-13 00:00:00,Wednesday,2020,Canucks,Oilers,away,1-0,1-1,3-2,5-3,105,6.0,2,W,O,0
+2021-01-13 00:00:00,Wednesday,2020,Avalanche,Blues,home,1-2,0-0,0-2,1-4,-150,6.0,-3,L,U,0
+2021-01-13 00:00:00,Wednesday,2020,Blues,Avalanche,away,2-1,0-0,2-0,4-1,130,6.0,3,W,U,0
+2021-01-13 00:00:00,Wednesday,2020,Flyers,Penguins,home,2-1,1-1,3-1,6-3,-105,6.0,3,W,O,0
+2021-01-13 00:00:00,Wednesday,2020,Penguins,Flyers,away,1-2,1-1,1-3,3-6,-105,6.0,-3,L,O,0
+2021-01-13 00:00:00,Wednesday,2020,Lightning,Blackhawks,home,3-0,1-0,1-1,5-1,-256,6.5,4,W,U,0
+2021-01-13 00:00:00,Wednesday,2020,Blackhawks,Lightning,away,0-3,0-1,1-1,1-5,220,6.5,-4,L,U,0
+2021-01-13 00:00:00,Wednesday,2020,Maple Leafs,Canadiens,home,1-2,2-1,1-1,5-4,-145,6.0,1,W,O,1
+2021-01-13 00:00:00,Wednesday,2020,Canadiens,Maple Leafs,away,2-1,1-2,1-1,4-5,131,6.0,-1,L,O,1
+2021-01-14 00:00:00,Thursday,2020,Predators,Blue Jackets,home,0-1,1-0,2-0,3-1,-120,5.5,2,W,U,0
+2021-01-14 00:00:00,Thursday,2020,Blue Jackets,Predators,away,1-0,0-1,0-2,1-3,109,5.5,-2,L,U,0
+2021-01-14 00:00:00,Thursday,2020,Jets,Flames,home,1-3,2-0,0-0,4-3,105,5.5,1,W,O,1
+2021-01-14 00:00:00,Thursday,2020,Flames,Jets,away,3-1,0-2,0-0,3-4,-116,5.5,-1,L,O,1
+2021-01-14 00:00:00,Thursday,2020,Oilers,Canucks,home,2-0,2-2,1-0,5-2,-130,6.0,3,W,O,0
+2021-01-14 00:00:00,Thursday,2020,Canucks,Oilers,away,0-2,2-2,0-1,2-5,118,6.0,-3,L,O,0
+2021-01-14 00:00:00,Thursday,2020,Coyotes,Sharks,home,0-2,1-0,2-1,3-4,-135,5.5,-1,L,O,1
+2021-01-14 00:00:00,Thursday,2020,Sharks,Coyotes,away,2-0,0-1,1-2,4-3,115,5.5,1,W,O,1
+2021-01-14 00:00:00,Thursday,2020,Sabres,Capitals,home,1-2,1-2,2-2,4-6,110,6.0,-2,L,O,0
+2021-01-14 00:00:00,Thursday,2020,Capitals,Sabres,away,2-1,2-1,2-2,6-4,-130,6.0,2,W,O,0
+2021-01-14 00:00:00,Thursday,2020,Devils,Bruins,home,0-1,0-0,2-1,2-3,165,5.5,-1,L,U,1
+2021-01-14 00:00:00,Thursday,2020,Bruins,Devils,away,1-0,0-0,1-2,3-2,-185,5.5,1,W,U,1
+2021-01-14 00:00:00,Thursday,2020,Rangers,Islanders,home,0-3,0-1,0-0,0-4,-110,6.0,-4,L,U,0
+2021-01-14 00:00:00,Thursday,2020,Islanders,Rangers,away,3-0,1-0,0-0,4-0,-110,6.0,4,W,U,0
+2021-01-14 00:00:00,Thursday,2020,Red Wings,Hurricanes,home,0-1,0-0,0-2,0-3,185,6.0,-3,L,U,0
+2021-01-14 00:00:00,Thursday,2020,Hurricanes,Red Wings,away,1-0,0-0,2-0,3-0,-225,6.0,3,W,U,0
+2021-01-14 00:00:00,Thursday,2020,Knights,Ducks,home,2-2,0-0,3-0,5-2,-230,6.0,3,W,O,0
+2021-01-14 00:00:00,Thursday,2020,Ducks,Knights,away,2-2,0-0,0-3,2-5,198,6.0,-3,L,O,0
+2021-01-14 00:00:00,Thursday,2020,Kings,Wild,home,1-1,2-0,0-2,3-4,120,5.5,-1,L,O,1
+2021-01-14 00:00:00,Thursday,2020,Wild,Kings,away,1-1,0-2,2-0,4-3,-140,5.5,1,W,O,1
+2021-01-15 00:00:00,Friday,2020,Avalanche,Blues,home,0-0,4-0,4-0,8-0,-140,5.5,8,W,O,0
+2021-01-15 00:00:00,Friday,2020,Blues,Avalanche,away,0-0,0-4,0-4,0-8,127,5.5,-8,L,O,0
+2021-01-15 00:00:00,Friday,2020,Sabres,Capitals,home,0-0,0-1,1-1,1-2,100,6.0,-1,L,U,0
+2021-01-15 00:00:00,Friday,2020,Capitals,Sabres,away,0-0,1-0,1-1,2-1,-120,6.0,1,W,U,0
+2021-01-15 00:00:00,Friday,2020,Flyers,Penguins,home,3-2,0-0,2-0,5-2,-105,6.0,3,W,O,0
+2021-01-15 00:00:00,Friday,2020,Penguins,Flyers,away,2-3,0-0,0-2,2-5,-105,6.0,-3,L,O,0
+2021-01-15 00:00:00,Friday,2020,Lightning,Blackhawks,home,0-0,3-2,2-0,5-2,-255,6.5,3,W,O,0
+2021-01-15 00:00:00,Friday,2020,Blackhawks,Lightning,away,0-0,2-3,0-2,2-5,219,6.5,-3,L,O,0
+2021-01-15 00:00:00,Friday,2020,Senators,Maple Leafs,home,1-1,3-1,1-1,5-3,180,6.5,2,W,O,0
+2021-01-15 00:00:00,Friday,2020,Maple Leafs,Senators,away,1-1,1-3,1-1,3-5,-200,6.5,-2,L,O,0
+2021-01-16 00:00:00,Saturday,2020,Predators,Blue Jackets,home,1-1,0-0,4-1,5-2,-115,5.5,3,W,O,0
+2021-01-16 00:00:00,Saturday,2020,Blue Jackets,Predators,away,1-1,0-0,1-4,2-5,104,5.5,-3,L,O,0
+2021-01-16 00:00:00,Saturday,2020,Flames,Canucks,home,1-0,1-0,1-0,3-0,-140,6.5,3,W,U,0
+2021-01-16 00:00:00,Saturday,2020,Canucks,Flames,away,0-1,0-1,0-1,0-3,127,6.5,-3,L,U,0
+2021-01-16 00:00:00,Saturday,2020,Oilers,Canadiens,home,0-1,0-3,1-1,1-5,-110,6.5,-4,L,U,0
+2021-01-16 00:00:00,Saturday,2020,Canadiens,Oilers,away,1-0,3-0,1-1,5-1,-110,6.5,4,W,U,0
+2021-01-16 00:00:00,Saturday,2020,Coyotes,Sharks,home,2-2,2-0,1-1,5-3,-130,5.5,2,W,O,0
+2021-01-16 00:00:00,Saturday,2020,Sharks,Coyotes,away,2-2,0-2,1-1,3-5,118,5.5,-2,L,O,0
+2021-01-16 00:00:00,Saturday,2020,Devils,Bruins,home,1-0,0-1,0-0,2-1,165,5.5,1,W,U,1
+2021-01-16 00:00:00,Saturday,2020,Bruins,Devils,away,0-1,1-0,0-0,1-2,-184,5.5,-1,L,U,1
+2021-01-16 00:00:00,Saturday,2020,Rangers,Islanders,home,2-0,2-0,1-0,5-0,-105,6.0,5,W,U,0
+2021-01-16 00:00:00,Saturday,2020,Islanders,Rangers,away,0-2,0-2,0-1,0-5,-105,6.0,-5,L,U,0
+2021-01-16 00:00:00,Saturday,2020,Red Wings,Hurricanes,home,0-0,1-0,3-2,4-2,199,5.5,2,W,O,0
+2021-01-16 00:00:00,Saturday,2020,Hurricanes,Red Wings,away,0-0,0-1,2-3,2-4,-223,5.5,-2,L,O,0
+2021-01-16 00:00:00,Saturday,2020,Senators,Maple Leafs,home,1-1,0-1,1-1,2-3,180,6.5,-1,L,U,0
+2021-01-16 00:00:00,Saturday,2020,Maple Leafs,Senators,away,1-1,1-0,1-1,3-2,-210,6.5,1,W,U,0
+2021-01-16 00:00:00,Saturday,2020,Knights,Ducks,home,0-0,0-1,1-0,2-1,-220,6.0,1,W,U,1
+2021-01-16 00:00:00,Saturday,2020,Ducks,Knights,away,0-0,1-0,0-1,1-2,196,6.0,-1,L,U,1
+2021-01-16 00:00:00,Saturday,2020,Kings,Wild,home,1-1,2-0,0-2,3-4,120,5.5,-1,L,O,1
+2021-01-16 00:00:00,Saturday,2020,Wild,Kings,away,1-1,0-2,2-0,4-3,-140,5.5,1,W,O,1
+2021-01-17 00:00:00,Sunday,2020,Panthers,Blackhawks,home,0-0,2-1,3-1,5-2,-150,6.5,3,W,O,0
+2021-01-17 00:00:00,Sunday,2020,Blackhawks,Panthers,away,0-0,1-2,1-3,2-5,136,6.5,-3,L,O,0
+2021-01-17 00:00:00,Sunday,2020,Penguins,Capitals,home,1-2,2-1,0-0,4-3,-125,6.5,1,W,O,1
+2021-01-17 00:00:00,Sunday,2020,Capitals,Penguins,away,2-1,1-2,0-0,3-4,113,6.5,-1,L,O,1
+2021-01-18 00:00:00,Monday,2020,Blues,Sharks,home,0-2,4-1,1-1,5-4,-180,5.5,1,W,O,0
+2021-01-18 00:00:00,Monday,2020,Sharks,Blues,away,2-0,1-4,1-1,4-5,162,5.5,-1,L,O,0
+2021-01-18 00:00:00,Monday,2020,Predators,Hurricanes,home,0-0,1-1,1-3,2-4,105,6.0,-2,L,P,0
+2021-01-18 00:00:00,Monday,2020,Hurricanes,Predators,away,0-0,1-1,3-1,4-2,-125,6.0,2,W,P,0
+2021-01-18 00:00:00,Monday,2020,Flames,Canucks,home,0-1,3-0,2-1,5-2,-150,6.0,3,W,O,0
+2021-01-18 00:00:00,Monday,2020,Canucks,Flames,away,1-0,0-3,1-2,2-5,136,6.0,-3,L,O,0
+2021-01-18 00:00:00,Monday,2020,Oilers,Canadiens,home,0-1,0-1,1-1,1-3,-115,6.5,-2,L,U,0
+2021-01-18 00:00:00,Monday,2020,Canadiens,Oilers,away,1-0,1-0,1-1,3-1,-105,6.5,2,W,U,0
+2021-01-18 00:00:00,Monday,2020,Islanders,Bruins,home,0-0,0-0,1-0,1-0,115,5.5,1,W,U,0
+2021-01-18 00:00:00,Monday,2020,Bruins,Islanders,away,0-0,0-0,0-1,0-1,-127,5.5,-1,L,U,0
+2021-01-18 00:00:00,Monday,2020,Flyers,Sabres,home,0-1,0-3,1-2,1-6,-155,6.0,-5,L,O,0
+2021-01-18 00:00:00,Monday,2020,Sabres,Flyers,away,1-0,3-0,2-1,6-1,135,6.0,5,W,O,0
+2021-01-18 00:00:00,Monday,2020,Red Wings,Blue Jackets,home,1-0,0-1,1-2,2-3,160,5.5,-1,L,U,0
+2021-01-18 00:00:00,Monday,2020,Blue Jackets,Red Wings,away,0-1,1-0,2-1,3-2,-180,5.5,1,W,U,0
+2021-01-18 00:00:00,Monday,2020,Maple Leafs,Jets,home,0-0,2-1,1-0,3-1,-170,6.5,2,W,U,0
+2021-01-18 00:00:00,Monday,2020,Jets,Maple Leafs,away,0-0,1-2,0-1,1-3,153,6.5,-2,L,U,0
+2021-01-18 00:00:00,Monday,2020,Knights,Coyotes,home,0-1,1-1,3-0,4-2,-200,5.5,2,W,O,0
+2021-01-18 00:00:00,Monday,2020,Coyotes,Knights,away,1-0,1-1,0-3,2-4,180,5.5,-2,L,O,0
+2021-01-18 00:00:00,Monday,2020,Ducks,Wild,home,0-0,0-0,1-0,1-0,120,5.5,1,W,U,0
+2021-01-18 00:00:00,Monday,2020,Wild,Ducks,away,0-0,0-0,0-1,0-1,-133,5.5,-1,L,U,0
+2021-01-19 00:00:00,Tuesday,2020,Rangers,Devils,home,0-1,2-3,1-0,3-4,-149,6.0,-1,L,O,0
+2021-01-19 00:00:00,Tuesday,2020,Devils,Rangers,away,1-0,3-2,0-1,4-3,130,6.0,1,W,O,0
+2021-01-19 00:00:00,Tuesday,2020,Flyers,Sabres,home,0-0,1-0,2-0,3-0,-140,6.0,3,W,U,0
+2021-01-19 00:00:00,Tuesday,2020,Sabres,Flyers,away,0-0,0-1,0-2,0-3,127,6.0,-3,L,U,0
+2021-01-19 00:00:00,Tuesday,2020,Panthers,Blackhawks,home,2-1,1-2,1-1,5-4,-155,6.5,1,W,O,1
+2021-01-19 00:00:00,Tuesday,2020,Blackhawks,Panthers,away,1-2,2-1,1-1,4-5,140,6.5,-1,L,O,1
+2021-01-19 00:00:00,Tuesday,2020,Penguins,Capitals,home,1-3,3-1,0-0,5-4,-135,6.5,1,W,O,1
+2021-01-19 00:00:00,Tuesday,2020,Capitals,Penguins,away,3-1,1-3,0-0,4-5,122,6.5,-1,L,O,1
+2021-01-19 00:00:00,Tuesday,2020,Red Wings,Blue Jackets,home,0-0,2-1,0-1,3-2,155,5.5,1,W,U,1
+2021-01-19 00:00:00,Tuesday,2020,Blue Jackets,Red Wings,away,0-0,1-2,1-0,2-3,-172,5.5,-1,L,U,1
+2021-01-19 00:00:00,Tuesday,2020,Senators,Jets,home,2-1,1-1,0-1,3-4,-110,6.0,-1,L,O,1
+2021-01-19 00:00:00,Tuesday,2020,Jets,Senators,away,1-2,1-1,1-0,4-3,-110,6.0,1,W,O,1
+2021-01-19 00:00:00,Tuesday,2020,Kings,Avalanche,home,0-1,0-2,2-0,2-3,210,6.0,-1,L,U,0
+2021-01-19 00:00:00,Tuesday,2020,Avalanche,Kings,away,1-0,2-0,0-2,3-2,-238,6.0,1,W,U,0
+2021-01-20 00:00:00,Wednesday,2020,Blues,Sharks,home,0-0,1-1,0-0,1-2,-185,6.0,-1,L,U,1
+2021-01-20 00:00:00,Wednesday,2020,Sharks,Blues,away,0-0,1-1,0-0,2-1,165,6.0,1,W,U,1
+2021-01-20 00:00:00,Wednesday,2020,Maple Leafs,Oilers,home,0-1,0-0,1-2,1-3,-150,6.5,-2,L,U,0
+2021-01-20 00:00:00,Wednesday,2020,Oilers,Maple Leafs,away,1-0,0-0,2-1,3-1,130,6.5,2,W,U,0
+2021-01-20 00:00:00,Wednesday,2020,Canucks,Canadiens,home,1-0,2-3,2-2,6-5,110,6.0,1,W,O,1
+2021-01-20 00:00:00,Wednesday,2020,Canadiens,Canucks,away,0-1,3-2,2-2,5-6,-121,6.0,-1,L,O,1
+2021-01-20 00:00:00,Wednesday,2020,Knights,Coyotes,home,2-0,1-1,2-1,5-2,-185,5.5,3,W,O,0
+2021-01-20 00:00:00,Wednesday,2020,Coyotes,Knights,away,0-2,1-1,1-2,2-5,166,5.5,-3,L,O,0
+2021-01-20 00:00:00,Wednesday,2020,Ducks,Wild,home,0-1,2-1,0-1,2-3,120,5.5,-1,L,U,0
+2021-01-20 00:00:00,Wednesday,2020,Wild,Ducks,away,1-0,1-2,1-0,3-2,-140,5.5,1,W,U,0
+2021-01-21 00:00:00,Thursday,2020,Bruins,Flyers,home,0-0,0-2,4-2,5-4,-145,5.5,1,W,O,1
+2021-01-21 00:00:00,Thursday,2020,Flyers,Bruins,away,0-0,2-0,2-4,4-5,131,5.5,-1,L,O,1
+2021-01-21 00:00:00,Thursday,2020,Islanders,Devils,home,2-0,0-1,2-0,4-1,-179,5.5,3,W,U,0
+2021-01-21 00:00:00,Thursday,2020,Devils,Islanders,away,0-2,1-0,0-2,1-4,161,5.5,-3,L,U,0
+2021-01-21 00:00:00,Thursday,2020,Blue Jackets,Lightning,home,1-0,0-2,1-0,2-3,140,5.5,-1,L,U,1
+2021-01-21 00:00:00,Thursday,2020,Lightning,Blue Jackets,away,0-1,2-0,0-1,3-2,-161,5.5,1,W,U,1
+2021-01-21 00:00:00,Thursday,2020,Senators,Jets,home,0-1,0-3,1-0,1-4,100,6.0,-3,L,U,0
+2021-01-21 00:00:00,Thursday,2020,Jets,Senators,away,1-0,3-0,0-1,4-1,-120,6.0,3,W,U,0
+2021-01-21 00:00:00,Thursday,2020,Canucks,Canadiens,home,2-2,0-4,1-1,3-7,130,6.5,-4,L,O,0
+2021-01-21 00:00:00,Thursday,2020,Canadiens,Canucks,away,2-2,4-0,1-1,7-3,-149,6.5,4,W,O,0
+2021-01-21 00:00:00,Thursday,2020,Kings,Avalanche,home,0-2,2-0,2-0,4-2,210,5.5,2,W,O,0
+2021-01-21 00:00:00,Thursday,2020,Avalanche,Kings,away,2-0,0-2,0-2,2-4,-243,5.5,-2,L,O,0
+2021-01-22 00:00:00,Friday,2020,Blackhawks,Red Wings,home,1-0,1-0,2-1,4-1,-130,6.0,3,W,U,0
+2021-01-22 00:00:00,Friday,2020,Red Wings,Blackhawks,away,0-1,0-1,1-2,1-4,118,6.0,-3,L,U,0
+2021-01-22 00:00:00,Friday,2020,Wild,Sharks,home,1-1,1-0,2-0,4-1,-160,6.0,3,W,U,0
+2021-01-22 00:00:00,Friday,2020,Sharks,Wild,away,1-1,0-1,0-2,1-4,144,6.0,-3,L,U,0
+2021-01-22 00:00:00,Friday,2020,Stars,Predators,home,0-0,5-0,2-0,7-0,-113,5.5,7,W,O,0
+2021-01-22 00:00:00,Friday,2020,Predators,Stars,away,0-0,0-5,0-2,0-7,102,5.5,-7,L,O,0
+2021-01-22 00:00:00,Friday,2020,Coyotes,Knights,home,1-0,2-1,2-1,5-2,155,5.5,3,W,O,0
+2021-01-22 00:00:00,Friday,2020,Knights,Coyotes,away,0-1,1-2,1-2,2-5,-170,5.5,-3,L,O,0
+2021-01-22 00:00:00,Friday,2020,Capitals,Sabres,home,1-1,2-2,0-0,4-3,-105,5.5,1,W,O,1
+2021-01-22 00:00:00,Friday,2020,Sabres,Capitals,away,1-1,2-2,0-0,3-4,-105,5.5,-1,L,O,1
+2021-01-22 00:00:00,Friday,2020,Penguins,Rangers,home,1-0,1-3,1-0,4-3,-145,6.5,1,W,O,1
+2021-01-22 00:00:00,Friday,2020,Rangers,Penguins,away,0-1,3-1,0-1,3-4,131,6.5,-1,L,O,1
+2021-01-22 00:00:00,Friday,2020,Maple Leafs,Oilers,home,0-0,2-1,2-1,4-2,-125,6.0,2,W,P,0
+2021-01-22 00:00:00,Friday,2020,Oilers,Maple Leafs,away,0-0,1-2,1-2,2-4,115,6.0,-2,L,P,0
+2021-01-22 00:00:00,Friday,2020,Ducks,Avalanche,home,0-1,1-0,1-1,2-3,165,5.5,-1,L,U,1
+2021-01-22 00:00:00,Friday,2020,Avalanche,Ducks,away,1-0,0-1,1-1,3-2,-185,5.5,1,W,U,1
+2021-01-23 00:00:00,Saturday,2020,Blues,Kings,home,1-0,2-2,1-0,4-2,-200,5.5,2,W,O,0
+2021-01-23 00:00:00,Saturday,2020,Kings,Blues,away,0-1,2-2,0-1,2-4,180,5.5,-2,L,O,0
+2021-01-23 00:00:00,Saturday,2020,Jets,Senators,home,1-0,1-3,4-0,6-3,-150,6.0,3,W,O,0
+2021-01-23 00:00:00,Saturday,2020,Senators,Jets,away,0-1,3-1,0-4,3-6,136,6.0,-3,L,O,0
+2021-01-23 00:00:00,Saturday,2020,Bruins,Flyers,home,1-0,2-1,3-0,6-1,-145,5.5,5,W,O,0
+2021-01-23 00:00:00,Saturday,2020,Flyers,Bruins,away,0-1,1-2,0-3,1-6,131,5.5,-5,L,O,0
+2021-01-23 00:00:00,Saturday,2020,Blue Jackets,Lightning,home,3-2,0-0,2-0,5-2,155,5.5,3,W,O,0
+2021-01-23 00:00:00,Saturday,2020,Lightning,Blue Jackets,away,2-3,0-0,0-2,2-5,-172,5.5,-3,L,O,0
+2021-01-23 00:00:00,Saturday,2020,Canucks,Canadiens,home,0-1,0-1,2-3,2-5,125,6.0,-3,L,O,0
+2021-01-23 00:00:00,Saturday,2020,Canadiens,Canucks,away,1-0,1-0,3-2,5-2,-145,6.0,3,W,O,0
+2021-01-24 00:00:00,Sunday,2020,Blues,Kings,home,1-2,0-3,2-1,3-6,-200,5.5,-3,L,O,0
+2021-01-24 00:00:00,Sunday,2020,Kings,Blues,away,2-1,3-0,1-2,6-3,170,5.5,3,W,O,0
+2021-01-24 00:00:00,Sunday,2020,Jets,Oilers,home,1-0,0-2,2-2,3-4,120,6.5,-1,L,O,0
+2021-01-24 00:00:00,Sunday,2020,Oilers,Jets,away,0-1,2-0,2-2,4-3,-145,6.5,1,W,O,0
+2021-01-24 00:00:00,Sunday,2020,Wild,Sharks,home,1-1,1-2,1-2,3-5,-145,5.5,-2,L,O,0
+2021-01-24 00:00:00,Sunday,2020,Sharks,Wild,away,1-1,2-1,2-1,5-3,125,5.5,2,W,O,0
+2021-01-24 00:00:00,Sunday,2020,Stars,Predators,home,1-0,1-1,1-1,3-2,-115,5.5,1,W,U,0
+2021-01-24 00:00:00,Sunday,2020,Predators,Stars,away,0-1,1-1,1-1,2-3,104,5.5,-1,L,U,0
+2021-01-24 00:00:00,Sunday,2020,Flames,Maple Leafs,home,0-1,1-1,1-1,2-3,100,6.0,-1,L,U,0
+2021-01-24 00:00:00,Sunday,2020,Maple Leafs,Flames,away,1-0,1-1,1-1,3-2,-120,6.0,1,W,U,0
+2021-01-24 00:00:00,Sunday,2020,Coyotes,Knights,home,0-0,0-0,0-1,0-1,155,5.5,-1,L,U,0
+2021-01-24 00:00:00,Sunday,2020,Knights,Coyotes,away,0-0,0-0,1-0,1-0,-175,5.5,1,W,U,0
+2021-01-24 00:00:00,Sunday,2020,Devils,Islanders,home,2-0,0-0,0-0,2-0,145,5.5,2,W,U,0
+2021-01-24 00:00:00,Sunday,2020,Islanders,Devils,away,0-2,0-0,0-0,0-2,-161,5.5,-2,L,U,0
+2021-01-24 00:00:00,Sunday,2020,Capitals,Sabres,home,1-0,1-2,1-1,3-4,105,6.0,-1,L,O,1
+2021-01-24 00:00:00,Sunday,2020,Sabres,Capitals,away,0-1,2-1,1-1,4-3,-125,6.0,1,W,O,1
+2021-01-24 00:00:00,Sunday,2020,Penguins,Rangers,home,0-1,1-1,2-0,3-2,-135,6.5,1,W,U,0
+2021-01-24 00:00:00,Sunday,2020,Rangers,Penguins,away,1-0,1-1,0-2,2-3,122,6.5,-1,L,U,0
+2021-01-24 00:00:00,Sunday,2020,Ducks,Avalanche,home,1-0,1-0,1-1,3-1,170,5.5,2,W,U,0
+2021-01-24 00:00:00,Sunday,2020,Avalanche,Ducks,away,0-1,0-1,1-1,1-3,-189,5.5,-2,L,U,0
+2021-01-25 00:00:00,Monday,2020,Canucks,Senators,home,2-0,2-1,3-0,7-1,-145,6.5,6,W,O,0
+2021-01-25 00:00:00,Monday,2020,Senators,Canucks,away,0-2,1-2,0-3,1-7,131,6.5,-6,L,O,0
+2021-01-26 00:00:00,Tuesday,2020,Stars,Red Wings,home,0-1,1-0,0-0,2-1,-222,5.5,1,W,U,1
+2021-01-26 00:00:00,Tuesday,2020,Red Wings,Stars,away,1-0,0-1,0-0,1-2,198,5.5,-1,L,U,1
+2021-01-26 00:00:00,Tuesday,2020,Flames,Maple Leafs,home,0-2,2-1,1-1,3-4,-105,6.0,-1,L,O,0
+2021-01-26 00:00:00,Tuesday,2020,Maple Leafs,Flames,away,2-0,1-2,1-1,4-3,-115,6.0,1,W,O,0
+2021-01-26 00:00:00,Tuesday,2020,Avalanche,Sharks,home,3-1,4-1,0-1,7-3,-210,6.0,4,W,O,0
+2021-01-26 00:00:00,Tuesday,2020,Sharks,Avalanche,away,1-3,1-4,1-0,3-7,188,6.0,-4,L,O,0
+2021-01-26 00:00:00,Tuesday,2020,Coyotes,Ducks,home,0-1,0-0,0-0,0-1,-135,5.5,-1,L,U,0
+2021-01-26 00:00:00,Tuesday,2020,Ducks,Coyotes,away,1-0,0-0,0-0,1-0,115,5.5,1,W,U,0
+2021-01-26 00:00:00,Tuesday,2020,Bruins,Penguins,home,1-0,1-0,0-2,3-2,-135,5.5,1,W,U,1
+2021-01-26 00:00:00,Tuesday,2020,Penguins,Bruins,away,0-1,0-1,2-0,2-3,122,5.5,-1,L,U,1
+2021-01-26 00:00:00,Tuesday,2020,Sabres,Rangers,home,1-2,2-0,0-0,3-2,-110,6.0,1,W,U,0
+2021-01-26 00:00:00,Tuesday,2020,Rangers,Sabres,away,2-1,0-2,0-0,2-3,100,6.0,-1,L,U,0
+2021-01-26 00:00:00,Tuesday,2020,Devils,Flyers,home,0-1,2-1,1-3,3-5,130,5.5,-2,L,O,0
+2021-01-26 00:00:00,Tuesday,2020,Flyers,Devils,away,1-0,1-2,3-1,5-3,-145,5.5,2,W,O,0
+2021-01-26 00:00:00,Tuesday,2020,Capitals,Islanders,home,1-1,1-1,1-0,3-2,110,5.5,1,W,U,0
+2021-01-26 00:00:00,Tuesday,2020,Islanders,Capitals,away,1-1,1-1,0-1,2-3,-121,5.5,-1,L,U,0
+2021-01-26 00:00:00,Tuesday,2020,Blue Jackets,Panthers,home,2-1,0-1,1-1,3-4,-115,5.5,-1,L,O,1
+2021-01-26 00:00:00,Tuesday,2020,Panthers,Blue Jackets,away,1-2,1-0,1-1,4-3,-105,5.5,1,W,O,1
+2021-01-26 00:00:00,Tuesday,2020,Knights,Blues,home,1-3,1-1,2-0,4-5,-149,6.0,-1,L,O,1
+2021-01-26 00:00:00,Tuesday,2020,Blues,Knights,away,3-1,1-1,0-2,5-4,130,6.0,1,W,O,1
+2021-01-27 00:00:00,Wednesday,2020,Predators,Blackhawks,home,0-0,0-0,1-1,2-1,-175,6.0,1,W,U,1
+2021-01-27 00:00:00,Wednesday,2020,Blackhawks,Predators,away,0-0,0-0,1-1,1-2,158,6.0,-1,L,U,1
+2021-01-27 00:00:00,Wednesday,2020,Canucks,Senators,home,1-1,3-0,1-0,5-1,-155,6.5,4,W,U,0
+2021-01-27 00:00:00,Wednesday,2020,Senators,Canucks,away,1-1,0-3,0-1,1-5,140,6.5,-4,L,U,0
+2021-01-28 00:00:00,Thursday,2020,Avalanche,Sharks,home,0-0,0-0,3-0,3-0,-230,6.0,3,W,U,0
+2021-01-28 00:00:00,Thursday,2020,Sharks,Avalanche,away,0-0,0-0,0-3,0-3,198,6.0,-3,L,U,0
+2021-01-28 00:00:00,Thursday,2020,Coyotes,Ducks,home,0-1,1-0,2-1,3-2,-125,5.0,1,W,P,0
+2021-01-28 00:00:00,Thursday,2020,Ducks,Coyotes,away,1-0,0-1,1-2,2-3,113,5.0,-1,L,P,0
+2021-01-28 00:00:00,Thursday,2020,Bruins,Penguins,home,2-1,1-0,1-0,4-1,-130,5.5,3,W,U,0
+2021-01-28 00:00:00,Thursday,2020,Penguins,Bruins,away,1-2,0-1,0-1,1-4,118,5.5,-3,L,U,0
+2021-01-28 00:00:00,Thursday,2020,Sabres,Rangers,home,1-1,0-1,1-0,2-3,105,6.0,-1,L,U,1
+2021-01-28 00:00:00,Thursday,2020,Rangers,Sabres,away,1-1,1-0,0-1,3-2,-125,6.0,1,W,U,1
+2021-01-28 00:00:00,Thursday,2020,Devils,Flyers,home,1-1,0-0,0-2,1-3,140,5.5,-2,L,U,0
+2021-01-28 00:00:00,Thursday,2020,Flyers,Devils,away,1-1,0-0,2-0,3-1,-165,5.5,2,W,U,0
+2021-01-28 00:00:00,Thursday,2020,Capitals,Islanders,home,0-3,5-0,1-0,6-3,110,5.5,3,W,O,0
+2021-01-28 00:00:00,Thursday,2020,Islanders,Capitals,away,3-0,0-5,0-1,3-6,-121,5.5,-3,L,O,0
+2021-01-28 00:00:00,Thursday,2020,Hurricanes,Lightning,home,0-0,0-0,0-0,1-0,130,6.0,1,W,U,1
+2021-01-28 00:00:00,Thursday,2020,Lightning,Hurricanes,away,0-0,0-0,0-0,0-1,-144,6.0,-1,L,U,1
+2021-01-28 00:00:00,Thursday,2020,Blue Jackets,Panthers,home,1-0,0-1,1-1,3-2,-105,5.5,1,W,U,1
+2021-01-28 00:00:00,Thursday,2020,Panthers,Blue Jackets,away,0-1,1-0,1-1,2-3,-105,5.5,-1,L,U,1
+2021-01-28 00:00:00,Thursday,2020,Canadiens,Flames,home,2-0,2-0,0-2,4-2,-125,6.0,2,W,P,0
+2021-01-28 00:00:00,Thursday,2020,Flames,Canadiens,away,0-2,0-2,2-0,2-4,113,6.0,-2,L,P,0
+2021-01-28 00:00:00,Thursday,2020,Canucks,Senators,home,2-0,1-1,1-0,4-1,-170,6.5,3,W,U,0
+2021-01-28 00:00:00,Thursday,2020,Senators,Canucks,away,0-2,1-1,0-1,1-4,153,6.5,-3,L,U,0
+2021-01-29 00:00:00,Friday,2020,Blackhawks,Blue Jackets,home,0-1,1-1,0-0,1-2,105,5.5,-1,L,U,0
+2021-01-29 00:00:00,Friday,2020,Blue Jackets,Blackhawks,away,1-0,1-1,0-0,2-1,-135,5.5,1,W,U,0
+2021-01-30 00:00:00,Saturday,2020,Oilers,Maple Leafs,home,2-1,1-2,0-0,4-3,110,6.5,1,W,O,1
+2021-01-30 00:00:00,Saturday,2020,Maple Leafs,Oilers,away,1-2,2-1,0-0,3-4,-120,6.5,-1,L,O,1
+2021-01-30 00:00:00,Saturday,2020,Sabres,Devils,home,0-0,1-1,2-2,4-3,-155,5.5,1,W,O,1
+2021-01-30 00:00:00,Saturday,2020,Devils,Sabres,away,0-0,1-1,2-2,3-4,140,5.5,-1,L,O,1
+2021-01-30 00:00:00,Saturday,2020,Rangers,Penguins,home,1-2,3-1,0-1,4-5,-110,6.0,-1,L,O,1
+2021-01-30 00:00:00,Saturday,2020,Penguins,Rangers,away,2-1,1-3,1-0,5-4,-110,6.0,1,W,O,1
+2021-01-30 00:00:00,Saturday,2020,Flyers,Islanders,home,2-0,0-2,0-0,3-2,-125,5.5,1,W,U,1
+2021-01-30 00:00:00,Saturday,2020,Islanders,Flyers,away,0-2,2-0,0-0,2-3,115,5.5,-1,L,U,1
+2021-01-30 00:00:00,Saturday,2020,Capitals,Bruins,home,1-0,2-1,0-2,4-3,130,5.5,1,W,O,1
+2021-01-30 00:00:00,Saturday,2020,Bruins,Capitals,away,0-1,1-2,2-0,3-4,-140,5.5,-1,L,O,1
+2021-01-30 00:00:00,Saturday,2020,Hurricanes,Stars,home,2-0,2-0,0-1,4-1,-125,5.5,3,W,U,0
+2021-01-30 00:00:00,Saturday,2020,Stars,Hurricanes,away,0-2,0-2,1-0,1-4,115,5.5,-3,L,U,0
+2021-01-30 00:00:00,Saturday,2020,Lightning,Predators,home,0-1,4-0,0-2,4-3,-170,5.5,1,W,O,0
+2021-01-30 00:00:00,Saturday,2020,Predators,Lightning,away,1-0,0-4,2-0,3-4,155,5.5,-1,L,O,0
+2021-01-30 00:00:00,Saturday,2020,Red Wings,Panthers,home,2-2,0-0,0-0,2-3,155,6.0,-1,L,U,1
+2021-01-30 00:00:00,Saturday,2020,Panthers,Red Wings,away,2-2,0-0,0-0,3-2,-170,6.0,1,W,U,1
+2021-01-30 00:00:00,Saturday,2020,Canadiens,Flames,home,0-1,0-0,0-1,0-2,-130,6.0,-2,L,U,0
+2021-01-30 00:00:00,Saturday,2020,Flames,Canadiens,away,1-0,0-0,1-0,2-0,120,6.0,2,W,U,0
+2021-01-30 00:00:00,Saturday,2020,Ducks,Blues,home,1-3,0-1,0-2,1-6,155,5.5,-5,L,O,0
+2021-01-30 00:00:00,Saturday,2020,Blues,Ducks,away,3-1,1-0,2-0,6-1,-170,5.5,5,W,O,0
+2021-01-31 00:00:00,Sunday,2020,Blackhawks,Blue Jackets,home,1-1,0-0,2-0,3-1,100,5.5,2,W,U,0
+2021-01-31 00:00:00,Sunday,2020,Blue Jackets,Blackhawks,away,1-1,0-0,0-2,1-3,-110,5.5,-2,L,U,0
+2021-01-31 00:00:00,Sunday,2020,Wild,Avalanche,home,1-1,1-1,1-1,4-3,120,5.5,1,W,O,1
+2021-01-31 00:00:00,Sunday,2020,Avalanche,Wild,away,1-1,1-1,1-1,3-4,-133,5.5,-1,L,O,1
+2021-01-31 00:00:00,Sunday,2020,Oilers,Senators,home,5-3,3-0,0-2,8-5,-185,6.5,3,W,O,0
+2021-01-31 00:00:00,Sunday,2020,Senators,Oilers,away,3-5,0-3,2-0,5-8,166,6.5,-3,L,O,0
+2021-01-31 00:00:00,Sunday,2020,Sabres,Devils,home,0-2,2-1,1-2,3-5,-150,5.5,-2,L,O,0
+2021-01-31 00:00:00,Sunday,2020,Devils,Sabres,away,2-0,1-2,2-1,5-3,130,5.5,2,W,O,0
+2021-01-31 00:00:00,Sunday,2020,Flyers,Islanders,home,1-0,2-1,0-2,4-3,-120,5.5,1,W,O,1
+2021-01-31 00:00:00,Sunday,2020,Islanders,Flyers,away,0-1,1-2,2-0,3-4,109,5.5,-1,L,O,1
+2021-01-31 00:00:00,Sunday,2020,Hurricanes,Stars,home,1-0,1-1,1-2,4-3,-125,5.5,1,W,O,1
+2021-01-31 00:00:00,Sunday,2020,Stars,Hurricanes,away,0-1,1-1,2-1,3-4,113,5.5,-1,L,O,1
+2021-01-31 00:00:00,Sunday,2020,Red Wings,Panthers,home,1-0,0-2,1-1,2-3,160,5.5,-1,L,U,0
+2021-01-31 00:00:00,Sunday,2020,Panthers,Red Wings,away,0-1,2-0,1-1,3-2,-180,5.5,1,W,U,0
+2021-01-31 00:00:00,Sunday,2020,Ducks,Blues,home,1-0,0-2,0-2,1-4,140,5.5,-3,L,U,0
+2021-01-31 00:00:00,Sunday,2020,Blues,Ducks,away,0-1,2-0,2-0,4-1,-161,5.5,3,W,U,0
+2021-02-01 00:00:00,Monday,2020,Jets,Flames,home,2-0,0-1,1-2,3-4,105,6.0,-1,L,O,1
+2021-02-01 00:00:00,Monday,2020,Flames,Jets,away,0-2,1-0,2-1,4-3,-125,6.0,1,W,O,1
+2021-02-01 00:00:00,Monday,2020,Rangers,Penguins,home,0-1,1-0,2-0,3-1,-105,6.5,2,W,U,0
+2021-02-01 00:00:00,Monday,2020,Penguins,Rangers,away,1-0,0-1,0-2,1-3,-105,6.5,-2,L,U,0
+2021-02-01 00:00:00,Monday,2020,Capitals,Bruins,home,2-0,1-1,0-4,3-5,125,5.5,-2,L,O,0
+2021-02-01 00:00:00,Monday,2020,Bruins,Capitals,away,0-2,1-1,4-0,5-3,-145,5.5,2,W,O,0
+2021-02-01 00:00:00,Monday,2020,Lightning,Predators,home,3-0,1-0,1-2,5-2,-175,5.5,3,W,O,0
+2021-02-01 00:00:00,Monday,2020,Predators,Lightning,away,0-3,0-1,2-1,2-5,158,5.5,-3,L,O,0
+2021-02-01 00:00:00,Monday,2020,Canadiens,Canucks,home,3-1,3-0,0-1,6-2,-165,6.5,4,W,O,0
+2021-02-01 00:00:00,Monday,2020,Canucks,Canadiens,away,1-3,0-3,1-0,2-6,149,6.5,-4,L,O,0
+2021-02-02 00:00:00,Tuesday,2020,Blackhawks,Hurricanes,home,2-2,0-0,1-1,3-4,145,6.0,-1,L,O,1
+2021-02-02 00:00:00,Tuesday,2020,Hurricanes,Blackhawks,away,2-2,0-0,1-1,4-3,-165,6.0,1,W,O,1
+2021-02-02 00:00:00,Tuesday,2020,Blues,Coyotes,home,1-1,2-1,1-1,4-3,-165,5.5,1,W,O,0
+2021-02-02 00:00:00,Tuesday,2020,Coyotes,Blues,away,1-1,1-2,1-1,3-4,149,5.5,-1,L,O,0
+2021-02-02 00:00:00,Tuesday,2020,Jets,Flames,home,3-1,0-0,0-1,3-2,105,6.0,1,W,U,0
+2021-02-02 00:00:00,Tuesday,2020,Flames,Jets,away,1-3,0-0,1-0,2-3,-116,6.0,-1,L,U,0
+2021-02-02 00:00:00,Tuesday,2020,Oilers,Senators,home,3-0,1-1,0-1,4-2,-235,6.5,2,W,U,0
+2021-02-02 00:00:00,Tuesday,2020,Senators,Oilers,away,0-3,1-1,1-0,2-4,202,6.5,-2,L,U,0
+2021-02-02 00:00:00,Tuesday,2020,Avalanche,Wild,home,1-0,1-1,0-0,2-1,-160,5.5,1,W,U,0
+2021-02-02 00:00:00,Tuesday,2020,Wild,Avalanche,away,0-1,1-1,0-0,1-2,144,5.5,-1,L,U,0
+2021-02-02 00:00:00,Tuesday,2020,Blue Jackets,Stars,home,0-1,1-4,2-1,3-6,-110,5.0,-3,L,O,0
+2021-02-02 00:00:00,Tuesday,2020,Stars,Blue Jackets,away,1-0,4-1,1-2,6-3,-110,5.0,3,W,O,0
+2021-02-02 00:00:00,Tuesday,2020,Canadiens,Canucks,home,2-0,2-1,1-2,5-3,-165,6.5,2,W,O,0
+2021-02-02 00:00:00,Tuesday,2020,Canucks,Canadiens,away,0-2,1-2,2-1,3-5,149,6.5,-2,L,O,0
+2021-02-02 00:00:00,Tuesday,2020,Kings,Ducks,home,0-1,1-1,0-1,1-3,-120,5.5,-2,L,U,0
+2021-02-02 00:00:00,Tuesday,2020,Ducks,Kings,away,1-0,1-1,1-0,3-1,100,5.5,2,W,U,0
+2021-02-03 00:00:00,Wednesday,2020,Flyers,Bruins,home,0-1,1-0,2-2,3-4,115,5.5,-1,L,O,1
+2021-02-03 00:00:00,Wednesday,2020,Bruins,Flyers,away,1-0,0-1,2-2,4-3,-135,5.5,1,W,O,1
+2021-02-03 00:00:00,Wednesday,2020,Lightning,Red Wings,home,3-0,2-1,0-0,5-1,-345,5.5,4,W,O,0
+2021-02-03 00:00:00,Wednesday,2020,Red Wings,Lightning,away,0-3,1-2,0-0,1-5,293,5.5,-4,L,O,0
+2021-02-04 00:00:00,Thursday,2020,Blackhawks,Hurricanes,home,3-1,0-2,3-1,6-4,160,6.0,2,W,O,0
+2021-02-04 00:00:00,Thursday,2020,Hurricanes,Blackhawks,away,1-3,2-0,1-3,4-6,-178,6.0,-2,L,O,0
+2021-02-04 00:00:00,Thursday,2020,Blues,Coyotes,home,0-2,0-1,3-1,3-4,-169,5.5,-1,L,O,0
+2021-02-04 00:00:00,Thursday,2020,Coyotes,Blues,away,2-0,1-0,1-3,4-3,150,5.5,1,W,O,0
+2021-02-04 00:00:00,Thursday,2020,Jets,Flames,home,0-1,3-0,1-0,4-1,115,6.0,3,W,U,0
+2021-02-04 00:00:00,Thursday,2020,Flames,Jets,away,1-0,0-3,0-1,1-4,-127,6.0,-3,L,U,0
+2021-02-04 00:00:00,Thursday,2020,Rangers,Capitals,home,1-0,1-1,2-1,4-2,-115,6.5,2,W,U,0
+2021-02-04 00:00:00,Thursday,2020,Capitals,Rangers,away,0-1,1-1,1-2,2-4,104,6.5,-2,L,U,0
+2021-02-04 00:00:00,Thursday,2020,Panthers,Predators,home,2-2,3-1,0-2,5-6,-115,6.0,-1,L,O,1
+2021-02-04 00:00:00,Thursday,2020,Predators,Panthers,away,2-2,1-3,2-0,6-5,-105,6.0,1,W,O,1
+2021-02-04 00:00:00,Thursday,2020,Blue Jackets,Stars,home,2-0,1-2,1-1,4-3,110,5.0,1,W,O,0
+2021-02-04 00:00:00,Thursday,2020,Stars,Blue Jackets,away,0-2,2-1,1-1,3-4,-121,5.0,-1,L,O,0
+2021-02-04 00:00:00,Thursday,2020,Canadiens,Senators,home,1-2,0-1,1-0,2-3,-323,6.5,-1,L,U,0
+2021-02-04 00:00:00,Thursday,2020,Senators,Canadiens,away,2-1,1-0,0-1,3-2,260,6.5,1,W,U,0
+2021-02-04 00:00:00,Thursday,2020,Maple Leafs,Canucks,home,2-1,3-1,2-1,7-3,-170,6.5,4,W,O,0
+2021-02-04 00:00:00,Thursday,2020,Canucks,Maple Leafs,away,1-2,1-3,1-2,3-7,153,6.5,-4,L,O,0
+2021-02-05 00:00:00,Friday,2020,Flyers,Bruins,home,0-0,0-0,1-2,1-2,125,5.5,-1,L,U,0
+2021-02-05 00:00:00,Friday,2020,Bruins,Flyers,away,0-0,0-0,2-1,2-1,-145,5.5,1,W,U,0
+2021-02-05 00:00:00,Friday,2020,Lightning,Red Wings,home,1-1,1-0,1-0,3-1,-370,5.5,2,W,U,0
+2021-02-05 00:00:00,Friday,2020,Red Wings,Lightning,away,1-1,0-1,0-1,1-3,314,5.5,-2,L,U,0
+2021-02-05 00:00:00,Friday,2020,Panthers,Predators,home,0-1,2-0,0-0,2-1,-135,6.0,1,W,U,0
+2021-02-05 00:00:00,Friday,2020,Predators,Panthers,away,1-0,0-2,0-0,1-2,122,6.0,-1,L,U,0
+2021-02-05 00:00:00,Friday,2020,Knights,Kings,home,3-0,2-0,0-2,5-2,-250,5.5,3,W,O,0
+2021-02-05 00:00:00,Friday,2020,Kings,Knights,away,0-3,0-2,2-0,2-5,215,5.5,-3,L,O,0
+2021-02-05 00:00:00,Friday,2020,Ducks,Sharks,home,0-1,3-0,1-3,4-5,-115,5.5,-1,L,O,1
+2021-02-05 00:00:00,Friday,2020,Sharks,Ducks,away,1-0,0-3,3-1,5-4,-105,5.5,1,W,O,1
+2021-02-06 00:00:00,Saturday,2020,Flames,Oilers,home,1-2,2-0,3-2,6-4,-130,6.5,2,W,O,0
+2021-02-06 00:00:00,Saturday,2020,Oilers,Flames,away,2-1,0-2,2-3,4-6,118,6.5,-2,L,O,0
+2021-02-06 00:00:00,Saturday,2020,Islanders,Penguins,home,2-1,0-1,2-1,4-3,-120,5.5,1,W,O,0
+2021-02-06 00:00:00,Saturday,2020,Penguins,Islanders,away,1-2,1-0,1-2,3-4,109,5.5,-1,L,O,0
+2021-02-06 00:00:00,Saturday,2020,Senators,Canadiens,home,1-1,0-0,0-1,1-2,220,6.5,-1,L,U,0
+2021-02-06 00:00:00,Saturday,2020,Canadiens,Senators,away,1-1,0-0,1-0,2-1,-250,6.5,1,W,U,0
+2021-02-06 00:00:00,Saturday,2020,Maple Leafs,Canucks,home,2-0,1-0,2-1,5-1,-170,6.5,4,W,U,0
+2021-02-06 00:00:00,Saturday,2020,Canucks,Maple Leafs,away,0-2,0-1,1-2,1-5,153,6.5,-4,L,U,0
+2021-02-06 00:00:00,Saturday,2020,Ducks,Sharks,home,0-1,1-0,0-0,2-1,-115,6.0,1,W,U,1
+2021-02-06 00:00:00,Saturday,2020,Sharks,Ducks,away,1-0,0-1,0-0,1-2,104,6.0,-1,L,U,1
+2021-02-06 00:00:00,Saturday,2020,Blues,Coyotes,home,1-1,0-1,0-1,1-3,-149,5.5,-2,L,U,0
+2021-02-06 00:00:00,Saturday,2020,Coyotes,Blues,away,1-1,1-0,1-0,3-1,130,5.5,2,W,U,0
+2021-02-07 00:00:00,Sunday,2020,Stars,Blackhawks,home,0-0,0-1,1-0,1-2,-161,5.5,-1,L,U,1
+2021-02-07 00:00:00,Sunday,2020,Blackhawks,Stars,away,0-0,1-0,0-1,2-1,140,5.5,1,W,U,1
+2021-02-07 00:00:00,Sunday,2020,Capitals,Flyers,home,2-1,2-3,0-3,4-7,105,6.0,-3,L,O,0
+2021-02-07 00:00:00,Sunday,2020,Flyers,Capitals,away,1-2,3-2,3-0,7-4,-125,6.0,3,W,O,0
+2021-02-07 00:00:00,Sunday,2020,Panthers,Red Wings,home,0-0,0-2,1-2,1-4,-250,5.5,-3,L,U,0
+2021-02-07 00:00:00,Sunday,2020,Red Wings,Panthers,away,0-0,2-0,2-1,4-1,220,5.5,3,W,U,0
+2021-02-07 00:00:00,Sunday,2020,Blue Jackets,Hurricanes,home,2-1,1-3,2-2,5-6,125,5.5,-1,L,O,0
+2021-02-07 00:00:00,Sunday,2020,Hurricanes,Blue Jackets,away,1-2,3-1,2-2,6-5,-145,5.5,1,W,O,0
+2021-02-07 00:00:00,Sunday,2020,Knights,Kings,home,3-2,0-1,1-0,4-3,-270,5.5,1,W,O,0
+2021-02-07 00:00:00,Sunday,2020,Kings,Knights,away,2-3,1-0,0-1,3-4,231,5.5,-1,L,O,0
+2021-02-08 00:00:00,Monday,2020,Predators,Lightning,home,0-1,0-1,1-2,1-4,140,5.5,-3,L,U,0
+2021-02-08 00:00:00,Monday,2020,Lightning,Predators,away,1-0,1-0,2-1,4-1,-160,5.5,3,W,U,0
+2021-02-08 00:00:00,Monday,2020,Rangers,Islanders,home,0-0,0-0,0-2,0-2,-115,5.5,-2,L,U,0
+2021-02-08 00:00:00,Monday,2020,Islanders,Rangers,away,0-0,0-0,2-0,2-0,-105,5.5,2,W,U,0
+2021-02-08 00:00:00,Monday,2020,Blue Jackets,Hurricanes,home,1-0,1-2,1-0,3-2,130,5.5,1,W,U,0
+2021-02-08 00:00:00,Monday,2020,Hurricanes,Blue Jackets,away,0-1,2-1,0-1,2-3,-144,5.5,-1,L,U,0
+2021-02-08 00:00:00,Monday,2020,Senators,Oilers,home,0-0,1-1,0-2,1-3,167,6.5,-2,L,U,0
+2021-02-08 00:00:00,Monday,2020,Oilers,Senators,away,0-0,1-1,2-0,3-1,-192,6.5,2,W,U,0
+2021-02-08 00:00:00,Monday,2020,Maple Leafs,Canucks,home,1-0,0-1,2-0,3-1,-190,6.5,2,W,U,0
+2021-02-08 00:00:00,Monday,2020,Canucks,Maple Leafs,away,0-1,1-0,0-2,1-3,171,6.5,-2,L,U,0
+2021-02-08 00:00:00,Monday,2020,Blues,Coyotes,home,1-0,1-2,1-1,3-4,-160,5.5,-1,L,O,1
+2021-02-08 00:00:00,Monday,2020,Coyotes,Blues,away,0-1,2-1,1-1,4-3,140,5.5,1,W,O,1
+2021-02-09 00:00:00,Tuesday,2020,Predators,Lightning,home,1-3,0-0,0-3,1-6,150,5.5,-5,L,O,0
+2021-02-09 00:00:00,Tuesday,2020,Lightning,Predators,away,3-1,0-0,3-0,6-1,-170,5.5,5,W,O,0
+2021-02-09 00:00:00,Tuesday,2020,Stars,Blackhawks,home,1-0,0-1,0-0,1-2,-140,5.5,-1,L,U,1
+2021-02-09 00:00:00,Tuesday,2020,Blackhawks,Stars,away,0-1,1-0,0-0,2-1,120,5.5,1,W,U,1
+2021-02-09 00:00:00,Tuesday,2020,Flames,Jets,home,0-0,2-2,1-0,3-2,-125,6.0,1,W,U,0
+2021-02-09 00:00:00,Tuesday,2020,Jets,Flames,away,0-0,2-2,0-1,2-3,113,6.0,-1,L,U,0
+2021-02-09 00:00:00,Tuesday,2020,Panthers,Red Wings,home,1-1,1-0,0-0,2-1,-208,5.5,1,W,U,0
+2021-02-09 00:00:00,Tuesday,2020,Red Wings,Panthers,away,1-1,0-1,0-0,1-2,186,5.5,-1,L,U,0
+2021-02-09 00:00:00,Tuesday,2020,Senators,Oilers,home,1-2,0-1,1-0,2-3,167,6.5,-1,L,U,0
+2021-02-09 00:00:00,Tuesday,2020,Oilers,Senators,away,2-1,1-0,0-1,3-2,-192,6.5,1,W,U,0
+2021-02-09 00:00:00,Tuesday,2020,Knights,Ducks,home,2-0,2-1,1-3,5-4,-230,5.5,1,W,O,0
+2021-02-09 00:00:00,Tuesday,2020,Ducks,Knights,away,0-2,1-2,3-1,4-5,198,5.5,-1,L,O,0
+2021-02-09 00:00:00,Tuesday,2020,Kings,Sharks,home,0-2,2-0,1-1,3-4,105,5.5,-1,L,O,1
+2021-02-09 00:00:00,Tuesday,2020,Sharks,Kings,away,2-0,0-2,1-1,4-3,-125,5.5,1,W,O,1
+2021-02-10 00:00:00,Wednesday,2020,Rangers,Bruins,home,1-0,0-1,1-1,2-3,155,5.5,-1,L,U,1
+2021-02-10 00:00:00,Wednesday,2020,Bruins,Rangers,away,0-1,1-0,1-1,3-2,-175,5.5,1,W,U,1
+2021-02-10 00:00:00,Wednesday,2020,Canadiens,Maple Leafs,home,1-0,0-1,1-3,2-4,-115,6.5,-2,L,U,0
+2021-02-10 00:00:00,Wednesday,2020,Maple Leafs,Canadiens,away,0-1,1-0,3-1,4-2,-110,6.5,2,W,U,0
+2021-02-11 00:00:00,Thursday,2020,Blackhawks,Blue Jackets,home,0-1,3-1,2-4,5-6,-120,5.5,-1,L,O,0
+2021-02-11 00:00:00,Thursday,2020,Blue Jackets,Blackhawks,away,1-0,1-3,4-2,6-5,100,5.5,1,W,O,0
+2021-02-11 00:00:00,Thursday,2020,Predators,Red Wings,home,1-1,1-1,1-0,3-2,-170,5.5,1,W,U,0
+2021-02-11 00:00:00,Thursday,2020,Red Wings,Predators,away,1-1,1-1,0-1,2-3,153,5.5,-1,L,U,0
+2021-02-11 00:00:00,Thursday,2020,Jets,Senators,home,0-0,3-0,2-1,5-1,-222,6.0,4,W,P,0
+2021-02-11 00:00:00,Thursday,2020,Senators,Jets,away,0-0,0-3,1-2,1-5,198,6.0,-4,L,P,0
+2021-02-11 00:00:00,Thursday,2020,Stars,Hurricanes,home,0-1,3-2,0-2,3-5,105,5.5,-2,L,O,0
+2021-02-11 00:00:00,Thursday,2020,Hurricanes,Stars,away,1-0,2-3,2-0,5-3,-125,5.5,2,W,O,0
+2021-02-11 00:00:00,Thursday,2020,Islanders,Penguins,home,2-1,0-1,1-1,3-4,-110,5.5,-1,L,O,1
+2021-02-11 00:00:00,Thursday,2020,Penguins,Islanders,away,1-2,1-0,1-1,4-3,-110,5.5,1,W,O,1
+2021-02-11 00:00:00,Thursday,2020,Panthers,Lightning,home,1-0,3-1,1-1,5-2,130,5.5,3,W,O,0
+2021-02-11 00:00:00,Thursday,2020,Lightning,Panthers,away,0-1,1-3,1-1,2-5,-144,5.5,-3,L,O,0
+2021-02-11 00:00:00,Thursday,2020,Canadiens,Oilers,home,0-1,0-1,0-1,0-3,-155,6.5,-3,L,U,0
+2021-02-11 00:00:00,Thursday,2020,Oilers,Canadiens,away,1-0,1-0,1-0,3-0,135,6.5,3,W,U,0
+2021-02-11 00:00:00,Thursday,2020,Canucks,Flames,home,0-1,1-1,0-1,1-3,120,6.0,-2,L,U,0
+2021-02-11 00:00:00,Thursday,2020,Flames,Canucks,away,1-0,1-1,1-0,3-1,-140,6.0,2,W,U,0
+2021-02-11 00:00:00,Thursday,2020,Knights,Ducks,home,0-0,0-0,0-1,0-1,-200,5.5,-1,L,U,0
+2021-02-11 00:00:00,Thursday,2020,Ducks,Knights,away,0-0,0-0,1-0,1-0,170,5.5,1,W,U,0
+2021-02-11 00:00:00,Thursday,2020,Kings,Sharks,home,3-1,0-1,3-0,6-2,105,6.0,4,W,O,0
+2021-02-11 00:00:00,Thursday,2020,Sharks,Kings,away,1-3,1-0,0-3,2-6,-116,6.0,-4,L,O,0
+2021-02-12 00:00:00,Friday,2020,Rangers,Bruins,home,0-0,0-1,0-0,0-1,155,5.5,-1,L,U,0
+2021-02-12 00:00:00,Friday,2020,Bruins,Rangers,away,0-0,1-0,0-0,1-0,-175,5.5,1,W,U,0
+2021-02-12 00:00:00,Friday,2020,Coyotes,Blues,home,0-1,1-0,0-3,1-4,115,5.5,-3,L,U,0
+2021-02-12 00:00:00,Friday,2020,Blues,Coyotes,away,1-0,0-1,3-0,4-1,-135,5.5,3,W,U,0
+2021-02-13 00:00:00,Saturday,2020,Blackhawks,Blue Jackets,home,0-1,1-1,1-0,3-2,-114,5.5,1,W,U,1
+2021-02-13 00:00:00,Saturday,2020,Blue Jackets,Blackhawks,away,1-0,1-1,0-1,2-3,103,5.5,-1,L,U,1
+2021-02-13 00:00:00,Saturday,2020,Predators,Red Wings,home,0-2,0-1,2-1,2-4,-169,5.5,-2,L,O,0
+2021-02-13 00:00:00,Saturday,2020,Red Wings,Predators,away,2-0,1-0,1-2,4-2,150,5.5,2,W,O,0
+2021-02-13 00:00:00,Saturday,2020,Jets,Senators,home,0-0,1-1,0-1,1-2,-222,6.0,-1,L,U,0
+2021-02-13 00:00:00,Saturday,2020,Senators,Jets,away,0-0,1-1,1-0,2-1,190,6.0,1,W,U,0
+2021-02-13 00:00:00,Saturday,2020,Stars,Hurricanes,home,0-0,1-2,2-1,3-4,100,5.5,-1,L,O,1
+2021-02-13 00:00:00,Saturday,2020,Hurricanes,Stars,away,0-0,2-1,1-2,4-3,-120,5.5,1,W,O,1
+2021-02-13 00:00:00,Saturday,2020,Coyotes,Blues,home,1-2,1-1,2-1,4-5,-110,5.5,-1,L,O,1
+2021-02-13 00:00:00,Saturday,2020,Blues,Coyotes,away,2-1,1-1,1-2,5-4,-110,5.5,1,W,O,1
+2021-02-13 00:00:00,Saturday,2020,Islanders,Bruins,home,2-1,0-1,2-0,4-2,110,5.0,2,W,O,0
+2021-02-13 00:00:00,Saturday,2020,Bruins,Islanders,away,1-2,1-0,0-2,2-4,-121,5.0,-2,L,O,0
+2021-02-13 00:00:00,Saturday,2020,Panthers,Lightning,home,0-0,0-4,1-2,1-6,115,5.5,-5,L,O,0
+2021-02-13 00:00:00,Saturday,2020,Lightning,Panthers,away,0-0,4-0,2-1,6-1,-135,5.5,5,W,O,0
+2021-02-13 00:00:00,Saturday,2020,Maple Leafs,Canadiens,home,1-0,0-0,0-2,1-2,-140,6.5,-1,L,U,0
+2021-02-13 00:00:00,Saturday,2020,Canadiens,Maple Leafs,away,0-1,0-0,2-0,2-1,120,6.5,1,W,U,0
+2021-02-13 00:00:00,Saturday,2020,Canucks,Flames,home,0-0,1-1,2-0,3-1,115,6.0,2,W,U,0
+2021-02-13 00:00:00,Saturday,2020,Flames,Canucks,away,0-0,1-1,0-2,1-3,-127,6.0,-2,L,U,0
+2021-02-13 00:00:00,Saturday,2020,Sharks,Knights,home,0-1,1-1,0-1,1-3,165,6.0,-2,L,U,0
+2021-02-13 00:00:00,Saturday,2020,Knights,Sharks,away,1-0,1-1,1-0,3-1,-185,6.0,2,W,U,0
+2021-02-14 00:00:00,Sunday,2020,Penguins,Capitals,home,2-1,2-2,2-0,6-3,-120,6.5,3,W,O,0
+2021-02-14 00:00:00,Sunday,2020,Capitals,Penguins,away,1-2,2-2,0-2,3-6,109,6.5,-3,L,O,0
+2021-02-14 00:00:00,Sunday,2020,Knights,Avalanche,home,0-0,1-0,0-0,1-0,-105,5.5,1,W,U,0
+2021-02-14 00:00:00,Sunday,2020,Avalanche,Knights,away,0-0,0-1,0-0,0-1,-105,5.5,-1,L,U,0
+2021-02-15 00:00:00,Monday,2020,Oilers,Jets,home,1-2,3-3,1-1,5-6,-135,6.5,-1,L,O,0
+2021-02-15 00:00:00,Monday,2020,Jets,Oilers,away,2-1,3-3,1-1,6-5,115,6.5,1,W,O,0
+2021-02-15 00:00:00,Monday,2020,Coyotes,Blues,home,0-0,1-0,0-0,1-0,100,5.5,1,W,U,0
+2021-02-15 00:00:00,Monday,2020,Blues,Coyotes,away,0-0,0-1,0-0,0-1,-110,5.5,-1,L,U,0
+2021-02-15 00:00:00,Monday,2020,Sabres,Islanders,home,0-2,1-1,0-0,1-3,110,5.5,-2,L,U,0
+2021-02-15 00:00:00,Monday,2020,Islanders,Sabres,away,2-0,1-1,0-0,3-1,-130,5.5,2,W,U,0
+2021-02-15 00:00:00,Monday,2020,Red Wings,Blackhawks,home,1-2,0-0,1-0,2-3,100,5.5,-1,L,U,1
+2021-02-15 00:00:00,Monday,2020,Blackhawks,Red Wings,away,2-1,0-0,0-1,3-2,-120,5.5,1,W,U,1
+2021-02-15 00:00:00,Monday,2020,Maple Leafs,Senators,home,2-1,3-1,0-3,5-6,-300,6.5,-1,L,O,1
+2021-02-15 00:00:00,Monday,2020,Senators,Maple Leafs,away,1-2,1-3,3-0,6-5,250,6.5,1,W,O,1
+2021-02-15 00:00:00,Monday,2020,Canucks,Flames,home,2-1,0-2,1-0,3-4,115,6.0,-1,L,O,1
+2021-02-15 00:00:00,Monday,2020,Flames,Canucks,away,1-2,2-0,0-1,4-3,-135,6.0,1,W,O,1
+2021-02-15 00:00:00,Monday,2020,Sharks,Ducks,home,1-1,2-0,0-1,3-2,-110,5.5,1,W,U,0
+2021-02-15 00:00:00,Monday,2020,Ducks,Sharks,away,1-1,0-2,1-0,2-3,100,5.5,-1,L,U,0
+2021-02-15 00:00:00,Monday,2020,Hurricanes,Blue Jackets,home,2-3,3-0,2-0,7-3,-180,6.0,4,W,O,0
+2021-02-15 00:00:00,Monday,2020,Blue Jackets,Hurricanes,away,3-2,0-3,0-2,3-7,162,6.0,-4,L,O,0
+2021-02-15 00:00:00,Monday,2020,Lightning,Panthers,home,1-1,3-4,0-1,4-6,-170,6.0,-2,L,O,0
+2021-02-15 00:00:00,Monday,2020,Panthers,Lightning,away,1-1,4-3,1-0,6-4,150,6.0,2,W,O,0
+2021-02-16 00:00:00,Tuesday,2020,Sabres,Islanders,home,0-2,0-0,0-1,0-3,115,5.5,-3,L,U,0
+2021-02-16 00:00:00,Tuesday,2020,Islanders,Sabres,away,2-0,0-0,1-0,3-0,-135,5.5,3,W,U,0
+2021-02-16 00:00:00,Tuesday,2020,Penguins,Capitals,home,0-0,0-2,1-1,1-3,-125,6.5,-2,L,U,0
+2021-02-16 00:00:00,Tuesday,2020,Capitals,Penguins,away,0-0,2-0,1-1,3-1,105,6.5,2,W,U,0
+2021-02-16 00:00:00,Tuesday,2020,Knights,Avalanche,home,0-1,1-1,1-1,2-3,-120,5.5,-1,L,U,0
+2021-02-16 00:00:00,Tuesday,2020,Avalanche,Knights,away,1-0,1-1,1-1,3-2,109,5.5,1,W,U,0
+2021-02-16 00:00:00,Tuesday,2020,Kings,Wild,home,1-0,1-0,2-0,4-0,135,5.5,4,W,U,0
+2021-02-16 00:00:00,Tuesday,2020,Wild,Kings,away,0-1,0-1,0-2,0-4,-149,5.5,-4,L,U,0
+2021-02-16 00:00:00,Tuesday,2020,Rangers,Devils,home,0-0,2-2,0-3,2-5,-140,5.5,-3,L,O,0
+2021-02-16 00:00:00,Tuesday,2020,Devils,Rangers,away,0-0,2-2,3-0,5-2,120,5.5,3,W,O,0
+2021-02-17 00:00:00,Wednesday,2020,Flames,Canucks,home,0-1,1-3,0-1,1-5,-160,6.0,-4,L,P,0
+2021-02-17 00:00:00,Wednesday,2020,Canucks,Flames,away,1-0,3-1,1-0,5-1,140,6.0,4,W,P,0
+2021-02-17 00:00:00,Wednesday,2020,Oilers,Jets,home,2-1,1-0,0-1,3-2,-145,6.5,1,W,U,0
+2021-02-17 00:00:00,Wednesday,2020,Jets,Oilers,away,1-2,0-1,1-0,2-3,131,6.5,-1,L,U,0
+2021-02-17 00:00:00,Wednesday,2020,Red Wings,Blackhawks,home,0-0,0-1,0-1,0-2,120,5.5,-2,L,U,0
+2021-02-17 00:00:00,Wednesday,2020,Blackhawks,Red Wings,away,0-0,1-0,1-0,2-0,-140,5.5,2,W,U,0
+2021-02-17 00:00:00,Wednesday,2020,Maple Leafs,Senators,home,0-0,1-1,1-0,2-1,-323,6.5,1,W,U,0
+2021-02-17 00:00:00,Wednesday,2020,Senators,Maple Leafs,away,0-0,1-1,0-1,1-2,275,6.5,-1,L,U,0
+2021-02-17 00:00:00,Wednesday,2020,Hurricanes,Panthers,home,2-0,0-1,1-2,3-4,-130,6.5,-1,L,O,1
+2021-02-17 00:00:00,Wednesday,2020,Panthers,Hurricanes,away,0-2,1-0,2-1,4-3,118,6.5,1,W,O,1
+2021-02-18 00:00:00,Thursday,2020,Blues,Sharks,home,1-0,0-2,1-0,3-2,-180,5.5,1,W,U,1
+2021-02-18 00:00:00,Thursday,2020,Sharks,Blues,away,0-1,2-0,0-1,2-3,162,5.5,-1,L,U,1
+2021-02-18 00:00:00,Thursday,2020,Coyotes,Kings,home,0-2,2-0,0-0,2-3,-175,5.5,-1,L,U,1
+2021-02-18 00:00:00,Thursday,2020,Kings,Coyotes,away,2-0,0-2,0-0,3-2,155,5.5,1,W,U,1
+2021-02-18 00:00:00,Thursday,2020,Bruins,Devils,home,0-0,1-3,1-0,2-3,-220,5.5,-1,L,U,0
+2021-02-18 00:00:00,Thursday,2020,Devils,Bruins,away,0-0,3-1,0-1,3-2,180,5.5,1,W,U,0
+2021-02-18 00:00:00,Thursday,2020,Flyers,Rangers,home,1-0,0-1,1-1,2-3,-110,6.0,-1,L,U,1
+2021-02-18 00:00:00,Thursday,2020,Rangers,Flyers,away,0-1,1-0,1-1,3-2,-110,6.0,1,W,U,1
+2021-02-18 00:00:00,Thursday,2020,Penguins,Islanders,home,1-0,1-0,2-1,4-1,-115,5.5,3,W,U,0
+2021-02-18 00:00:00,Thursday,2020,Islanders,Penguins,away,0-1,0-1,1-2,1-4,104,5.5,-3,L,U,0
+2021-02-18 00:00:00,Thursday,2020,Blue Jackets,Predators,home,1-0,1-0,1-0,3-0,-125,5.5,3,W,U,0
+2021-02-18 00:00:00,Thursday,2020,Predators,Blue Jackets,away,0-1,0-1,0-1,0-3,113,5.5,-3,L,U,0
+2021-02-18 00:00:00,Thursday,2020,Maple Leafs,Senators,home,3-1,3-1,1-1,7-3,-290,6.5,4,W,O,0
+2021-02-18 00:00:00,Thursday,2020,Senators,Maple Leafs,away,1-3,1-3,1-1,3-7,248,6.5,-4,L,O,0
+2021-02-18 00:00:00,Thursday,2020,Ducks,Wild,home,0-2,1-0,0-1,1-3,105,5.5,-2,L,U,0
+2021-02-18 00:00:00,Thursday,2020,Wild,Ducks,away,2-0,0-1,1-0,3-1,-125,5.5,2,W,U,0
+2021-02-18 00:00:00,Thursday,2020,Capitals,Sabres,home,1-0,1-0,1-1,3-1,-160,6.0,2,W,U,0
+2021-02-18 00:00:00,Thursday,2020,Sabres,Capitals,away,0-1,0-1,1-1,1-3,144,6.0,-2,L,U,0
+2021-02-19 00:00:00,Friday,2020,Flames,Oilers,home,0-1,1-1,0-0,1-2,-110,6.5,-1,L,U,0
+2021-02-19 00:00:00,Friday,2020,Oilers,Flames,away,1-0,1-1,0-0,2-1,-110,6.5,1,W,U,0
+2021-02-19 00:00:00,Friday,2020,Hurricanes,Blackhawks,home,1-0,1-2,3-1,5-3,-175,6.0,2,W,O,0
+2021-02-19 00:00:00,Friday,2020,Blackhawks,Hurricanes,away,0-1,2-1,1-3,3-5,158,6.0,-2,L,O,0
+2021-02-19 00:00:00,Friday,2020,Red Wings,Panthers,home,1-4,0-1,1-2,2-7,165,5.5,-5,L,O,0
+2021-02-19 00:00:00,Friday,2020,Panthers,Red Wings,away,4-1,1-0,2-1,7-2,-185,5.5,5,W,O,0
+2021-02-19 00:00:00,Friday,2020,Canucks,Jets,home,0-1,0-0,0-1,0-2,-130,6.5,-2,L,U,0
+2021-02-19 00:00:00,Friday,2020,Jets,Canucks,away,1-0,0-0,1-0,2-0,110,6.5,2,W,U,0
+2021-02-20 00:00:00,Saturday,2020,Avalanche,Knights,home,1-0,1-1,1-1,3-2,-115,5.5,1,W,U,0
+2021-02-20 00:00:00,Saturday,2020,Knights,Avalanche,away,0-1,1-1,1-1,2-3,104,5.5,-1,L,U,0
+2021-02-20 00:00:00,Saturday,2020,Coyotes,Kings,home,0-0,1-1,1-3,2-4,-160,5.5,-2,L,O,0
+2021-02-20 00:00:00,Saturday,2020,Kings,Coyotes,away,0-0,1-1,3-1,4-2,140,5.5,2,W,O,0
+2021-02-20 00:00:00,Saturday,2020,Devils,Sabres,home,0-1,0-2,2-0,2-3,-135,5.5,-1,L,U,0
+2021-02-20 00:00:00,Saturday,2020,Sabres,Devils,away,1-0,2-0,0-2,3-2,115,5.5,1,W,U,0
+2021-02-20 00:00:00,Saturday,2020,Capitals,Rangers,home,0-1,1-2,0-1,1-4,-145,6.0,-3,L,U,0
+2021-02-20 00:00:00,Saturday,2020,Rangers,Capitals,away,1-0,2-1,1-0,4-1,125,6.0,3,W,U,0
+2021-02-20 00:00:00,Saturday,2020,Penguins,Islanders,home,0-0,1-1,2-1,3-2,-120,5.5,1,W,U,0
+2021-02-20 00:00:00,Saturday,2020,Islanders,Penguins,away,0-0,1-1,1-2,2-3,109,5.5,-1,L,U,0
+2021-02-20 00:00:00,Saturday,2020,Blue Jackets,Predators,home,0-2,2-0,0-2,2-4,-130,5.5,-2,L,O,0
+2021-02-20 00:00:00,Saturday,2020,Predators,Blue Jackets,away,2-0,0-2,2-0,4-2,110,5.5,2,W,O,0
+2021-02-20 00:00:00,Saturday,2020,Canadiens,Maple Leafs,home,0-0,2-4,1-1,3-5,-105,6.5,-2,L,O,0
+2021-02-20 00:00:00,Saturday,2020,Maple Leafs,Canadiens,away,0-0,4-2,1-1,5-3,-115,6.5,2,W,O,0
+2021-02-20 00:00:00,Saturday,2020,Ducks,Wild,home,0-2,1-1,0-2,1-5,115,5.5,-4,L,O,0
+2021-02-20 00:00:00,Saturday,2020,Wild,Ducks,away,2-0,1-1,2-0,5-1,-135,5.5,4,W,O,0
+2021-02-20 00:00:00,Saturday,2020,Red Wings,Panthers,home,0-1,2-0,0-0,2-1,150,5.5,1,W,U,0
+2021-02-20 00:00:00,Saturday,2020,Panthers,Red Wings,away,1-0,0-2,0-0,1-2,-166,5.5,-1,L,U,0
+2021-02-20 00:00:00,Saturday,2020,Hurricanes,Lightning,home,0-0,2-0,2-0,4-0,136,6.5,4,W,U,0
+2021-02-20 00:00:00,Saturday,2020,Lightning,Hurricanes,away,0-0,0-2,0-2,0-4,-150,6.5,-4,L,U,0
+2021-02-21 00:00:00,Sunday,2020,Bruins,Flyers,home,2-2,4-0,1-1,7-3,-175,5.5,4,W,O,0
+2021-02-21 00:00:00,Sunday,2020,Flyers,Bruins,away,2-2,0-4,1-1,3-7,158,5.5,-4,L,O,0
+2021-02-21 00:00:00,Sunday,2020,Senators,Canadiens,home,1-1,0-0,1-1,3-2,190,6.0,1,W,U,1
+2021-02-21 00:00:00,Sunday,2020,Canadiens,Senators,away,1-1,0-0,1-1,2-3,-212,6.0,-1,L,U,1
+2021-02-21 00:00:00,Sunday,2020,Canucks,Jets,home,2-0,0-1,1-2,3-4,-110,6.0,-1,L,O,1
+2021-02-21 00:00:00,Sunday,2020,Jets,Canucks,away,0-2,1-0,2-1,4-3,-110,6.0,1,W,O,1
+2021-02-21 00:00:00,Sunday,2020,Capitals,Devils,home,0-1,1-1,3-1,4-3,-155,6.5,1,W,O,0
+2021-02-21 00:00:00,Sunday,2020,Devils,Capitals,away,1-0,1-1,1-3,3-4,140,6.5,-1,L,O,0
+2021-02-22 00:00:00,Monday,2020,Hurricanes,Lightning,home,1-0,1-2,0-2,2-4,105,6.0,-2,L,P,0
+2021-02-22 00:00:00,Monday,2020,Lightning,Hurricanes,away,0-1,2-1,2-0,4-2,-125,6.0,2,W,P,0
+2021-02-22 00:00:00,Monday,2020,Blues,Kings,home,0-1,0-1,0-1,0-3,-185,5.5,-3,L,U,0
+2021-02-22 00:00:00,Monday,2020,Kings,Blues,away,1-0,1-0,1-0,3-0,165,5.5,3,W,U,0
+2021-02-22 00:00:00,Monday,2020,Avalanche,Knights,home,0-0,0-3,0-0,0-3,-135,5.5,-3,L,U,0
+2021-02-22 00:00:00,Monday,2020,Knights,Avalanche,away,0-0,3-0,0-0,3-0,115,5.5,3,W,U,0
+2021-02-22 00:00:00,Monday,2020,Coyotes,Ducks,home,0-2,3-1,1-0,4-3,-160,5.0,1,W,O,0
+2021-02-22 00:00:00,Monday,2020,Ducks,Coyotes,away,2-0,1-3,0-1,3-4,144,5.0,-1,L,O,0
+2021-02-22 00:00:00,Monday,2020,Maple Leafs,Flames,home,0-1,0-1,0-1,0-3,-150,6.5,-3,L,U,0
+2021-02-22 00:00:00,Monday,2020,Flames,Maple Leafs,away,1-0,1-0,1-0,3-0,130,6.5,3,W,U,0
+2021-02-22 00:00:00,Monday,2020,Sharks,Wild,home,1-2,1-3,0-1,2-6,135,5.5,-4,L,O,0
+2021-02-22 00:00:00,Monday,2020,Wild,Sharks,away,2-1,3-1,1-0,6-2,-155,5.5,4,W,O,0
+2021-02-22 00:00:00,Monday,2020,Panthers,Stars,home,0-1,2-0,1-0,3-1,-125,5.5,2,W,U,0
+2021-02-22 00:00:00,Monday,2020,Stars,Panthers,away,1-0,0-2,0-1,1-3,113,5.5,-2,L,U,0
+2021-02-22 00:00:00,Monday,2020,Islanders,Sabres,home,0-1,1-0,2-1,3-2,-165,5.0,1,W,P,0
+2021-02-22 00:00:00,Monday,2020,Sabres,Islanders,away,1-0,0-1,1-2,2-3,149,5.0,-1,L,P,0
+2021-02-23 00:00:00,Tuesday,2020,Devils,Sabres,home,0-0,0-1,1-3,1-4,-155,5.5,-3,L,U,0
+2021-02-23 00:00:00,Tuesday,2020,Sabres,Devils,away,0-0,1-0,3-1,4-1,135,5.5,3,W,U,0
+2021-02-23 00:00:00,Tuesday,2020,Capitals,Penguins,home,0-1,2-1,0-0,2-3,-110,6.5,-1,L,U,1
+2021-02-23 00:00:00,Tuesday,2020,Penguins,Capitals,away,1-0,1-2,0-0,3-2,-110,6.5,1,W,U,1
+2021-02-23 00:00:00,Tuesday,2020,Blue Jackets,Blackhawks,home,1-2,2-2,2-1,5-6,-120,5.5,-1,L,O,1
+2021-02-23 00:00:00,Tuesday,2020,Blackhawks,Blue Jackets,away,2-1,2-2,1-2,6-5,100,5.5,1,W,O,1
+2021-02-23 00:00:00,Tuesday,2020,Red Wings,Predators,home,0-0,0-0,0-2,0-2,130,5.5,-2,L,U,0
+2021-02-23 00:00:00,Tuesday,2020,Predators,Red Wings,away,0-0,0-0,2-0,2-0,-150,5.5,2,W,U,0
+2021-02-23 00:00:00,Tuesday,2020,Senators,Canadiens,home,2-1,1-2,1-1,5-4,180,6.0,1,W,O,1
+2021-02-23 00:00:00,Tuesday,2020,Canadiens,Senators,away,1-2,2-1,1-1,4-5,-200,6.0,-1,L,O,1
+2021-02-23 00:00:00,Tuesday,2020,Canucks,Oilers,home,3-1,0-0,0-3,3-4,120,6.5,-1,L,O,0
+2021-02-23 00:00:00,Tuesday,2020,Oilers,Canucks,away,1-3,0-0,3-0,4-3,-140,6.5,1,W,O,0
+2021-02-24 00:00:00,Wednesday,2020,Lightning,Hurricanes,home,2-0,0-0,1-0,3-0,-160,6.0,3,W,U,0
+2021-02-24 00:00:00,Wednesday,2020,Hurricanes,Lightning,away,0-2,0-0,0-1,0-3,144,6.0,-3,L,U,0
+2021-02-24 00:00:00,Wednesday,2020,Panthers,Stars,home,0-1,0-0,0-2,0-3,-135,5.5,-3,L,U,0
+2021-02-24 00:00:00,Wednesday,2020,Stars,Panthers,away,1-0,0-0,2-0,3-0,115,5.5,3,W,U,0
+2021-02-24 00:00:00,Wednesday,2020,Blues,Kings,home,0-0,0-2,1-0,1-2,-150,5.5,-1,L,U,0
+2021-02-24 00:00:00,Wednesday,2020,Kings,Blues,away,0-0,2-0,0-1,2-1,130,5.5,1,W,U,0
+2021-02-24 00:00:00,Wednesday,2020,Coyotes,Ducks,home,0-1,0-2,3-0,4-3,-161,5.0,1,W,O,1
+2021-02-24 00:00:00,Wednesday,2020,Ducks,Coyotes,away,1-0,2-0,0-3,3-4,145,5.0,-1,L,O,1
+2021-02-24 00:00:00,Wednesday,2020,Flyers,Rangers,home,2-1,2-1,0-1,4-3,-130,5.5,1,W,O,0
+2021-02-24 00:00:00,Wednesday,2020,Rangers,Flyers,away,1-2,1-2,1-0,3-4,118,5.5,-1,L,O,0
+2021-02-24 00:00:00,Wednesday,2020,Maple Leafs,Flames,home,0-0,0-0,1-1,2-1,-145,6.0,1,W,U,1
+2021-02-24 00:00:00,Wednesday,2020,Flames,Maple Leafs,away,0-0,0-0,1-1,1-2,131,6.0,-1,L,U,1
+2021-02-24 00:00:00,Wednesday,2020,Avalanche,Wild,home,0-1,1-2,1-3,2-6,-175,5.5,-4,L,O,0
+2021-02-24 00:00:00,Wednesday,2020,Wild,Avalanche,away,1-0,2-1,3-1,6-2,155,5.5,4,W,O,0
+2021-02-25 00:00:00,Thursday,2020,Jets,Canadiens,home,0-2,3-1,3-0,6-3,110,6.0,3,W,O,0
+2021-02-25 00:00:00,Thursday,2020,Canadiens,Jets,away,2-0,1-3,0-3,3-6,-121,6.0,-3,L,O,0
+2021-02-25 00:00:00,Thursday,2020,Islanders,Bruins,home,2-1,0-1,5-0,7-2,105,5.5,5,W,O,0
+2021-02-25 00:00:00,Thursday,2020,Bruins,Islanders,away,1-2,1-0,0-5,2-7,-116,5.5,-5,L,O,0
+2021-02-25 00:00:00,Thursday,2020,Capitals,Penguins,home,1-0,0-0,4-2,5-2,-110,6.5,3,W,O,0
+2021-02-25 00:00:00,Thursday,2020,Penguins,Capitals,away,0-1,0-0,2-4,2-5,100,6.5,-3,L,O,0
+2021-02-25 00:00:00,Thursday,2020,Lightning,Hurricanes,home,0-1,1-0,2-0,3-1,-140,6.5,2,W,U,0
+2021-02-25 00:00:00,Thursday,2020,Hurricanes,Lightning,away,1-0,0-1,0-2,1-3,127,6.5,-2,L,U,0
+2021-02-25 00:00:00,Thursday,2020,Panthers,Stars,home,0-0,0-2,3-0,3-2,-130,5.5,1,W,U,0
+2021-02-25 00:00:00,Thursday,2020,Stars,Panthers,away,0-0,2-0,0-3,2-3,118,5.5,-1,L,U,0
+2021-02-25 00:00:00,Thursday,2020,Blue Jackets,Blackhawks,home,0-0,0-0,0-2,0-2,-135,6.0,-2,L,U,0
+2021-02-25 00:00:00,Thursday,2020,Blackhawks,Blue Jackets,away,0-0,0-0,2-0,2-0,115,6.0,2,W,U,0
+2021-02-25 00:00:00,Thursday,2020,Red Wings,Predators,home,1-1,1-0,3-1,5-2,135,5.5,3,W,O,0
+2021-02-25 00:00:00,Thursday,2020,Predators,Red Wings,away,1-1,0-1,1-3,2-5,-149,5.5,-3,L,O,0
+2021-02-25 00:00:00,Thursday,2020,Senators,Flames,home,2-0,2-1,2-0,6-1,133,6.0,5,W,O,0
+2021-02-25 00:00:00,Thursday,2020,Flames,Senators,away,0-2,1-2,0-2,1-6,-147,6.0,-5,L,O,0
+2021-02-25 00:00:00,Thursday,2020,Canucks,Oilers,home,0-0,0-1,0-2,0-3,125,6.5,-3,L,U,0
+2021-02-25 00:00:00,Thursday,2020,Oilers,Canucks,away,0-0,1-0,2-0,3-0,-145,6.5,3,W,U,0
+2021-02-25 00:00:00,Thursday,2020,Sabres,Devils,home,1-0,1-1,1-2,3-4,100,5.5,-1,L,O,1
+2021-02-25 00:00:00,Thursday,2020,Devils,Sabres,away,0-1,1-1,2-1,4-3,-120,5.5,1,W,O,1
+2021-02-26 00:00:00,Friday,2020,Coyotes,Avalanche,home,0-0,0-1,2-2,2-3,150,5.5,-1,L,U,0
+2021-02-26 00:00:00,Friday,2020,Avalanche,Coyotes,away,0-0,1-0,2-2,3-2,-170,5.5,1,W,U,0
+2021-02-26 00:00:00,Friday,2020,Wild,Kings,home,3-0,0-0,0-1,3-1,-180,5.5,2,W,U,0
+2021-02-26 00:00:00,Friday,2020,Kings,Wild,away,0-3,0-0,1-0,1-3,162,5.5,-2,L,U,0
+2021-02-26 00:00:00,Friday,2020,Rangers,Bruins,home,1-0,3-1,2-1,6-2,140,5.5,4,W,O,0
+2021-02-26 00:00:00,Friday,2020,Bruins,Rangers,away,0-1,1-3,1-2,2-6,-155,5.5,-4,L,O,0
+2021-02-27 00:00:00,Saturday,2020,Wild,Kings,home,2-0,1-2,0-1,4-3,-170,5.5,1,W,O,1
+2021-02-27 00:00:00,Saturday,2020,Kings,Wild,away,0-2,2-1,1-0,3-4,153,5.5,-1,L,O,1
+2021-02-27 00:00:00,Saturday,2020,Oilers,Maple Leafs,home,0-2,0-1,0-1,0-4,-115,6.5,-4,L,U,0
+2021-02-27 00:00:00,Saturday,2020,Maple Leafs,Oilers,away,2-0,1-0,1-0,4-0,-105,6.5,4,W,U,0
+2021-02-27 00:00:00,Saturday,2020,Coyotes,Avalanche,home,0-1,1-1,1-4,2-6,150,5.5,-4,L,O,0
+2021-02-27 00:00:00,Saturday,2020,Avalanche,Coyotes,away,1-0,1-1,4-1,6-2,-170,5.5,4,W,O,0
+2021-02-27 00:00:00,Saturday,2020,Devils,Capitals,home,1-3,1-0,0-2,2-5,105,6.0,-3,L,O,0
+2021-02-27 00:00:00,Saturday,2020,Capitals,Devils,away,3-1,0-1,2-0,5-2,-125,6.0,3,W,O,0
+2021-02-27 00:00:00,Saturday,2020,Islanders,Penguins,home,1-0,2-2,0-1,3-4,-115,5.5,-1,L,O,1
+2021-02-27 00:00:00,Saturday,2020,Penguins,Islanders,away,0-1,2-2,1-0,4-3,-105,5.5,1,W,O,1
+2021-02-27 00:00:00,Saturday,2020,Lightning,Stars,home,1-0,3-0,1-0,5-0,-185,5.5,5,W,U,0
+2021-02-27 00:00:00,Saturday,2020,Stars,Lightning,away,0-1,0-3,0-1,0-5,166,5.5,-5,L,U,0
+2021-02-27 00:00:00,Saturday,2020,Panthers,Hurricanes,home,0-1,0-0,3-2,3-4,105,6.0,-1,L,O,1
+2021-02-27 00:00:00,Saturday,2020,Hurricanes,Panthers,away,1-0,0-0,2-3,4-3,-125,6.0,1,W,O,1
+2021-02-27 00:00:00,Saturday,2020,Senators,Flames,home,1-3,1-3,1-0,3-6,130,6.0,-3,L,O,0
+2021-02-27 00:00:00,Saturday,2020,Flames,Senators,away,3-1,3-1,0-1,6-3,-149,6.0,3,W,O,0
+2021-02-27 00:00:00,Saturday,2020,Ducks,Knights,home,1-1,0-1,1-0,2-3,185,5.5,-1,L,U,1
+2021-02-27 00:00:00,Saturday,2020,Knights,Ducks,away,1-1,1-0,0-1,3-2,-213,5.5,1,W,U,1
+2021-02-27 00:00:00,Saturday,2020,Sharks,Blues,home,2-1,2-3,2-3,6-7,150,5.5,-1,L,O,0
+2021-02-27 00:00:00,Saturday,2020,Blues,Sharks,away,1-2,3-2,3-2,7-6,-170,5.5,1,W,O,0
+2021-02-28 00:00:00,Sunday,2020,Blackhawks,Red Wings,home,2-1,0-0,5-1,7-2,-211,5.5,5,W,O,0
+2021-02-28 00:00:00,Sunday,2020,Red Wings,Blackhawks,away,1-2,0-0,1-5,2-7,189,5.5,-5,L,O,0
+2021-02-28 00:00:00,Sunday,2020,Predators,Blue Jackets,home,1-1,1-0,1-0,3-1,-130,5.5,2,W,U,0
+2021-02-28 00:00:00,Sunday,2020,Blue Jackets,Predators,away,1-1,0-1,0-1,1-3,118,5.5,-2,L,U,0
+2021-02-28 00:00:00,Sunday,2020,Sabres,Flyers,home,0-0,0-3,0-0,0-3,145,5.5,-3,L,U,0
+2021-02-28 00:00:00,Sunday,2020,Flyers,Sabres,away,0-0,3-0,0-0,3-0,-165,5.5,3,W,U,0
+2021-02-28 00:00:00,Sunday,2020,Islanders,Penguins,home,1-0,1-0,0-0,2-0,-110,5.5,2,W,U,0
+2021-02-28 00:00:00,Sunday,2020,Penguins,Islanders,away,0-1,0-1,0-0,0-2,100,5.5,-2,L,U,0
+2021-02-28 00:00:00,Sunday,2020,Rangers,Bruins,home,0-2,0-1,1-1,1-4,140,5.5,-3,L,U,0
+2021-02-28 00:00:00,Sunday,2020,Bruins,Rangers,away,2-0,1-0,1-1,4-1,-160,5.5,3,W,U,0
+2021-02-28 00:00:00,Sunday,2020,Devils,Capitals,home,1-1,1-2,0-0,2-3,136,6.0,-1,L,U,0
+2021-02-28 00:00:00,Sunday,2020,Capitals,Devils,away,1-1,2-1,0-0,3-2,-150,6.0,1,W,U,0
+2021-03-01 00:00:00,Monday,2020,Jets,Canucks,home,0-3,0-0,0-1,0-4,-135,6.5,-4,L,U,0
+2021-03-01 00:00:00,Monday,2020,Canucks,Jets,away,3-0,0-0,1-0,4-0,115,6.5,4,W,U,0
+2021-03-01 00:00:00,Monday,2020,Oilers,Maple Leafs,home,0-3,0-0,0-0,0-3,-120,6.5,-3,L,U,0
+2021-03-01 00:00:00,Monday,2020,Maple Leafs,Oilers,away,3-0,0-0,0-0,3-0,100,6.5,3,W,U,0
+2021-03-01 00:00:00,Monday,2020,Panthers,Hurricanes,home,0-1,0-0,2-1,2-3,-115,6.0,-1,L,U,1
+2021-03-01 00:00:00,Monday,2020,Hurricanes,Panthers,away,1-0,0-0,1-2,3-2,-105,6.0,1,W,U,1
+2021-03-01 00:00:00,Monday,2020,Senators,Flames,home,0-0,3-1,2-0,5-1,135,6.0,4,W,P,0
+2021-03-01 00:00:00,Monday,2020,Flames,Senators,away,0-0,1-3,0-2,1-5,-149,6.0,-4,L,P,0
+2021-03-01 00:00:00,Monday,2020,Knights,Wild,home,0-0,2-4,2-0,5-4,-145,5.5,1,W,O,1
+2021-03-01 00:00:00,Monday,2020,Wild,Knights,away,0-0,4-2,0-2,4-5,131,5.5,-1,L,O,1
+2021-03-01 00:00:00,Monday,2020,Ducks,Blues,home,1-1,0-3,3-1,4-5,119,5.5,-1,L,O,0
+2021-03-01 00:00:00,Monday,2020,Blues,Ducks,away,1-1,3-0,1-3,5-4,-131,5.5,1,W,O,0
+2021-03-01 00:00:00,Monday,2020,Sharks,Avalanche,home,0-1,2-1,4-0,6-2,185,6.0,4,W,O,0
+2021-03-01 00:00:00,Monday,2020,Avalanche,Sharks,away,1-0,1-2,0-4,2-6,-207,6.0,-4,L,O,0
+2021-03-02 00:00:00,Tuesday,2020,Devils,Islanders,home,0-0,0-0,1-2,1-2,140,5.5,-1,L,U,0
+2021-03-02 00:00:00,Tuesday,2020,Islanders,Devils,away,0-0,0-0,2-1,2-1,-161,5.5,1,W,U,0
+2021-03-02 00:00:00,Tuesday,2020,Jets,Canucks,home,2-1,1-1,2-0,5-2,-125,6.0,3,W,O,0
+2021-03-02 00:00:00,Tuesday,2020,Canucks,Jets,away,1-2,1-1,0-2,2-5,113,6.0,-3,L,O,0
+2021-03-02 00:00:00,Tuesday,2020,Rangers,Sabres,home,2-1,1-1,0-0,3-2,-150,5.5,1,W,U,0
+2021-03-02 00:00:00,Tuesday,2020,Sabres,Rangers,away,1-2,1-1,0-0,2-3,136,5.5,-1,L,U,0
+2021-03-02 00:00:00,Tuesday,2020,Penguins,Flyers,home,0-0,3-1,2-1,5-2,105,6.0,3,W,O,0
+2021-03-02 00:00:00,Tuesday,2020,Flyers,Penguins,away,0-0,1-3,1-2,2-5,-116,6.0,-3,L,O,0
+2021-03-02 00:00:00,Tuesday,2020,Blue Jackets,Red Wings,home,1-1,3-0,0-0,4-1,-175,5.5,3,W,U,0
+2021-03-02 00:00:00,Tuesday,2020,Red Wings,Blue Jackets,away,1-1,0-3,0-0,1-4,158,5.5,-3,L,U,0
+2021-03-02 00:00:00,Tuesday,2020,Canadiens,Senators,home,0-0,2-1,1-0,3-1,-250,6.5,2,W,U,0
+2021-03-02 00:00:00,Tuesday,2020,Senators,Canadiens,away,0-0,1-2,0-1,1-3,215,6.5,-2,L,U,0
+2021-03-02 00:00:00,Tuesday,2020,Predators,Hurricanes,home,0-2,0-1,2-1,2-4,105,5.5,-2,L,O,0
+2021-03-02 00:00:00,Tuesday,2020,Hurricanes,Predators,away,2-0,1-0,1-2,4-2,-125,5.5,2,W,O,0
+2021-03-02 00:00:00,Tuesday,2020,Stars,Lightning,home,0-1,0-0,0-1,0-2,165,5.5,-2,L,U,0
+2021-03-02 00:00:00,Tuesday,2020,Lightning,Stars,away,1-0,0-0,1-0,2-0,-185,5.5,2,W,U,0
+2021-03-03 00:00:00,Wednesday,2020,Oilers,Maple Leafs,home,0-1,1-4,0-1,1-6,105,6.5,-5,L,O,0
+2021-03-03 00:00:00,Wednesday,2020,Maple Leafs,Oilers,away,1-0,4-1,1-0,6-1,-125,6.5,5,W,O,0
+2021-03-03 00:00:00,Wednesday,2020,Bruins,Capitals,home,0-0,0-0,1-1,1-2,-150,6.0,-1,L,U,1
+2021-03-03 00:00:00,Wednesday,2020,Capitals,Bruins,away,0-0,0-0,1-1,2-1,130,6.0,1,W,U,1
+2021-03-03 00:00:00,Wednesday,2020,Knights,Wild,home,1-0,1-1,3-0,5-1,-145,5.5,4,W,O,0
+2021-03-03 00:00:00,Wednesday,2020,Wild,Knights,away,0-1,1-1,0-3,1-5,131,5.5,-4,L,O,0
+2021-03-03 00:00:00,Wednesday,2020,Ducks,Blues,home,0-1,1-1,1-1,2-3,160,5.5,-1,L,U,0
+2021-03-03 00:00:00,Wednesday,2020,Blues,Ducks,away,1-0,1-1,1-1,3-2,-180,5.5,1,W,U,0
+2021-03-03 00:00:00,Wednesday,2020,Sharks,Avalanche,home,0-0,0-1,0-3,0-4,180,6.0,-4,L,U,0
+2021-03-03 00:00:00,Wednesday,2020,Avalanche,Sharks,away,0-0,1-0,3-0,4-0,-220,6.0,4,W,U,0
+2021-03-03 00:00:00,Wednesday,2020,Kings,Coyotes,home,0-0,1-3,1-0,2-3,-105,5.5,-1,L,U,0
+2021-03-03 00:00:00,Wednesday,2020,Coyotes,Kings,away,0-0,3-1,0-1,3-2,-115,5.5,1,W,U,0
+2021-03-04 00:00:00,Thursday,2020,Blackhawks,Lightning,home,0-0,2-0,0-2,2-3,188,5.5,-1,L,U,1
+2021-03-04 00:00:00,Thursday,2020,Lightning,Blackhawks,away,0-0,0-2,2-0,3-2,-212,5.5,1,W,U,1
+2021-03-04 00:00:00,Thursday,2020,Predators,Panthers,home,0-2,2-2,2-1,4-5,116,5.5,-1,L,O,0
+2021-03-04 00:00:00,Thursday,2020,Panthers,Predators,away,2-0,2-2,1-2,5-4,-128,5.5,1,W,O,0
+2021-03-04 00:00:00,Thursday,2020,Stars,Blue Jackets,home,0-0,0-1,2-2,2-3,-145,5.5,-1,L,U,0
+2021-03-04 00:00:00,Thursday,2020,Blue Jackets,Stars,away,0-0,1-0,2-2,3-2,125,5.5,1,W,U,0
+2021-03-04 00:00:00,Thursday,2020,Flames,Senators,home,4-1,1-0,2-2,7-3,-185,6.0,4,W,O,0
+2021-03-04 00:00:00,Thursday,2020,Senators,Flames,away,1-4,0-1,2-2,3-7,166,6.0,-4,L,O,0
+2021-03-04 00:00:00,Thursday,2020,Hurricanes,Red Wings,home,1-1,1-1,3-0,5-2,-300,5.5,3,W,O,0
+2021-03-04 00:00:00,Thursday,2020,Red Wings,Hurricanes,away,1-1,1-1,0-3,2-5,256,5.5,-3,L,O,0
+2021-03-04 00:00:00,Thursday,2020,Penguins,Flyers,home,3-1,0-1,0-2,3-4,-105,6.0,-1,L,O,0
+2021-03-04 00:00:00,Thursday,2020,Flyers,Penguins,away,1-3,1-0,2-0,4-3,-115,6.0,1,W,O,0
+2021-03-04 00:00:00,Thursday,2020,Canadiens,Jets,home,0-2,2-0,1-1,3-4,-150,5.5,-1,L,O,1
+2021-03-04 00:00:00,Thursday,2020,Jets,Canadiens,away,2-0,0-2,1-1,4-3,130,5.5,1,W,O,1
+2021-03-04 00:00:00,Thursday,2020,Canucks,Maple Leafs,home,1-1,1-0,1-0,3-1,145,6.5,2,W,U,0
+2021-03-04 00:00:00,Thursday,2020,Maple Leafs,Canucks,away,1-1,0-1,0-1,1-3,-161,6.5,-2,L,U,0
+2021-03-04 00:00:00,Thursday,2020,Islanders,Sabres,home,2-0,1-1,2-1,5-2,-181,5.0,3,W,O,0
+2021-03-04 00:00:00,Thursday,2020,Sabres,Islanders,away,0-2,1-1,1-2,2-5,163,5.0,-3,L,O,0
+2021-03-04 00:00:00,Thursday,2020,Devils,Rangers,home,1-0,0-2,0-4,1-6,105,5.5,-5,L,O,0
+2021-03-04 00:00:00,Thursday,2020,Rangers,Devils,away,0-1,2-0,4-0,6-1,-125,5.5,5,W,O,0
+2021-03-05 00:00:00,Friday,2020,Blackhawks,Lightning,home,1-2,1-0,1-1,4-3,170,6.0,1,W,O,1
+2021-03-05 00:00:00,Friday,2020,Lightning,Blackhawks,away,2-1,0-1,1-1,3-4,-189,6.0,-1,L,O,1
+2021-03-05 00:00:00,Friday,2020,Avalanche,Ducks,home,0-1,2-1,0-0,3-2,-220,5.5,1,W,U,1
+2021-03-05 00:00:00,Friday,2020,Ducks,Avalanche,away,1-0,1-2,0-0,2-3,196,5.5,-1,L,U,1
+2021-03-05 00:00:00,Friday,2020,Coyotes,Wild,home,0-3,0-1,1-1,1-5,120,5.5,-4,L,O,0
+2021-03-05 00:00:00,Friday,2020,Wild,Coyotes,away,3-0,1-0,1-1,5-1,-141,5.5,4,W,O,0
+2021-03-05 00:00:00,Friday,2020,Bruins,Capitals,home,1-0,3-0,1-1,5-1,-135,6.0,4,W,P,0
+2021-03-05 00:00:00,Friday,2020,Capitals,Bruins,away,0-1,0-3,1-1,1-5,122,6.0,-4,L,P,0
+2021-03-05 00:00:00,Friday,2020,Kings,Blues,home,0-1,1-0,1-1,2-3,105,5.5,-1,L,U,1
+2021-03-05 00:00:00,Friday,2020,Blues,Kings,away,1-0,0-1,1-1,3-2,-125,5.5,1,W,U,1
+2021-03-05 00:00:00,Friday,2020,Sharks,Knights,home,0-2,2-1,2-1,4-5,180,6.0,-1,L,O,1
+2021-03-05 00:00:00,Friday,2020,Knights,Sharks,away,2-0,1-2,1-2,5-4,-210,6.0,1,W,O,1
+2021-03-06 00:00:00,Saturday,2020,Predators,Panthers,home,1-1,0-3,1-2,2-6,121,5.5,-4,L,O,0
+2021-03-06 00:00:00,Saturday,2020,Panthers,Predators,away,1-1,3-0,2-1,6-2,-145,5.5,4,W,O,0
+2021-03-06 00:00:00,Saturday,2020,Stars,Blue Jackets,home,2-0,1-0,2-0,5-0,-135,5.0,5,W,P,0
+2021-03-06 00:00:00,Saturday,2020,Blue Jackets,Stars,away,0-2,0-1,0-2,0-5,122,5.0,-5,L,P,0
+2021-03-06 00:00:00,Saturday,2020,Oilers,Flames,home,0-1,1-0,2-1,3-2,-125,6.5,1,W,U,0
+2021-03-06 00:00:00,Saturday,2020,Flames,Oilers,away,1-0,0-1,1-2,2-3,113,6.5,-1,L,U,0
+2021-03-06 00:00:00,Saturday,2020,Avalanche,Ducks,home,0-1,2-1,2-2,4-5,-213,5.5,-1,L,O,1
+2021-03-06 00:00:00,Saturday,2020,Ducks,Avalanche,away,1-0,1-2,2-2,5-4,185,5.5,1,W,O,1
+2021-03-06 00:00:00,Saturday,2020,Coyotes,Wild,home,0-2,2-0,3-0,5-2,122,5.5,3,W,O,0
+2021-03-06 00:00:00,Saturday,2020,Wild,Coyotes,away,2-0,0-2,0-3,2-5,-135,5.5,-3,L,O,0
+2021-03-06 00:00:00,Saturday,2020,Canadiens,Jets,home,1-0,4-0,2-1,7-1,-145,5.5,6,W,O,0
+2021-03-06 00:00:00,Saturday,2020,Jets,Canadiens,away,0-1,0-4,1-2,1-7,131,5.5,-6,L,O,0
+2021-03-06 00:00:00,Saturday,2020,Canucks,Maple Leafs,home,1-1,0-1,3-0,4-2,170,6.5,2,W,U,0
+2021-03-06 00:00:00,Saturday,2020,Maple Leafs,Canucks,away,1-1,1-0,0-3,2-4,-189,6.5,-2,L,U,0
+2021-03-06 00:00:00,Saturday,2020,Kings,Blues,home,1-3,2-0,0-0,4-3,130,5.5,1,W,O,1
+2021-03-06 00:00:00,Saturday,2020,Blues,Kings,away,3-1,0-2,0-0,3-4,-144,5.5,-1,L,O,1
+2021-03-06 00:00:00,Saturday,2020,Sharks,Knights,home,0-1,0-2,0-1,0-4,185,6.0,-4,L,U,0
+2021-03-06 00:00:00,Saturday,2020,Knights,Sharks,away,1-0,2-0,1-0,4-0,-215,6.0,4,W,U,0
+2021-03-06 00:00:00,Saturday,2020,Penguins,Flyers,home,2-1,1-2,1-0,4-3,-110,6.0,1,W,O,0
+2021-03-06 00:00:00,Saturday,2020,Flyers,Penguins,away,1-2,2-1,0-1,3-4,100,6.0,-1,L,O,0
+2021-03-07 00:00:00,Sunday,2020,Blackhawks,Lightning,home,2-0,1-4,0-2,3-6,185,5.5,-3,L,O,0
+2021-03-07 00:00:00,Sunday,2020,Lightning,Blackhawks,away,0-2,4-1,2-0,6-3,-213,5.5,3,W,O,0
+2021-03-07 00:00:00,Sunday,2020,Flames,Senators,home,0-2,1-1,2-0,3-4,-175,6.0,-1,L,O,1
+2021-03-07 00:00:00,Sunday,2020,Senators,Flames,away,2-0,1-1,0-2,4-3,155,6.0,1,W,O,1
+2021-03-07 00:00:00,Sunday,2020,Islanders,Sabres,home,0-0,3-0,2-2,5-2,-225,5.5,3,W,O,0
+2021-03-07 00:00:00,Sunday,2020,Sabres,Islanders,away,0-0,0-3,2-2,2-5,201,5.5,-3,L,O,0
+2021-03-07 00:00:00,Sunday,2020,Penguins,Rangers,home,3-1,0-0,2-0,5-1,-145,6.0,4,W,P,0
+2021-03-07 00:00:00,Sunday,2020,Rangers,Penguins,away,1-3,0-0,0-2,1-5,131,6.0,-4,L,P,0
+2021-03-07 00:00:00,Sunday,2020,Flyers,Capitals,home,1-0,0-2,0-1,1-3,-105,6.0,-2,L,U,0
+2021-03-07 00:00:00,Sunday,2020,Capitals,Flyers,away,0-1,2-0,1-0,3-1,-115,6.0,2,W,U,0
+2021-03-07 00:00:00,Sunday,2020,Hurricanes,Panthers,home,1-0,1-1,2-1,4-2,-135,6.0,2,W,P,0
+2021-03-07 00:00:00,Sunday,2020,Panthers,Hurricanes,away,0-1,1-1,1-2,2-4,122,6.0,-2,L,P,0
+2021-03-07 00:00:00,Sunday,2020,Bruins,Devils,home,0-0,0-0,0-1,0-1,-290,5.5,-1,L,U,0
+2021-03-07 00:00:00,Sunday,2020,Devils,Bruins,away,0-0,0-0,1-0,1-0,235,5.5,1,W,U,0
+2021-03-07 00:00:00,Sunday,2020,Stars,Predators,home,0-2,0-1,3-0,3-4,-160,5.5,-1,L,O,1
+2021-03-07 00:00:00,Sunday,2020,Predators,Stars,away,2-0,1-0,0-3,4-3,140,5.5,1,W,O,1
+2021-03-08 00:00:00,Monday,2020,Sharks,Blues,home,0-1,1-1,1-0,3-2,150,6.0,1,W,U,1
+2021-03-08 00:00:00,Monday,2020,Blues,Sharks,away,1-0,1-1,0-1,2-3,-166,6.0,-1,L,U,1
+2021-03-08 00:00:00,Monday,2020,Wild,Knights,home,1-0,0-0,1-0,2-0,-110,5.5,2,W,U,0
+2021-03-08 00:00:00,Monday,2020,Knights,Wild,away,0-1,0-0,0-1,0-2,100,5.5,-2,L,U,0
+2021-03-08 00:00:00,Monday,2020,Oilers,Senators,home,1-1,2-1,0-0,3-2,-250,6.5,1,W,U,0
+2021-03-08 00:00:00,Monday,2020,Senators,Oilers,away,1-1,1-2,0-0,2-3,215,6.5,-1,L,U,0
+2021-03-08 00:00:00,Monday,2020,Avalanche,Coyotes,home,0-2,2-0,0-1,2-3,-175,5.5,-1,L,U,0
+2021-03-08 00:00:00,Monday,2020,Coyotes,Avalanche,away,2-0,0-2,1-0,3-2,155,5.5,1,W,U,0
+2021-03-08 00:00:00,Monday,2020,Canucks,Canadiens,home,0-1,0-0,1-0,2-1,125,6.0,1,W,U,1
+2021-03-08 00:00:00,Monday,2020,Canadiens,Canucks,away,1-0,0-0,0-1,1-2,-138,6.0,-1,L,U,1
+2021-03-08 00:00:00,Monday,2020,Ducks,Kings,home,2-1,3-2,0-2,6-5,110,5.5,1,W,O,1
+2021-03-08 00:00:00,Monday,2020,Kings,Ducks,away,1-2,2-3,2-0,5-6,-121,5.5,-1,L,O,1
+2021-03-09 00:00:00,Tuesday,2020,Stars,Blackhawks,home,2-0,3-1,1-0,6-1,-145,5.5,5,W,O,0
+2021-03-09 00:00:00,Tuesday,2020,Blackhawks,Stars,away,0-2,1-3,0-1,1-6,131,5.5,-5,L,O,0
+2021-03-09 00:00:00,Tuesday,2020,Islanders,Bruins,home,0-1,1-0,0-0,2-1,-110,5.5,1,W,U,1
+2021-03-09 00:00:00,Tuesday,2020,Bruins,Islanders,away,1-0,0-1,0-0,1-2,100,5.5,-1,L,U,1
+2021-03-09 00:00:00,Tuesday,2020,Flyers,Sabres,home,1-3,2-1,1-0,5-4,-250,6.0,1,W,O,1
+2021-03-09 00:00:00,Tuesday,2020,Sabres,Flyers,away,3-1,1-2,0-1,4-5,215,6.0,-1,L,O,1
+2021-03-09 00:00:00,Tuesday,2020,Capitals,Devils,home,1-0,3-1,0-3,5-4,-192,6.0,1,W,O,1
+2021-03-09 00:00:00,Tuesday,2020,Devils,Capitals,away,0-1,1-3,3-0,4-5,172,6.0,-1,L,O,1
+2021-03-09 00:00:00,Tuesday,2020,Hurricanes,Predators,home,0-0,2-2,0-0,3-2,-220,6.0,1,W,U,1
+2021-03-09 00:00:00,Tuesday,2020,Predators,Hurricanes,away,0-0,2-2,0-0,2-3,196,6.0,-1,L,U,1
+2021-03-09 00:00:00,Tuesday,2020,Penguins,Rangers,home,1-1,2-0,1-1,4-2,-170,6.0,2,W,P,0
+2021-03-09 00:00:00,Tuesday,2020,Rangers,Penguins,away,1-1,0-2,1-1,2-4,153,6.0,-2,L,P,0
+2021-03-09 00:00:00,Tuesday,2020,Blue Jackets,Panthers,home,0-1,1-2,1-1,2-4,115,5.5,-2,L,O,0
+2021-03-09 00:00:00,Tuesday,2020,Panthers,Blue Jackets,away,1-0,2-1,1-1,4-2,-135,5.5,2,W,O,0
+2021-03-09 00:00:00,Tuesday,2020,Red Wings,Lightning,home,1-2,2-0,0-1,3-4,280,5.5,-1,L,O,1
+2021-03-09 00:00:00,Tuesday,2020,Lightning,Red Wings,away,2-1,0-2,1-0,4-3,-340,5.5,1,W,O,1
+2021-03-09 00:00:00,Tuesday,2020,Maple Leafs,Jets,home,2-1,0-2,1-1,3-4,-180,6.0,-1,L,O,0
+2021-03-09 00:00:00,Tuesday,2020,Jets,Maple Leafs,away,1-2,2-0,1-1,4-3,160,6.0,1,W,O,0
+"Mar 10, 2021",Wednesday,2020,Wild,Knights,home,1-1,0-0,3-2,4-3,-102,5.5,1,W,O,0
+"Mar 10, 2021",Wednesday,2020,Knights,Wild,away,1-1,0-0,2-3,3-4,-108,5.5,-1,L,O,0
+"Mar 10, 2021",Wednesday,2020,Oilers,Senators,home,4-0,2-0,1-1,7-1,-227,6.5,6,W,O,0
+"Mar 10, 2021",Wednesday,2020,Senators,Oilers,away,0-4,0-2,1-1,1-7,202,6.5,-6,L,O,0
+"Mar 10, 2021",Wednesday,2020,Avalanche,Coyotes,home,1-0,0-1,0-0,2-1,-220,5.5,1,W,U,1
+"Mar 10, 2021",Wednesday,2020,Coyotes,Avalanche,away,0-1,1-0,0-0,1-2,196,5.5,-1,L,U,1
+"Mar 10, 2021",Wednesday,2020,Canucks,Canadiens,home,0-1,1-2,0-2,1-5,145,6.0,-4,L,P,0
+"Mar 10, 2021",Wednesday,2020,Canadiens,Canucks,away,1-0,2-1,2-0,5-1,-165,6.0,4,W,P,0
+"Mar 10, 2021",Wednesday,2020,Ducks,Kings,home,0-1,1-2,0-2,1-5,105,5.5,-4,L,O,0
+"Mar 10, 2021",Wednesday,2020,Kings,Ducks,away,1-0,2-1,2-0,5-1,-125,5.5,4,W,O,0
+"Mar 11, 2021",Thursday,2020,Stars,Blackhawks,home,0-1,0-3,2-0,2-4,-155,5.5,-2,L,O,0
+"Mar 11, 2021",Thursday,2020,Blackhawks,Stars,away,1-0,3-0,0-2,4-2,135,5.5,2,W,O,0
+"Mar 11, 2021",Thursday,2020,Flames,Canadiens,home,0-0,2-0,0-1,2-1,-110,5.5,1,W,U,0
+"Mar 11, 2021",Thursday,2020,Canadiens,Flames,away,0-0,0-2,1-0,1-2,100,5.5,-1,L,U,0
+"Mar 11, 2021",Thursday,2020,Bruins,Rangers,home,2-0,2-0,0-0,4-0,-175,5.5,4,W,U,0
+"Mar 11, 2021",Thursday,2020,Rangers,Bruins,away,0-2,0-2,0-0,0-4,158,5.5,-4,L,U,0
+"Mar 11, 2021",Thursday,2020,Sabres,Penguins,home,1-1,1-2,0-2,2-5,180,6.0,-3,L,O,0
+"Mar 11, 2021",Thursday,2020,Penguins,Sabres,away,1-1,2-1,2-0,5-2,-208,6.0,3,W,O,0
+"Mar 11, 2021",Thursday,2020,Islanders,Devils,home,2-0,2-0,1-3,5-3,-200,5.5,2,W,O,0
+"Mar 11, 2021",Thursday,2020,Devils,Islanders,away,0-2,0-2,3-1,3-5,180,5.5,-2,L,O,0
+"Mar 11, 2021",Thursday,2020,Flyers,Capitals,home,1-2,0-2,2-1,3-5,-125,6.5,-2,L,O,0
+"Mar 11, 2021",Thursday,2020,Capitals,Flyers,away,2-1,2-0,1-2,5-3,105,6.5,2,W,O,0
+"Mar 11, 2021",Thursday,2020,Hurricanes,Predators,home,3-0,1-0,1-1,5-1,-233,5.5,4,W,O,0
+"Mar 11, 2021",Thursday,2020,Predators,Hurricanes,away,0-3,0-1,1-1,1-5,201,5.5,-4,L,O,0
+"Mar 11, 2021",Thursday,2020,Blue Jackets,Panthers,home,0-0,2-1,2-3,4-5,110,5.5,-1,L,O,1
+"Mar 11, 2021",Thursday,2020,Panthers,Blue Jackets,away,0-0,1-2,3-2,5-4,-130,5.5,1,W,O,1
+"Mar 11, 2021",Thursday,2020,Red Wings,Lightning,home,3-2,2-0,1-2,6-4,265,5.5,2,W,O,0
+"Mar 11, 2021",Thursday,2020,Lightning,Red Wings,away,2-3,0-2,2-1,4-6,-310,5.5,-2,L,O,0
+"Mar 11, 2021",Thursday,2020,Maple Leafs,Jets,home,0-1,1-1,2-1,4-3,-183,6.5,1,W,O,1
+"Mar 11, 2021",Thursday,2020,Jets,Maple Leafs,away,1-0,1-1,1-2,3-4,164,6.5,-1,L,O,1
+"Mar 12, 2021",Friday,2020,Blues,Knights,home,0-2,2-1,2-1,4-5,-105,5.5,-1,L,O,1
+"Mar 12, 2021",Friday,2020,Knights,Blues,away,2-0,1-2,1-2,5-4,-115,5.5,1,W,O,1
+"Mar 12, 2021",Friday,2020,Wild,Coyotes,home,0-0,0-0,4-0,4-0,-200,5.5,4,W,U,0
+"Mar 12, 2021",Friday,2020,Coyotes,Wild,away,0-0,0-0,0-4,0-4,180,5.5,-4,L,U,0
+"Mar 12, 2021",Friday,2020,Oilers,Senators,home,2-1,2-1,2-0,6-2,-240,6.5,4,W,O,0
+"Mar 12, 2021",Friday,2020,Senators,Oilers,away,1-2,1-2,0-2,2-6,207,6.5,-4,L,O,0
+"Mar 12, 2021",Friday,2020,Avalanche,Kings,home,0-0,1-0,1-0,2-0,-227,5.5,2,W,U,0
+"Mar 12, 2021",Friday,2020,Kings,Avalanche,away,0-0,0-1,0-1,0-2,202,5.5,-2,L,U,0
+"Mar 12, 2021",Friday,2020,Ducks,Sharks,home,0-1,0-1,0-4,0-6,-105,5.5,-6,L,O,0
+"Mar 12, 2021",Friday,2020,Sharks,Ducks,away,1-0,1-0,4-0,6-0,-115,5.5,6,W,O,0
+"Mar 13, 2021",Saturday,2020,Bruins,Rangers,home,0-1,0-1,0-2,0-4,-175,5.5,-4,L,U,0
+"Mar 13, 2021",Saturday,2020,Rangers,Bruins,away,1-0,1-0,2-0,4-0,155,5.5,4,W,U,0
+"Mar 13, 2021",Saturday,2020,Sabres,Penguins,home,0-0,0-1,0-2,0-3,195,5.5,-3,L,U,0
+"Mar 13, 2021",Saturday,2020,Penguins,Sabres,away,0-0,1-0,2-0,3-0,-227,5.5,3,W,U,0
+"Mar 13, 2021",Saturday,2020,Devils,Islanders,home,1-1,1-0,0-2,2-3,155,5.5,-1,L,U,0
+"Mar 13, 2021",Saturday,2020,Islanders,Devils,away,1-1,0-1,2-0,3-2,-175,5.5,1,W,U,0
+"Mar 13, 2021",Saturday,2020,Flyers,Capitals,home,0-2,2-2,2-1,4-5,-125,6.0,-1,L,O,0
+"Mar 13, 2021",Saturday,2020,Capitals,Flyers,away,2-0,2-2,1-2,5-4,105,6.0,1,W,O,0
+"Mar 13, 2021",Saturday,2020,Lightning,Predators,home,2-0,2-1,2-2,6-3,-330,5.5,3,W,O,0
+"Mar 13, 2021",Saturday,2020,Predators,Lightning,away,0-2,1-2,2-2,3-6,281,5.5,-3,L,O,0
+"Mar 13, 2021",Saturday,2020,Panthers,Blackhawks,home,0-0,3-1,1-1,4-2,-169,6.0,2,W,P,0
+"Mar 13, 2021",Saturday,2020,Blackhawks,Panthers,away,0-0,1-3,1-1,2-4,152,6.0,-2,L,P,0
+"Mar 13, 2021",Saturday,2020,Blue Jackets,Stars,home,1-1,2-1,0-1,4-3,115,5.5,1,W,O,1
+"Mar 13, 2021",Saturday,2020,Stars,Blue Jackets,away,1-1,1-2,1-0,3-4,-127,5.5,-1,L,O,1
+"Mar 13, 2021",Saturday,2020,Maple Leafs,Jets,home,0-0,2-2,0-3,2-5,-200,6.5,-3,L,O,0
+"Mar 13, 2021",Saturday,2020,Jets,Maple Leafs,away,0-0,2-2,3-0,5-2,175,6.5,3,W,O,0
+"Mar 13, 2021",Saturday,2020,Canucks,Oilers,home,0-0,1-1,1-0,2-1,110,6.5,1,W,U,0
+"Mar 13, 2021",Saturday,2020,Oilers,Canucks,away,0-0,1-1,0-1,1-2,-121,6.5,-1,L,U,0
+"Mar 13, 2021",Saturday,2020,Ducks,Sharks,home,0-1,1-1,0-1,1-3,100,6.0,-2,L,U,0
+"Mar 13, 2021",Saturday,2020,Sharks,Ducks,away,1-0,1-1,1-0,3-1,-120,6.0,2,W,U,0
+"Mar 14, 2021",Sunday,2020,Wild,Coyotes,home,0-1,1-0,3-0,4-1,-185,5.5,3,W,U,0
+"Mar 14, 2021",Sunday,2020,Coyotes,Wild,away,1-0,0-1,0-3,1-4,166,5.5,-3,L,U,0
+"Mar 14, 2021",Sunday,2020,Red Wings,Hurricanes,home,0-0,0-1,1-1,1-2,180,5.5,-1,L,U,0
+"Mar 14, 2021",Sunday,2020,Hurricanes,Red Wings,away,0-0,1-0,1-1,2-1,-210,5.5,1,W,U,0
+"Mar 14, 2021",Sunday,2020,Senators,Maple Leafs,home,2-1,2-0,0-2,4-3,210,6.5,1,W,O,0
+"Mar 14, 2021",Sunday,2020,Maple Leafs,Senators,away,1-2,0-2,2-0,3-4,-243,6.5,-1,L,O,0
+"Mar 14, 2021",Sunday,2020,Avalanche,Kings,home,1-0,2-0,1-1,4-1,-256,5.5,3,W,U,0
+"Mar 14, 2021",Sunday,2020,Kings,Avalanche,away,0-1,0-2,1-1,1-4,220,5.5,-3,L,U,0
+"Mar 14, 2021",Sunday,2020,Blue Jackets,Stars,home,0-1,0-0,1-0,1-2,120,5.5,-1,L,U,1
+"Mar 14, 2021",Sunday,2020,Stars,Blue Jackets,away,1-0,0-0,0-1,2-1,-140,5.5,1,W,U,1
+"Mar 14, 2021",Sunday,2020,Devils,Islanders,home,1-2,1-0,0-0,2-3,155,5.5,-1,L,U,1
+"Mar 14, 2021",Sunday,2020,Islanders,Devils,away,2-1,0-1,0-0,3-2,-175,5.5,1,W,U,1
+"Mar 15, 2021",Monday,2020,Jets,Canadiens,home,0-1,1-2,1-1,2-4,100,5.5,-2,L,O,0
+"Mar 15, 2021",Monday,2020,Canadiens,Jets,away,1-0,2-1,1-1,4-2,-120,5.5,2,W,O,0
+"Mar 15, 2021",Monday,2020,Flames,Oilers,home,0-0,3-2,1-1,4-3,-125,6.0,1,W,O,0
+"Mar 15, 2021",Monday,2020,Oilers,Flames,away,0-0,2-3,1-1,3-4,113,6.0,-1,L,O,0
+"Mar 15, 2021",Monday,2020,Rangers,Flyers,home,0-2,3-1,1-1,4-5,115,6.0,-1,L,O,1
+"Mar 15, 2021",Monday,2020,Flyers,Rangers,away,2-0,1-3,1-1,5-4,-135,6.0,1,W,O,1
+"Mar 15, 2021",Monday,2020,Lightning,Predators,home,0-0,0-3,1-1,1-4,-320,6.0,-3,L,U,0
+"Mar 15, 2021",Monday,2020,Predators,Lightning,away,0-0,3-0,1-1,4-1,260,6.0,3,W,U,0
+"Mar 15, 2021",Monday,2020,Panthers,Blackhawks,home,1-1,2-2,3-0,6-3,-175,6.0,3,W,O,0
+"Mar 15, 2021",Monday,2020,Blackhawks,Panthers,away,1-1,2-2,0-3,3-6,158,6.0,-3,L,O,0
+"Mar 15, 2021",Monday,2020,Penguins,Bruins,home,2-1,1-0,1-0,4-1,100,5.5,3,W,U,0
+"Mar 15, 2021",Monday,2020,Bruins,Penguins,away,1-2,0-1,0-1,1-4,-110,5.5,-3,L,U,0
+"Mar 15, 2021",Monday,2020,Senators,Canucks,home,0-2,1-0,1-0,2-3,140,6.5,-1,L,U,1
+"Mar 15, 2021",Monday,2020,Canucks,Senators,away,2-0,0-1,0-1,3-2,-160,6.5,1,W,U,1
+"Mar 15, 2021",Monday,2020,Knights,Sharks,home,1-0,0-0,1-1,2-1,-225,6.0,1,W,U,0
+"Mar 15, 2021",Monday,2020,Sharks,Knights,away,0-1,0-0,1-1,1-2,201,6.0,-1,L,U,0
+"Mar 15, 2021",Monday,2020,Sabres,Capitals,home,0-1,0-3,0-2,0-6,190,6.0,-6,L,P,0
+"Mar 15, 2021",Monday,2020,Capitals,Sabres,away,1-0,3-0,2-0,6-0,-220,6.0,6,W,P,0
+"Mar 16, 2021",Tuesday,2020,Devils,Sabres,home,1-0,1-2,1-0,3-2,-180,5.5,1,W,U,0
+"Mar 16, 2021",Tuesday,2020,Sabres,Devils,away,0-1,2-1,0-1,2-3,162,5.5,-1,L,U,0
+"Mar 16, 2021",Tuesday,2020,Capitals,Islanders,home,0-0,2-0,1-1,3-1,-105,5.5,2,W,U,0
+"Mar 16, 2021",Tuesday,2020,Islanders,Capitals,away,0-0,0-2,1-1,1-3,-105,5.5,-2,L,U,0
+"Mar 16, 2021",Tuesday,2020,Penguins,Bruins,home,1-1,0-0,0-1,1-2,-114,5.5,-1,L,U,0
+"Mar 16, 2021",Tuesday,2020,Bruins,Penguins,away,1-1,0-0,1-0,2-1,-106,5.5,1,W,U,0
+"Mar 16, 2021",Tuesday,2020,Red Wings,Hurricanes,home,2-1,1-1,1-0,4-2,210,5.5,2,W,O,0
+"Mar 16, 2021",Tuesday,2020,Hurricanes,Red Wings,away,1-2,1-1,0-1,2-4,-243,5.5,-2,L,O,0
+"Mar 16, 2021",Tuesday,2020,Avalanche,Ducks,home,2-4,2-0,4-0,8-4,-280,5.5,4,W,O,0
+"Mar 16, 2021",Tuesday,2020,Ducks,Avalanche,away,4-2,0-2,0-4,4-8,240,5.5,-4,L,O,0
+"Mar 16, 2021",Tuesday,2020,Wild,Coyotes,home,1-0,0-0,2-0,3-0,-185,5.5,3,W,U,0
+"Mar 16, 2021",Tuesday,2020,Coyotes,Wild,away,0-1,0-0,0-2,0-3,166,5.5,-3,L,U,0
+"Mar 16, 2021",Tuesday,2020,Stars,Lightning,home,0-1,1-1,2-1,3-4,140,5.5,-1,L,O,1
+"Mar 16, 2021",Tuesday,2020,Lightning,Stars,away,1-0,1-1,1-2,4-3,-160,5.5,1,W,O,1
+"Mar 17, 2021",Wednesday,2020,Jets,Canadiens,home,2-0,1-1,0-2,4-3,-110,5.5,1,W,O,1
+"Mar 17, 2021",Wednesday,2020,Canadiens,Jets,away,0-2,1-1,2-0,3-4,100,5.5,-1,L,O,1
+"Mar 17, 2021",Wednesday,2020,Flames,Oilers,home,0-2,1-1,2-4,3-7,-120,6.0,-4,L,O,0
+"Mar 17, 2021",Wednesday,2020,Oilers,Flames,away,2-0,1-1,4-2,7-3,100,6.0,4,W,O,0
+"Mar 17, 2021",Wednesday,2020,Rangers,Flyers,home,2-0,7-0,0-0,9-0,100,6.0,9,W,O,0
+"Mar 17, 2021",Wednesday,2020,Flyers,Rangers,away,0-2,0-7,0-0,0-9,-110,6.0,-9,L,O,0
+"Mar 17, 2021",Wednesday,2020,Senators,Canucks,home,0-2,1-0,1-0,2-3,135,6.5,-1,L,U,1
+"Mar 17, 2021",Wednesday,2020,Canucks,Senators,away,2-0,0-1,0-1,3-2,-155,6.5,1,W,U,1
+"Mar 17, 2021",Wednesday,2020,Knights,Sharks,home,1-0,0-3,4-1,5-4,-230,6.0,1,W,O,0
+"Mar 17, 2021",Wednesday,2020,Sharks,Knights,away,0-1,3-0,1-4,4-5,198,6.0,-1,L,O,0
+"Mar 17, 2021",Wednesday,2020,Kings,Blues,home,3-0,0-1,1-0,4-1,120,5.5,3,W,U,0
+"Mar 17, 2021",Wednesday,2020,Blues,Kings,away,0-3,1-0,0-1,1-4,-133,5.5,-3,L,U,0
+"Mar 18, 2021",Thursday,2020,Devils,Penguins,home,1-0,2-1,0-1,3-2,145,5.5,1,W,U,0
+"Mar 18, 2021",Thursday,2020,Penguins,Devils,away,0-1,1-2,1-0,2-3,-161,5.5,-1,L,U,0
+"Mar 18, 2021",Thursday,2020,Oilers,Jets,home,0-0,2-1,0-0,2-1,-150,6.5,1,W,U,0
+"Mar 18, 2021",Thursday,2020,Jets,Oilers,away,0-0,1-2,0-0,1-2,136,6.5,-1,L,U,0
+"Mar 18, 2021",Thursday,2020,Avalanche,Wild,home,2-0,1-1,2-0,5-1,-160,5.5,4,W,O,0
+"Mar 18, 2021",Thursday,2020,Wild,Avalanche,away,0-2,1-1,0-2,1-5,144,5.5,-4,L,O,0
+"Mar 18, 2021",Thursday,2020,Sabres,Bruins,home,0-1,1-2,0-1,1-4,220,5.5,-3,L,U,0
+"Mar 18, 2021",Thursday,2020,Bruins,Sabres,away,1-0,2-1,1-0,4-1,-250,5.5,3,W,U,0
+"Mar 18, 2021",Thursday,2020,Islanders,Flyers,home,0-0,0-3,3-1,3-4,-150,5.5,-1,L,O,0
+"Mar 18, 2021",Thursday,2020,Flyers,Islanders,away,0-0,3-0,1-3,4-3,130,5.5,1,W,O,0
+"Mar 18, 2021",Thursday,2020,Hurricanes,Blue Jackets,home,0-1,2-1,0-0,2-3,-200,5.5,-1,L,U,1
+"Mar 18, 2021",Thursday,2020,Blue Jackets,Hurricanes,away,1-0,1-2,0-0,3-2,170,5.5,1,W,U,1
+"Mar 18, 2021",Thursday,2020,Lightning,Blackhawks,home,2-2,0-0,2-0,4-2,-266,6.0,2,W,P,0
+"Mar 18, 2021",Thursday,2020,Blackhawks,Lightning,away,2-2,0-0,0-2,2-4,228,6.0,-2,L,P,0
+"Mar 18, 2021",Thursday,2020,Panthers,Predators,home,1-0,0-1,0-1,1-2,-210,6.0,-1,L,U,0
+"Mar 18, 2021",Thursday,2020,Predators,Panthers,away,0-1,1-0,1-0,2-1,180,6.0,1,W,U,0
+"Mar 18, 2021",Thursday,2020,Red Wings,Stars,home,1-0,1-0,1-2,3-2,165,5.5,1,W,U,0
+"Mar 18, 2021",Thursday,2020,Stars,Red Wings,away,0-1,0-1,2-1,2-3,-184,5.5,-1,L,U,0
+"Mar 18, 2021",Thursday,2020,Ducks,Coyotes,home,0-2,2-0,0-0,3-2,110,5.5,1,W,U,1
+"Mar 18, 2021",Thursday,2020,Coyotes,Ducks,away,2-0,0-2,0-0,2-3,-121,5.5,-1,L,U,1
+"Mar 19, 2021",Friday,2020,Capitals,Rangers,home,0-1,0-0,2-0,2-1,-135,6.5,1,W,U,0
+"Mar 19, 2021",Friday,2020,Rangers,Capitals,away,1-0,0-0,0-2,1-2,122,6.5,-1,L,U,0
+"Mar 19, 2021",Friday,2020,Canadiens,Canucks,home,1-0,0-2,1-0,2-3,-180,6.0,-1,L,U,1
+"Mar 19, 2021",Friday,2020,Canucks,Canadiens,away,0-1,2-0,0-1,3-2,160,6.0,1,W,U,1
+"Mar 19, 2021",Friday,2020,Maple Leafs,Flames,home,2-3,1-1,0-0,3-4,-160,6.0,-1,L,O,0
+"Mar 19, 2021",Friday,2020,Flames,Maple Leafs,away,3-2,1-1,0-0,4-3,135,6.0,1,W,O,0
+"Mar 19, 2021",Friday,2020,Kings,Knights,home,1-2,1-1,0-1,2-4,140,5.5,-2,L,O,0
+"Mar 19, 2021",Friday,2020,Knights,Kings,away,2-1,1-1,1-0,4-2,-161,5.5,2,W,O,0
+"Mar 19, 2021",Friday,2020,Sharks,Blues,home,0-0,1-0,0-1,1-2,125,6.0,-1,L,U,1
+"Mar 19, 2021",Friday,2020,Blues,Sharks,away,0-0,0-1,1-0,2-1,-145,6.0,1,W,U,1
+"Mar 20, 2021",Saturday,2020,Oilers,Jets,home,1-2,0-0,3-0,4-2,-130,6.0,2,W,P,0
+"Mar 20, 2021",Saturday,2020,Jets,Oilers,away,2-1,0-0,0-3,2-4,118,6.0,-2,L,P,0
+"Mar 20, 2021",Saturday,2020,Avalanche,Wild,home,2-0,3-0,1-0,6-0,-175,5.5,6,W,O,0
+"Mar 20, 2021",Saturday,2020,Wild,Avalanche,away,0-2,0-3,0-1,0-6,158,5.5,-6,L,O,0
+"Mar 20, 2021",Saturday,2020,Islanders,Flyers,home,4-1,0-0,2-0,6-1,-130,5.5,5,W,O,0
+"Mar 20, 2021",Saturday,2020,Flyers,Islanders,away,1-4,0-0,0-2,1-6,118,5.5,-5,L,O,0
+"Mar 20, 2021",Saturday,2020,Hurricanes,Blue Jackets,home,0-0,1-0,1-2,2-3,-185,5.5,-1,L,U,1
+"Mar 20, 2021",Saturday,2020,Blue Jackets,Hurricanes,away,0-0,0-1,2-1,3-2,165,5.5,1,W,U,1
+"Mar 20, 2021",Saturday,2020,Lightning,Blackhawks,home,1-0,3-0,0-1,4-1,-250,6.0,3,W,U,0
+"Mar 20, 2021",Saturday,2020,Blackhawks,Lightning,away,0-1,0-3,1-0,1-4,215,6.0,-3,L,U,0
+"Mar 20, 2021",Saturday,2020,Panthers,Predators,home,0-0,1-0,1-0,2-0,-200,6.0,2,W,U,0
+"Mar 20, 2021",Saturday,2020,Predators,Panthers,away,0-0,0-1,0-1,0-2,180,6.0,-2,L,U,0
+"Mar 20, 2021",Saturday,2020,Red Wings,Stars,home,0-0,0-1,0-2,0-3,170,5.5,-3,L,U,0
+"Mar 20, 2021",Saturday,2020,Stars,Red Wings,away,0-0,1-0,2-0,3-0,-200,5.5,3,W,U,0
+"Mar 20, 2021",Saturday,2020,Canadiens,Canucks,home,1-0,2-2,1-2,5-4,-185,6.0,1,W,O,1
+"Mar 20, 2021",Saturday,2020,Canucks,Canadiens,away,0-1,2-2,2-1,4-5,166,6.0,-1,L,O,1
+"Mar 20, 2021",Saturday,2020,Maple Leafs,Flames,home,1-0,1-0,0-0,2-0,-175,6.0,2,W,U,0
+"Mar 20, 2021",Saturday,2020,Flames,Maple Leafs,away,0-1,0-1,0-0,0-2,158,6.0,-2,L,U,0
+"Mar 20, 2021",Saturday,2020,Sharks,Blues,home,1-2,1-0,0-3,2-5,120,6.0,-3,L,O,0
+"Mar 20, 2021",Saturday,2020,Blues,Sharks,away,2-1,0-1,3-0,5-2,-141,6.0,3,W,O,0
+"Mar 21, 2021",Sunday,2020,Kings,Knights,home,0-0,2-0,1-1,3-1,150,5.5,2,W,U,0
+"Mar 21, 2021",Sunday,2020,Knights,Kings,away,0-0,0-2,1-1,1-3,-166,5.5,-2,L,U,0
+"Mar 21, 2021",Sunday,2020,Lightning,Panthers,home,1-1,1-1,3-1,5-3,-140,6.0,2,W,O,0
+"Mar 21, 2021",Sunday,2020,Panthers,Lightning,away,1-1,1-1,1-3,3-5,127,6.0,-2,L,O,0
+"Mar 21, 2021",Sunday,2020,Penguins,Devils,home,1-0,0-1,0-0,1-2,-200,5.5,-1,L,U,1
+"Mar 21, 2021",Sunday,2020,Devils,Penguins,away,0-1,1-0,0-0,2-1,175,5.5,1,W,U,1
+"Mar 21, 2021",Sunday,2020,Stars,Predators,home,2-1,1-1,0-1,3-4,-185,5.5,-1,L,O,1
+"Mar 21, 2021",Sunday,2020,Predators,Stars,away,1-2,1-1,1-0,4-3,165,5.5,1,W,O,1
+"Mar 22, 2021",Monday,2020,Wild,Ducks,home,0-0,1-1,1-0,2-1,-256,5.5,1,W,U,0
+"Mar 22, 2021",Monday,2020,Ducks,Wild,away,0-0,1-1,0-1,1-2,220,5.5,-1,L,U,0
+"Mar 22, 2021",Monday,2020,Rangers,Sabres,home,0-0,3-1,2-2,5-3,-250,5.5,2,W,O,0
+"Mar 22, 2021",Monday,2020,Sabres,Rangers,away,0-0,1-3,2-2,3-5,215,5.5,-2,L,O,0
+"Mar 22, 2021",Monday,2020,Blue Jackets,Hurricanes,home,0-1,0-2,0-0,0-3,140,5.5,-3,L,U,0
+"Mar 22, 2021",Monday,2020,Hurricanes,Blue Jackets,away,1-0,2-0,0-0,3-0,-161,5.5,3,W,U,0
+"Mar 22, 2021",Monday,2020,Senators,Flames,home,1-0,0-0,1-1,2-1,155,6.0,1,W,U,0
+"Mar 22, 2021",Monday,2020,Flames,Senators,away,0-1,0-0,1-1,1-2,-172,6.0,-1,L,U,0
+"Mar 22, 2021",Monday,2020,Canucks,Jets,home,0-1,0-0,0-3,0-4,110,6.0,-4,L,U,0
+"Mar 22, 2021",Monday,2020,Jets,Canucks,away,1-0,0-0,3-0,4-0,-130,6.0,4,W,U,0
+"Mar 22, 2021",Monday,2020,Coyotes,Avalanche,home,0-2,0-1,1-2,1-5,215,5.5,-4,L,O,0
+"Mar 22, 2021",Monday,2020,Avalanche,Coyotes,away,2-0,1-0,2-1,5-1,-260,5.5,4,W,O,0
+"Mar 22, 2021",Monday,2020,Sharks,Kings,home,1-0,0-1,1-0,2-1,-125,5.5,1,W,U,0
+"Mar 22, 2021",Monday,2020,Kings,Sharks,away,0-1,1-0,0-1,1-2,113,5.5,-1,L,U,0
+"Mar 22, 2021",Monday,2020,Flyers,Islanders,home,0-0,1-0,0-1,1-2,100,5.5,-1,L,U,1
+"Mar 22, 2021",Monday,2020,Islanders,Flyers,away,0-0,0-1,1-0,2-1,-120,5.5,1,W,U,1
+"Mar 22, 2021",Monday,2020,Knights,Blues,home,1-0,0-1,4-0,5-1,-130,5.5,4,W,O,0
+"Mar 22, 2021",Monday,2020,Blues,Knights,away,0-1,1-0,0-4,1-5,118,5.5,-4,L,O,0
+"Mar 23, 2021",Tuesday,2020,Blackhawks,Panthers,home,2-0,1-1,0-1,3-2,145,6.5,1,W,U,0
+"Mar 23, 2021",Tuesday,2020,Panthers,Blackhawks,away,0-2,1-1,1-0,2-3,-161,6.5,-1,L,U,0
+"Mar 23, 2021",Tuesday,2020,Predators,Red Wings,home,1-0,1-0,0-0,2-0,-169,5.5,2,W,U,0
+"Mar 23, 2021",Tuesday,2020,Red Wings,Predators,away,0-1,0-1,0-0,0-2,152,5.5,-2,L,U,0
+"Mar 23, 2021",Tuesday,2020,Stars,Lightning,home,1-0,0-2,0-0,1-2,155,5.5,-1,L,U,0
+"Mar 23, 2021",Tuesday,2020,Lightning,Stars,away,0-1,2-0,0-0,2-1,-175,5.5,1,W,U,0
+"Mar 23, 2021",Tuesday,2020,Flyers,Devils,home,1-2,0-2,2-0,3-4,-155,6.0,-1,L,O,0
+"Mar 23, 2021",Tuesday,2020,Devils,Flyers,away,2-1,2-0,0-2,4-3,135,6.0,1,W,O,0
+"Mar 23, 2021",Tuesday,2020,Coyotes,Avalanche,home,2-2,0-1,2-1,5-4,200,5.5,1,W,O,1
+"Mar 23, 2021",Tuesday,2020,Avalanche,Coyotes,away,2-2,1-0,1-2,4-5,-224,5.5,-1,L,O,1
+"Mar 24, 2021",Wednesday,2020,Wild,Ducks,home,2-1,1-1,0-0,3-2,-263,5.5,1,W,U,0
+"Mar 24, 2021",Wednesday,2020,Ducks,Wild,away,1-2,1-1,0-0,2-3,226,5.5,-1,L,U,0
+"Mar 24, 2021",Wednesday,2020,Penguins,Sabres,home,2-1,2-0,1-1,5-2,-278,6.0,3,W,O,0
+"Mar 24, 2021",Wednesday,2020,Sabres,Penguins,away,1-2,0-2,1-1,2-5,238,6.0,-3,L,O,0
+"Mar 24, 2021",Wednesday,2020,Senators,Flames,home,0-0,0-1,3-0,3-1,160,6.0,2,W,U,0
+"Mar 24, 2021",Wednesday,2020,Flames,Senators,away,0-0,1-0,0-3,1-3,-178,6.0,-2,L,U,0
+"Mar 24, 2021",Wednesday,2020,Canucks,Jets,home,0-0,0-3,1-2,1-5,115,5.5,-4,L,O,0
+"Mar 24, 2021",Wednesday,2020,Jets,Canucks,away,0-0,3-0,2-1,5-1,-135,5.5,4,W,O,0
+"Mar 24, 2021",Wednesday,2020,Sharks,Kings,home,0-0,2-1,2-1,4-2,-105,5.5,2,W,O,0
+"Mar 24, 2021",Wednesday,2020,Kings,Sharks,away,0-0,1-2,1-2,2-4,-105,5.5,-2,L,O,0
