@@ -222,12 +222,12 @@ import plotly.express as px
 
 #st.subheader('Home Stand O/U Results')
 #fig1 = px.histogram(data[data["Home_Stand"]>0], x="Home_Stand", color='OUr',
-                    barmode='group', template='plotly_white')
+#                    barmode='group', template='plotly_white')
 #st.plotly_chart(fig1, use_container_width=True)
 
 #st.subheader('Road Trip O/U Results')
 #fig2 = px.histogram(data[data["Road_Trip"]>0], x="Road_Trip", color='OUr',
-                    barmode='group', template='plotly_white')
+#                    barmode='group', template='plotly_white')
 #st.plotly_chart(fig2, use_container_width=True)
 
 
