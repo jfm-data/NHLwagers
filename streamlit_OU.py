@@ -59,7 +59,7 @@ if start <= yesterday:
     new_data = get_data(start, yesterday).dropna(thresh=9)
     master_df = pd.concat([master_df, new_data])
     
-master_df.to_csv("master_df.csv", index=False)
+#master_df.to_csv("master_df.csv", index=False)
     
 raw_data = pd.read_csv('master_df.csv')
 
