@@ -207,7 +207,8 @@ today_np = np.datetime64(today)
 tonight_df= eda_df[['Team','Opp','Total','Home_Stand','Opp_road_trip','Days_Rest','Opp_Days_Rest', 'Opp_distance', 'Team_U',
                    'Opp_U','Team_O', 'Opp_O','Team_Goals_Scored', 'Opp_Goals_Scored','Team_Goals_Allowed', 'Opp_Goals_Allowed', "Date",'Site']]
 
-tonight_df = tonight_df.loc[(testdf['Date']==today_np) & (testdf['Site']=='home')].reset_index(drop=True)
+tonight_df = tonight_df.loc[(tonight_df['Date']==today_np) & (tonight_df['Site']=='home')].reset_index(drop=True)
+
 
 
 # Notify user that the data was successfully loaded.
