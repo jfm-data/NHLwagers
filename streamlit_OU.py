@@ -69,9 +69,9 @@ def get_data(date1, date2):
 
 #Check if the data needs updating
 if start <= yesterday:
-    new_data = get_data(start, yesterday).dropna(thresh=9)
+    new_data = get_data(start, today)
     master_df = pd.concat([master_df, new_data])
-
+    
 #Save updated data as csv    
 #master_df.to_csv("master_df.csv", index=False)
     
@@ -167,6 +167,8 @@ opp_home_stand = dict(zip(Teamkey, eda_df.Home_Stand))
 opp_road_trip = dict(zip(Teamkey, eda_df.Road_Trip))
 opp_func(eda_df)
 
+eda_df.Final = eda_df.Final.fillna('0-0')
+eda_df = eda_df.fillna(0)
 
 eda_df = pd.concat([eda_df, pd.get_dummies(eda_df.OUr)], axis=1)
 
@@ -200,9 +202,16 @@ cut_bins = [0, 500, 1000, 1500, 2000, 3000, 4000]
 eda_OU['Distance'] = pd.cut(eda_OU.loc[:,'Opp_distance'], bins=cut_bins, labels= cut_labels)
 eda_OU = eda_OU.sort_values('Date').reset_index(drop=True)
 
+#Tonight's games data
+today_np = np.datetime64(today)
+tonight_df= eda_df[['Team','Opp','Total','Home_Stand','Opp_road_trip','Days_Rest','Opp_Days_Rest', 'Opp_distance', 'Team_U',
+                   'Opp_U','Team_O', 'Opp_O','Team_Goals_Scored', 'Opp_Goals_Scored','Team_Goals_Allowed', 'Opp_Goals_Allowed', "Date",'Site']]
+
+tonight_df = tonight_df.loc[(testdf['Date']==today_np) & (testdf['Site']=='home')].reset_index(drop=True)
+
+
 # Notify user that the data was successfully loaded.
 data_load_state.text('Done & done!')
-
 
 
 
@@ -214,7 +223,7 @@ if st.button('Hide Raw Data'):
     st.write('Data Table Hidden')
 else:
     st.subheader("Tonight's Games --(Work in progress)")
-    st.dataframe(eda_df.style.highlight_max(axis=0))
+    st.dataframe(tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1))
 
 
 st.header('O/U Analysis')
