@@ -221,7 +221,7 @@ eda_OU = eda_OU.sort_values('Date').reset_index(drop=True)
 # Notify user that the data was successfully loaded.
 data_load_state.text('Checking and Fetching Data...Done & done!')
 
-st.write("check out this [link to the sister site for Team Analysis](https://share.streamlit.io/jfm-data/nhlwagers/main/streamlit_OU.py)")
+st.write("Check out this [link to the sister site for Team Analysis](https://share.streamlit.io/jfm-data/nhlwagers/main/streamlit_Team.py)")
 
 
 #############################################
