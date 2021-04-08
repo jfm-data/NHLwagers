@@ -221,6 +221,7 @@ eda_OU = eda_OU.sort_values('Date').reset_index(drop=True)
 # Notify user that the data was successfully loaded.
 data_load_state.text('Checking and Fetching Data...Done & done!')
 
+st.write("check out this [link to the sister site for Team Analysis](https://share.streamlit.io/jfm-data/nhlwagers/main/streamlit_OU.py)")
 
 
 #############################################
@@ -230,14 +231,14 @@ data_load_state.text('Checking and Fetching Data...Done & done!')
 
 st.subheader("Tonight's Games")
 #st.dataframe(tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1))
-df1 =tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1)
+df1 = tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1)
 df2 = tonight_df.iloc[:,:3]
 
 st.table(df2)
 st.dataframe(df1)
 ######################
 ## Space for Machine Learning Model
-####################
+#################### 
 
 st.subheader('Predictions')
 st.write('*Coming soon....* :sunglasses:')
