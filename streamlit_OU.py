@@ -25,10 +25,15 @@ from PIL import Image
 #with open("styles/style.css") as f:
 #    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
-image = Image.open('vegas_odds.jpg')
+st.markdown("""<h1 style="text-align:center;color:white;font-weight:bolder;font-size:100px;background:
+            -webkit-linear-gradient(#e20b0b,#ec720e,#46a3e0,#093ff0); -webkit-background-clip:
+            text;-webkit-text-fill-color: transparent;">NHL<br>Wager<br>Analytics</h1>""",unsafe_allow_html=True)
+# st.markdown('<h1 style="text-align:center;color:white;background-image:url("m1.png");">An analysis..</h1>',unsafe_allow_html=True)
+#st.markdown('<h2 style="text-align:center;color:black;">An analysis..</h2>',unsafe_allow_html=True)
+#image = Image.open('Betslip.jpg')
 
-st.title('NHL Wager Analytics - 2021')
-st.image(image, use_column_width=True)
+#st.title('NHL Wager Analytics - 2021')
+#st.image(image, use_column_width=True)
 
 
 # Load data 
@@ -194,25 +199,27 @@ eda_df['Opp_Goals_Allowed'] = eda_df.groupby('Opp')['total_Opp_goals'].transform
 
 #eda_df['Units'] = eda_df.apply(lambda x: unit_value(x.Line, x.SUr), axis=1)
 
+#Tonight's games data
+today_np = np.datetime64(today)
+tonight_df= eda_df[['Team','Opp','Total','Home_Stand','Opp_road_trip','Days_Rest','Opp_Days_Rest', 'Opp_distance', 'Team_U',
+                   'Opp_U','Team_O', 'Opp_O','Team_Goals_Scored', 'Opp_Goals_Scored','Team_Goals_Allowed', 'Opp_Goals_Allowed', "Date",'Site']]
+
+
+tonight_df = tonight_df.loc[(tonight_df['Date']==today_np) & (tonight_df['Site']=='home')].reset_index(drop=True)
 #Seperating the two EDA dataframes
-eda_OU = eda_df.loc[eda_df['Site']=='home']
+eda_OU = eda_df.loc[(eda_df['Site']=='home') & (eda_df['Date']<today_np)]
 eda_OU.insert(3, "Combined_Rest", eda_OU.loc[:,'Days_Rest'] + eda_OU.loc[:,'Opp_Days_Rest']) 
 cut_labels = [500, 1000, 1500, 2000, 3000, 4000]
 cut_bins = [0, 500, 1000, 1500, 2000, 3000, 4000]
 eda_OU['Distance'] = pd.cut(eda_OU.loc[:,'Opp_distance'], bins=cut_bins, labels= cut_labels)
 eda_OU = eda_OU.sort_values('Date').reset_index(drop=True)
 
-#Tonight's games data
-today_np = np.datetime64(today)
-tonight_df= eda_df[['Team','Opp','Total','Home_Stand','Opp_road_trip','Days_Rest','Opp_Days_Rest', 'Opp_distance', 'Team_U',
-                   'Opp_U','Team_O', 'Opp_O','Team_Goals_Scored', 'Opp_Goals_Scored','Team_Goals_Allowed', 'Opp_Goals_Allowed', "Date",'Site']]
 
-tonight_df = tonight_df.loc[(tonight_df['Date']==today_np) & (tonight_df['Site']=='home')].reset_index(drop=True)
 
 
 
 # Notify user that the data was successfully loaded.
-data_load_state.text('Done & done!')
+data_load_state.text('Checking and Fetching Data...Done & done!')
 
 
 
@@ -220,38 +227,80 @@ data_load_state.text('Done & done!')
 ###  Streamlit Design  ######################
 ############################################
 
-if st.button('Hide Raw Data'):
-    st.write('Data Table Hidden')
-else:
-    st.subheader("Tonight's Games --(Work in progress)")
-    st.dataframe(tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1))
 
+st.subheader("Tonight's Games")
+#st.dataframe(tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1))
+df1 =tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1)
+df2 = tonight_df.iloc[:,:3]
+
+st.table(df2)
+st.dataframe(df1)
+######################
+## Space for Machine Learning Model
+####################
+
+st.subheader('Predictions')
+st.write('*Coming soon....* :sunglasses:')
 
 st.header('O/U Analysis')
 
-st.subheader('Overall')
-fig_OU = px.histogram(eda_OU, x="Total", color='OUr',
-                    barmode='group', template='plotly_dark')
+date_select = st.slider(
+     "Select Dates",
+     datetime.date(2021,1,13), yesterday,
+     value=(datetime.date(2021,1,13), yesterday),
+     format="MM/DD/YY")
+st.write("Start time:", date_select[0])
+st.write("Endtime:", date_select[1])
+
+filtered_df= eda_OU[(eda_OU['Date'] >= np.datetime64(date_select[0]))
+                       & (eda_OU['Date'] <= np.datetime64(date_select[1]))]
+
+
+
+#st.subheader('Overall')
+fig_OU = px.histogram(filtered_df, x="Total", color='OUr',
+                    barmode='group', template='plotly_dark', title="Totals",
+                    color_discrete_map={
+    "O":"darkseagreen", 
+    "U":"navy", 
+    "P":"gold"})
 st.plotly_chart(fig_OU, use_container_width=True)
 
-st.subheader('By Combined Days Rest')
-fig2 = px.histogram(eda_OU[eda_OU["Combined_Rest"] <10], x="Combined_Rest", color='OUr',
-                   barmode='group', template='plotly_dark')
-st.plotly_chart(fig2, use_container_width=True)
+#st.subheader('By Combined Days Rest')
+fig_DaysRest = px.histogram(filtered_df[filtered_df["Combined_Rest"] <10],
+                            x="Combined_Rest", color='OUr', title='Test',
+                   barmode='group', template='plotly_dark', color_discrete_map={
+    "O":"darkseagreen", 
+    "U":"navy", 
+    "P":"gold"})
+st.plotly_chart(fig_DaysRest, use_container_width=True)
 
-st.subheader('By Distance of Road Team from Home')
-fig3 = px.histogram(eda_OU, x="Distance", color='OUr',
-                   barmode='group', template='plotly_dark')
+
+#st.subheader('By Distance of Road Team from Home')
+fig3 = px.histogram(filtered_df, x="Distance", color='OUr',
+                   barmode='group', template='plotly_dark',title='By Distance of Road Team from Home',
+                   color_discrete_map={
+    "O":"darkseagreen", 
+    "U":"navy", 
+    "P":"gold"})
 st.plotly_chart(fig3, use_container_width=True)
 
-st.subheader('By Length of Road Trip')
-fig4 = px.histogram(eda_OU, x="Opp_road_trip", color='OUr',
-                   barmode='group', template='plotly_dark')
+
+#st.subheader('By Length of Road Trip')
+fig4 = px.histogram(filtered_df, x="Opp_road_trip", color='OUr',
+                   barmode='group', template='plotly_dark', title='By Length of Road Trip',
+                   color_discrete_map={
+    "O":"darkseagreen", 
+    "U":"navy", 
+    "P":"gold"})
 st.plotly_chart(fig4, use_container_width=True)
 
-st.subheader('By Length of Home Stand')
-fig5 = px.histogram(eda_OU, x="Home_Stand", color='OUr',
-                   barmode='group', template='plotly_dark')
+#st.subheader('By Length of Home Stand')
+fig5 = px.histogram(filtered_df, x="Home_Stand", color='OUr',title='By Length of Home Stand',
+                   barmode='group', template='plotly_dark', color_discrete_map={
+    "O":"darkseagreen", 
+    "U":"navy", 
+    "P":"gold"})
 st.plotly_chart(fig5, use_container_width=True)
 
 
@@ -272,7 +321,7 @@ st.plotly_chart(fig5, use_container_width=True)
 
 
 #Filtering For Home and Away
-st.header('O/U Team Analysis')
+st.header('O/U Team Analysis -- TO BE MOVED')
 team_select = st.selectbox("Select Team",
                  list(pd.unique(eda_df.Team)))
 st.write('You selected', team_select)
