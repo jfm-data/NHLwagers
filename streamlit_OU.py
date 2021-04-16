@@ -27,7 +27,7 @@ from PIL import Image
 
 st.set_page_config(
     page_title="O/U Hockey Analytics",
-    page_icon=":hockey:"
+    page_icon=":ice_hockey_stick_and_puck:"
 )
 st.markdown("""<h1 style="text-align:center;color:white;font-weight:bolder;font-size:100px;background:
             -webkit-linear-gradient(#e20b0b,#ec720e,#46a3e0,#093ff0); -webkit-background-clip:
