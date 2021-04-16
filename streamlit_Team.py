@@ -26,7 +26,7 @@ from PIL import Image
 #    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 st.set_page_config(
-    page_title="O/U Hockey Analytics",
+    page_title="Hockey Analytics",
     page_icon=":ice_hockey_stick_and_puck:"
 )
 
