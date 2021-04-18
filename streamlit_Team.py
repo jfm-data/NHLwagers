@@ -134,7 +134,7 @@ def road_trips(df):
     df.insert(11, "Road_Trip", trips("away", df.TeamChange, df.Site))
     df.Days_Rest = df.Days_Rest.dt.days
     df.Days_Rest = df.Days_Rest.fillna(5)
-    df.Days_Rest = df.Days_Rest.astype(int)
+    df.Days_Rest = df.Days_Rest.astype(int)-1
     df.loc[df.Days_Rest < 0, 'Days_Rest'] = 5
     df = df.drop('TeamChange', axis=1)
     return df
