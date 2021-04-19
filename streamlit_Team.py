@@ -229,7 +229,7 @@ eda_OU = eda_OU.sort_values('Date').reset_index(drop=True)
 NHLimage_dict = pd.Series(nhltable.code.values,index=nhltable.Team).to_dict()
 
 # Notify user that the data was successfully loaded.
-data_load_state.text('Checking and Fetching Data...Done & done!')
+data_load_state.text('Checking and Fetching Data...Finished Loading!')
 
 #############################################
 ###  Streamlit Design  ######################
