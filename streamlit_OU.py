@@ -236,7 +236,7 @@ st.write("Check out this [link to the sister site for Team Analysis](https://sha
 st.subheader("Tonight's Games")
 #st.dataframe(tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1))
 df1 = tonight_df.style.background_gradient(cmap='viridis', low=0.7, high=0).set_precision(1)
-df2 = tonight_df.iloc[:,:3]
+df2 = tonight_df.iloc[:,:3].style.set_precision(1)
 
 st.table(df2)
 st.dataframe(df1)
