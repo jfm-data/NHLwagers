@@ -222,6 +222,7 @@ cut_bins = [0, 500, 1000, 1500, 2000, 3000, 4000]
 eda_OU['Distance'] = pd.cut(eda_OU.loc[:,'Opp_distance'], bins=cut_bins, labels= cut_labels)
 eda_OU = eda_OU.sort_values('Date').reset_index(drop=True)
 
+NHLimage_dict = pd.Series(nhltable.code.values,index=nhltable.Team).to_dict()
 
 # Notify user that the data was successfully loaded.
 data_load_state.text('Checking and Fetching Data...Done & done!')
@@ -241,7 +242,7 @@ team = st.sidebar.selectbox("Select Team for Analysis",
                  list(pd.unique(eda_df.Team)))
 #st.sidebar.write('Team:', team)
 
-image = Image.open(f'NHLimages/{image_dict[team]}.png')
+image = Image.open(f'NHLimages/{NHLimage_dict[team]}.png')
 
 with col1:
     st.write("")
