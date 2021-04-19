@@ -29,15 +29,21 @@ st.set_page_config(
     page_title="O/U Hockey Analytics",
     page_icon=":ice_hockey_stick_and_puck:"
 )
-st.markdown("""<h1 style="text-align:center;color:white;font-weight:bolder;font-size:100px;background:
-            -webkit-linear-gradient(#e20b0b,#ec720e,#46a3e0,#093ff0); -webkit-background-clip:
-            text;-webkit-text-fill-color: transparent;">NHL<br>Wager<br>Analytics</h1>""",unsafe_allow_html=True)
-# st.markdown('<h1 style="text-align:center;color:white;background-image:url("m1.png");">An analysis..</h1>',unsafe_allow_html=True)
-#st.markdown('<h2 style="text-align:center;color:black;">An analysis..</h2>',unsafe_allow_html=True)
-#image = Image.open('Betslip.jpg')
+h_col1, h_col2 = st.beta_columns([7,6])
+#Dummy data to get the header to display correctly
+st.markdown("""<Head>
+            <Title> Test Title</Title><link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> </Head>""",unsafe_allow_html=True)
 
-#st.title('NHL Wager Analytics - 2021')
-#st.image(image, use_column_width=True)
+
+logo_image = Image.open(f'NHLimages/mayflower.jpg') 
+#Title/Header
+with h_col1:
+    st.markdown("""<h1 style="text-align:center;color:white;font-weight:bolder;font-size:70px;font-family:helvetica; background:
+                -webkit-linear-gradient(#a73305,#000000,#093ff0); -webkit-background-clip:
+                text;-webkit-text-fill-color: transparent;">NHL<br>Wager<br>Analytics</h1>""",unsafe_allow_html=True)
+
+with h_col2:
+    st.image(logo_image)
 
 
 # Load data 
