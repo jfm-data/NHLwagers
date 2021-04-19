@@ -1,14 +1,14 @@
 ,City,Team,Citypoint,Shortname,code
-0,Anaheim,Ducks,"33 50m 5.10576s N, 117 54m 42.2352s W",Ana,Ana
-1,Boston,Bruins,"42 21m 36.9122s N, 71 3m 29.8483s W",Bos,Bos
-2,Buffalo,Sabres,"42 53m 12.1798s N, 78 52m 42.2119s W",Buf,Buf
+0,Anaheim,Ducks,"33 50m 5.10576s N, 117 54m 42.2352s W",Ana,ana
+1,Boston,Bruins,"42 21m 36.9122s N, 71 3m 29.8483s W",Bos,bos
+2,Buffalo,Sabres,"42 53m 12.1798s N, 78 52m 42.2119s W",Buf,buf
 3,Calgary,Flames,"51 3m 12.3242s N, 114 3m 45.3211s W",Cal,cgy
-4,Chicago,Blackhawks,"41 52m 32.0218s N, 87 37m 27.9163s W",Chi,Chi
+4,Chicago,Blackhawks,"41 52m 32.0218s N, 87 37m 27.9163s W",Chi,chi
 5,Columbus,Blue Jackets,"39 57m 44.1364s N, 83 0m 2.5434s W",Col,cbj
-6,Dallas,Stars,"32 46m 34.5788s N, 96 47m 48.6812s W",Dal,Dal
-7,Denver,Avalanche,"39 44m 21.251s N, 104 59m 5.50428s W",Den,Col
-8,Detroit,Red Wings,"42 19m 53.5832s N, 83 2m 47.9051s W",Det,Det
-9,Edmonton,Oilers,"53 32m 7.4796s N, 113 30m 28.7856s W",Edm,Edm
+6,Dallas,Stars,"32 46m 34.5788s N, 96 47m 48.6812s W",Dal,dal
+7,Denver,Avalanche,"39 44m 21.251s N, 104 59m 5.50428s W",Den,col
+8,Detroit,Red Wings,"42 19m 53.5832s N, 83 2m 47.9051s W",Det,det
+9,Edmonton,Oilers,"53 32m 7.4796s N, 113 30m 28.7856s W",Edm,edm
 10,Phoenix,Coyotes,"33 26m 54.3721s N, 112 4m 26.9101s W",Pho,ari
 11,Las Vegas,Knights,"36 10m 2.12124s N, 115 8m 54.6587s W",Las,vgs
 12,Los Angeles,Kings,"34 3m 13.2872s N, 118 14m 33.9576s W",Los,la
@@ -24,7 +24,7 @@
 22,St. Louis,Blues,"38 39m 10.6362s N, 90 14m 28.0196s W",St.,stl
 23,St. Paul,Wild,"44 57m 1.45332s N, 93 6m 5.40936s W",St.,min
 24,Sunrise,Panthers,"26 10m 0.07968s N, 80 16m 43.5263s W",Sun,fla
-25,Tampa,Lightning,"27 56m 51.9342s N, 82 27m 30.3984s W",Tam,TB
+25,Tampa,Lightning,"27 56m 51.9342s N, 82 27m 30.3984s W",Tam,tb
 26,Toronto,Maple Leafs,"43 39m 12.5341s N, 79 23m 2.16492s W",Tor,tor
 27,Uniondale,Islanders,"40 42m 11.2014s N, 73 35m 22.2603s W",Uni,nyi
 28,Vancouver,Canucks,"49 15m 39.1406s N, 123 6m 50.2304s W",Van,van
