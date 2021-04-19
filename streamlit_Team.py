@@ -30,6 +30,8 @@ st.set_page_config(
     page_icon=":ice_hockey_stick_and_puck:"
 )
 
+col1, col2, col3  = st.sidebar.beta_columns([1,7,1])
+
 st.markdown("""<h1 style="text-align:center;color:white;font-weight:bolder;font-size:100px;background:
             -webkit-linear-gradient(#e20b0b,#ec720e,#46a3e0,#093ff0); -webkit-background-clip:
             text;-webkit-text-fill-color: transparent;">NHL<br>Wager<br>Analytics</h1>""",unsafe_allow_html=True)
@@ -238,6 +240,18 @@ st.sidebar.write('*Select Parameters*')
 team = st.sidebar.selectbox("Select Team for Analysis",
                  list(pd.unique(eda_df.Team)))
 #st.sidebar.write('Team:', team)
+
+image = Image.open(f'NHLimages/{image_dict[team]}.png')
+
+with col1:
+    st.write("")
+
+with col2:
+    st.image(image)
+
+with col3:
+    st.write("")
+    
 filtered_data = eda_df[eda_df['Team'] == team]
 
 
