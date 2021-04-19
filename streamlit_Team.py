@@ -242,6 +242,7 @@ team = st.sidebar.selectbox("Select Team for Analysis",
                  list(pd.unique(eda_df.Team)))
 #st.sidebar.write('Team:', team)
 
+@st.cache
 image = Image.open(f'NHLimages/{NHLimage_dict[team]}.png')
 
 with col1:
