@@ -169,6 +169,9 @@ eda_df = clean_data(master_df)
 eda_df = distance_calc(eda_df)
 eda_df = road_trips(eda_df)
 
+#Adding Division
+eda_df = pd.merge(eda_df, nhltable[['Team', 'Division']], on='Team', how="left" )
+
 #Create keys for pairing
 Teamkey = []
 Oppkey = []
@@ -272,18 +275,18 @@ filtered_df= eda_OU[(eda_OU['Date'] >= np.datetime64(date_select[0]))
 fig_OU = px.histogram(filtered_df, x="Total", color='OUr',
                     barmode='group', template='plotly_dark', title="Totals",
                     color_discrete_map={
-    "O":"darkseagreen", 
-    "U":"navy", 
-    "P":"gold"})
+    "O":"#FF9F1C", 
+    "U":"#011627", 
+    "P":"#2EC4B6"})
 st.plotly_chart(fig_OU, use_container_width=True)
 
 #st.subheader('By Combined Days Rest')
 fig_DaysRest = px.histogram(filtered_df[filtered_df["Combined_Rest"] <10],
                             x="Combined_Rest", color='OUr', title='Test',
                    barmode='group', template='plotly_dark', color_discrete_map={
-    "O":"darkseagreen", 
-    "U":"navy", 
-    "P":"gold"})
+    "O":"#FF9F1C", 
+    "U":"#011627", 
+    "P":"#2EC4B6"})
 st.plotly_chart(fig_DaysRest, use_container_width=True)
 
 
@@ -291,9 +294,9 @@ st.plotly_chart(fig_DaysRest, use_container_width=True)
 fig3 = px.histogram(filtered_df, x="Distance", color='OUr',
                    barmode='group', template='plotly_dark',title='By Distance of Road Team from Home',
                    color_discrete_map={
-    "O":"darkseagreen", 
-    "U":"navy", 
-    "P":"gold"})
+    "O":"#FF9F1C", 
+    "U":"#011627", 
+    "P":"#2EC4B6"})
 st.plotly_chart(fig3, use_container_width=True)
 
 
@@ -301,20 +304,29 @@ st.plotly_chart(fig3, use_container_width=True)
 fig4 = px.histogram(filtered_df, x="Opp_road_trip", color='OUr',
                    barmode='group', template='plotly_dark', title='By Length of Road Trip',
                    color_discrete_map={
-    "O":"darkseagreen", 
-    "U":"navy", 
-    "P":"gold"})
+    "O":"#FF9F1C", 
+    "U":"#011627", 
+    "P":"#2EC4B6"})
 st.plotly_chart(fig4, use_container_width=True)
 
 #st.subheader('By Length of Home Stand')
 fig5 = px.histogram(filtered_df, x="Home_Stand", color='OUr',title='By Length of Home Stand',
                    barmode='group', template='plotly_dark', color_discrete_map={
-    "O":"darkseagreen", 
-    "U":"navy", 
-    "P":"gold"})
+    "O":"#FF9F1C", 
+    "U":"#011627", 
+    "P":"#2EC4B6"})
 st.plotly_chart(fig5, use_container_width=True)
 
+st.subheader('Division Analysis')
+div_filter = eda_df[eda_df['Division']==div_select]
 
+fig_OU = px.histogram(div_filter, y="Team", color='OUr', 
+                    barmode='group', template= 'simple_white', title="Totals",
+                    color_discrete_map={
+    "O":"#FF9F1C", 
+    "U":"#011627", 
+    "P":"#2EC4B6"})
+st.plotly_chart(fig_OU, use_container_width=True)
 
 #st.subheader('Select Parameters for situational outputs')
 
@@ -331,27 +343,27 @@ st.plotly_chart(fig5, use_container_width=True)
 
 
 
-#Filtering For Home and Away
-st.header('O/U Team Analysis -- TO BE MOVED')
-team_select = st.selectbox("Select Team",
-                 list(pd.unique(eda_df.Team)))
-st.write('You selected', team_select)
+# #Filtering For Home and Away
+# st.header('O/U Team Analysis -- TO BE MOVED')
+# team_select = st.selectbox("Select Team",
+#                  list(pd.unique(eda_df.Team)))
+# st.write('You selected', team_select)
 
-filtered_data = eda_df[eda_df['Team'] == team_select]
+# filtered_data = eda_df[eda_df['Team'] == team_select]
 
-home_away = st.selectbox("Is the Team Home or Away?",
-                 ('home', 'away'))
-st.write('You selected', home_away)
+# home_away = st.selectbox("Is the Team Home or Away?",
+#                  ('home', 'away'))
+# st.write('You selected', home_away)
 
-filtered_data = filtered_data[filtered_data['Site'] == home_away]
+# filtered_data = filtered_data[filtered_data['Site'] == home_away]
 
-days_rest = st.slider('Days Rest', 0, 5, 2)
-filtered_data = filtered_data[filtered_data['Days_Rest'] == days_rest]
+# days_rest = st.slider('Days Rest', 0, 5, 2)
+# filtered_data = filtered_data[filtered_data['Days_Rest'] == days_rest]
 
-st.subheader('O/U by Selected Inputs')
-fig_OU_team = px.histogram(filtered_data, x="Total", color='OUr',
-                    barmode='group', template='plotly_dark')
-st.plotly_chart(fig_OU_team, use_container_width=True)
+# st.subheader('O/U by Selected Inputs')
+# fig_OU_team = px.histogram(filtered_data, x="Total", color='OUr',
+#                     barmode='group', template='plotly_dark')
+# st.plotly_chart(fig_OU_team, use_container_width=True)
 
 #Filtering For Distance
 #Distance_to_filter = st.slider('Distance From Home', 0.0, max(data.Distance), (0.0, 500.0))
