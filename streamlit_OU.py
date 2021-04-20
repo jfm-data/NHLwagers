@@ -324,7 +324,7 @@ div_select = st.selectbox("Select Division?",
 
 div_filter = eda_df[eda_df['Division']==div_select]
 
-fig_OU = px.histogram(div_filter, y="Team", color='OUr', 
+fig_OU = px.histogram(div_filter, y="Team", color='OUr', facet_row='OUr',
                     barmode='group', template= 'simple_white', title="Totals",
                     color_discrete_map={
     "O":"#FF9F1C", 
