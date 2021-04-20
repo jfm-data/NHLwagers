@@ -317,7 +317,11 @@ fig5 = px.histogram(filtered_df, x="Home_Stand", color='OUr',title='By Length of
     "P":"#2EC4B6"})
 st.plotly_chart(fig5, use_container_width=True)
 
+
 st.subheader('Division Analysis')
+div_select = st.selectbox("Select Division?",
+                 list(pd.unique(eda_df.Division)))
+
 div_filter = eda_df[eda_df['Division']==div_select]
 
 fig_OU = px.histogram(div_filter, y="Team", color='OUr', 
