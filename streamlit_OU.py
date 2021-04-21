@@ -29,21 +29,18 @@ st.set_page_config(
     page_title="O/U Hockey Analytics",
     page_icon=":ice_hockey_stick_and_puck:"
 )
-h_col1, h_col2 = st.beta_columns([7,6])
+
 #Dummy data to get the header to display correctly
 st.markdown("""<Head>
             <Title> Test Title</Title><link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> </Head>""",unsafe_allow_html=True)
 
 
-logo_image = Image.open(f'NHLimages/mayflower.jpg') 
 #Title/Header
-with h_col1:
-    st.markdown("""<h1 style="text-align:center;color:white;font-weight:bolder;font-size:70px;font-family:helvetica; background:
+
+st.markdown("""<h1 style="text-align:center;color:white;font-weight:bolder;font-size:70px;font-family:helvetica; background:
                 -webkit-linear-gradient(#a73305,#000000,#093ff0); -webkit-background-clip:
                 text;-webkit-text-fill-color: transparent;">NHL<br>Wager<br>Analytics</h1>""",unsafe_allow_html=True)
 
-with h_col2:
-    st.image(logo_image)
 
 
 # Load data 
@@ -54,9 +51,12 @@ data_load_state = st.text('Checking and Fetching Data...')
 #####################################
 
 master_df = pd.read_csv('master_df.csv')
+master_df = master_df.dropna(thresh=10)
+
 start = pd.to_datetime(master_df.Date[-1:]).dt.date.values[0]+datetime.timedelta(days=1)
 today = datetime.date.today()
 yesterday = today-datetime.timedelta(days = 1) 
+
 
 #Function to covert dates to string
 def covert_dates(date1, date2):
@@ -83,15 +83,14 @@ def get_data(date1, date2):
     return new_df
 
 #Check if the data needs updating
-if start <= yesterday:
+
+
+if start <= today:
     new_data = get_data(start, today)
     master_df = pd.concat([master_df, new_data])
     
 #Save updated data as csv    
 #master_df.to_csv("master_df.csv", index=False)
-    
-raw_data = pd.read_csv('master_df.csv')
-
 
 def clean_data(df):
     df.Date =pd.to_datetime(df.Date)
@@ -249,6 +248,7 @@ df2 = tonight_df.iloc[:,:3].style.set_precision(1)
 
 st.table(df2)
 st.dataframe(df1)
+
 ######################
 ## Space for Machine Learning Model
 #################### 
@@ -401,6 +401,8 @@ st.plotly_chart(fig_OU, use_container_width=True)
 #                    barmode='group', template='plotly_white')
 #st.plotly_chart(fig2, use_container_width=True)
 
+st.dataframe(eda_df.iloc[:,1:])
+
 st.header('Unit Analysis')
 unit_team = st.selectbox("Select Team for Unit",
                  list(pd.unique(eda_df.Team)))
@@ -411,5 +413,4 @@ st.write('You selected', unit_team)
 #Line_to_filter = st.slider('Unit Line', 0.0, max(eda_OU.Total), (0.0, 5.5))
 #filtered_data2 = filtered_data[(eda_OU['Total'] >= Line_to_filter[0]) &
 #                              (eda_OU['Total'] <= Line_to_filter[1])]
-
 
