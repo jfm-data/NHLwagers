@@ -400,7 +400,7 @@ st.plotly_chart(fig_OU, use_container_width=True)
 #fig2 = px.histogram(data[data["Road_Trip"]>0], x="Road_Trip", color='OUr',
 #                    barmode='group', template='plotly_white')
 #st.plotly_chart(fig2, use_container_width=True)
-
+st.text("Raw Data")
 st.dataframe(eda_df.iloc[:,1:])
 
 st.header('Unit Analysis')
